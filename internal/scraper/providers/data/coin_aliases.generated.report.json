@@ -1,0 +1,1395 @@
+{
+  "source": "/Users/munawiki/Downloads/coin_mappings.md",
+  "coinGeckoListURL": "https://api.coingecko.com/api/v3/coins/list?include_platform=false",
+  "generatedAt": "2026-04-06T07:55:55.052Z",
+  "rowCount": 1350,
+  "manualOverrides": {
+    "axl-usdc": "axlusdc",
+    "havven": "SNX",
+    "iost": "iostoken",
+    "pundi-x": "pundi-x-2",
+    "render-token": "RENDER",
+    "rocket-pool": "RPL",
+    "safe-coin": "safe-coin-2",
+    "simon - s - cat": "simon-s-cat",
+    "stormx": "storm",
+    "wemix": "wemix-token",
+    "wormhole": "W"
+  },
+  "summary": {
+    "generatedLocalResultCount": 1276,
+    "generatedAliasCount": 3187,
+    "guardedAliasCount": 56,
+    "curatedReuseCount": 78,
+    "generatedCatalogCount": 1272,
+    "referenceOnlyRowCount": 12,
+    "ambiguousCuratedCount": 0,
+    "curatedAliasCollisionCount": 49,
+    "generatedAliasCollisionCount": 0
+  },
+  "samples": {
+    "curatedReuseRows": [
+      {
+        "docID": "0x",
+        "target": "ZRX",
+        "reason": "curated_match",
+        "aliases": [
+          "0x",
+          "zrx",
+          "0x protocol",
+          "제로엑스"
+        ]
+      },
+      {
+        "docID": "1inch",
+        "target": "1INCH",
+        "reason": "curated_match",
+        "aliases": [
+          "원인치",
+          "1inch"
+        ]
+      },
+      {
+        "docID": "aave",
+        "target": "AAVE",
+        "reason": "curated_match",
+        "aliases": [
+          "에이브",
+          "aave"
+        ]
+      },
+      {
+        "docID": "algorand",
+        "target": "ALGO",
+        "reason": "curated_match",
+        "aliases": [
+          "알고랜드",
+          "algo"
+        ]
+      },
+      {
+        "docID": "aptos",
+        "target": "APT",
+        "reason": "curated_match",
+        "aliases": [
+          "앱토스",
+          "apt"
+        ]
+      },
+      {
+        "docID": "arbitrum",
+        "target": "ARB",
+        "reason": "curated_match",
+        "aliases": [
+          "아비트럼",
+          "arb"
+        ]
+      },
+      {
+        "docID": "avalanche-2",
+        "target": "AVAX",
+        "reason": "curated_match",
+        "aliases": [
+          "아발란체",
+          "avax"
+        ]
+      },
+      {
+        "docID": "axie-infinity",
+        "target": "AXS",
+        "reason": "curated_match",
+        "aliases": [
+          "엑시",
+          "axs",
+          "엑시인피니티"
+        ]
+      },
+      {
+        "docID": "axl-usdc",
+        "target": "axlusdc",
+        "reason": "manual_override",
+        "aliases": [
+          "엑셀유에스디씨"
+        ]
+      },
+      {
+        "docID": "basic-attention-token",
+        "target": "BAT",
+        "reason": "curated_match",
+        "aliases": [
+          "basic-attention-token",
+          "bat",
+          "basic attention",
+          "베이직어텐션토큰"
+        ]
+      },
+      {
+        "docID": "binancecoin",
+        "target": "BNB",
+        "reason": "curated_match",
+        "aliases": [
+          "비엔비",
+          "bnb",
+          "바이낸스코인",
+          "바이낸스",
+          "븐브",
+          "비앤비",
+          "바이낸스 코인"
+        ]
+      },
+      {
+        "docID": "bitcoin",
+        "target": "BTC",
+        "reason": "curated_match",
+        "aliases": [
+          "비트코인",
+          "비트",
+          "btc",
+          "빗코",
+          "빚투코인"
+        ]
+      },
+      {
+        "docID": "bitcoin-cash",
+        "target": "BCH",
+        "reason": "curated_match",
+        "aliases": [
+          "비트코인캐시",
+          "bch",
+          "비캐"
+        ]
+      },
+      {
+        "docID": "blur",
+        "target": "BLUR",
+        "reason": "curated_match",
+        "aliases": [
+          "블러",
+          "blur"
+        ]
+      },
+      {
+        "docID": "bonk",
+        "target": "BONK",
+        "reason": "curated_match",
+        "aliases": [
+          "봉크",
+          "bonk"
+        ]
+      },
+      {
+        "docID": "cardano",
+        "target": "ADA",
+        "reason": "curated_match",
+        "aliases": [
+          "에이다",
+          "카르다노",
+          "ada"
+        ]
+      },
+      {
+        "docID": "celestia",
+        "target": "TIA",
+        "reason": "curated_match",
+        "aliases": [
+          "셀레스티아",
+          "celestia",
+          "tia"
+        ]
+      },
+      {
+        "docID": "chainlink",
+        "target": "LINK",
+        "reason": "curated_match",
+        "aliases": [
+          "체인링크",
+          "link"
+        ]
+      },
+      {
+        "docID": "compound-governance-token",
+        "target": "COMP",
+        "reason": "curated_match",
+        "aliases": [
+          "컴파운드",
+          "compound-governance-token",
+          "comp",
+          "compound"
+        ]
+      },
+      {
+        "docID": "cosmos",
+        "target": "ATOM",
+        "reason": "curated_match",
+        "aliases": [
+          "코스모스",
+          "atom",
+          "아톰"
+        ]
+      },
+      {
+        "docID": "curve-dao-token",
+        "target": "CRV",
+        "reason": "curated_match",
+        "aliases": [
+          "crv",
+          "커브다오"
+        ]
+      },
+      {
+        "docID": "decentraland",
+        "target": "MANA",
+        "reason": "curated_match",
+        "aliases": [
+          "디센트럴랜드",
+          "mana"
+        ]
+      },
+      {
+        "docID": "dogecoin",
+        "target": "DOGE",
+        "reason": "curated_match",
+        "aliases": [
+          "도지",
+          "도지코인",
+          "doge"
+        ]
+      },
+      {
+        "docID": "dogwifcoin",
+        "target": "WIF",
+        "reason": "curated_match",
+        "aliases": [
+          "도지위프햇",
+          "wif"
+        ]
+      },
+      {
+        "docID": "eos",
+        "target": "EOS",
+        "reason": "curated_match",
+        "aliases": [
+          "이오스",
+          "eos"
+        ]
+      },
+      {
+        "docID": "ethereum",
+        "target": "ETH",
+        "reason": "curated_match",
+        "aliases": [
+          "이더리움",
+          "이더",
+          "eth"
+        ]
+      },
+      {
+        "docID": "ethereum-classic",
+        "target": "ETC",
+        "reason": "curated_match",
+        "aliases": [
+          "이더리움클래식",
+          "etc",
+          "이클"
+        ]
+      },
+      {
+        "docID": "ethereum-name-service",
+        "target": "ENS",
+        "reason": "curated_match",
+        "aliases": [
+          "ethereum-name-service",
+          "ens",
+          "ethereum name service"
+        ]
+      },
+      {
+        "docID": "fantom",
+        "target": "FTM",
+        "reason": "curated_match",
+        "aliases": [
+          "팬텀",
+          "ftm"
+        ]
+      },
+      {
+        "docID": "fetch-ai",
+        "target": "FET",
+        "reason": "curated_match",
+        "aliases": [
+          "페치",
+          "페치에이아이",
+          "fetch-ai",
+          "fet",
+          "artificial superintelligence alliance"
+        ]
+      }
+    ],
+    "generatedCatalogRows": [
+      {
+        "docID": "1-coin-can-change-your-life",
+        "target": "1-coin-can-change-your-life",
+        "reason": "generated_catalog",
+        "aliases": [
+          "1-coin-can-change-your-life",
+          "1 coin can change your life"
+        ]
+      },
+      {
+        "docID": "1guy",
+        "target": "1guy",
+        "reason": "reference_only",
+        "aliases": [
+          "1guy"
+        ]
+      },
+      {
+        "docID": "404-gen",
+        "target": "404-gen",
+        "reason": "generated_catalog",
+        "aliases": [
+          "404-gen",
+          "sn17",
+          "404—gen"
+        ]
+      },
+      {
+        "docID": "67coin",
+        "target": "67coin",
+        "reason": "generated_catalog",
+        "aliases": [
+          "67coin"
+        ]
+      },
+      {
+        "docID": "a7a5",
+        "target": "a7a5",
+        "reason": "generated_catalog",
+        "aliases": [
+          "a7a5"
+        ]
+      },
+      {
+        "docID": "aavegotchi",
+        "target": "aavegotchi",
+        "reason": "generated_catalog",
+        "aliases": [
+          "아베고치",
+          "aavegotchi",
+          "ghst"
+        ]
+      },
+      {
+        "docID": "abelian",
+        "target": "abelian",
+        "reason": "generated_catalog",
+        "aliases": [
+          "abelian",
+          "abel"
+        ]
+      },
+      {
+        "docID": "access-protocol",
+        "target": "access-protocol",
+        "reason": "generated_catalog",
+        "aliases": [
+          "access-protocol",
+          "acs",
+          "access protocol"
+        ]
+      },
+      {
+        "docID": "acet-token",
+        "target": "acet-token",
+        "reason": "generated_catalog",
+        "aliases": [
+          "act",
+          "acet-token",
+          "acet"
+        ]
+      },
+      {
+        "docID": "achain",
+        "target": "achain",
+        "reason": "generated_catalog",
+        "aliases": [
+          "achain"
+        ]
+      },
+      {
+        "docID": "across-protocol",
+        "target": "across-protocol",
+        "reason": "generated_catalog",
+        "aliases": [
+          "across-protocol",
+          "acx",
+          "across protocol"
+        ]
+      },
+      {
+        "docID": "acurast",
+        "target": "acurast",
+        "reason": "generated_catalog",
+        "aliases": [
+          "acurast",
+          "acu"
+        ]
+      },
+      {
+        "docID": "adex",
+        "target": "adex",
+        "reason": "generated_catalog",
+        "aliases": [
+          "adex",
+          "adx"
+        ]
+      },
+      {
+        "docID": "adi-token",
+        "target": "adi-token",
+        "reason": "generated_catalog",
+        "aliases": [
+          "adi-token"
+        ]
+      },
+      {
+        "docID": "ado-network",
+        "target": "ado-network",
+        "reason": "generated_catalog",
+        "aliases": [
+          "ado-network",
+          "ado",
+          "ado protocol"
+        ]
+      },
+      {
+        "docID": "adshares",
+        "target": "adshares",
+        "reason": "generated_catalog",
+        "aliases": [
+          "adshares",
+          "ads"
+        ]
+      },
+      {
+        "docID": "aelf",
+        "target": "aelf",
+        "reason": "generated_catalog",
+        "aliases": [
+          "aelf",
+          "elf"
+        ]
+      },
+      {
+        "docID": "aergo",
+        "target": "aergo",
+        "reason": "generated_catalog",
+        "aliases": [
+          "아르고",
+          "aergo"
+        ]
+      },
+      {
+        "docID": "aerodrome-finance",
+        "target": "aerodrome-finance",
+        "reason": "generated_catalog",
+        "aliases": [
+          "aerodrome-finance",
+          "aero",
+          "aerodrome finance"
+        ]
+      },
+      {
+        "docID": "aethir",
+        "target": "aethir",
+        "reason": "generated_catalog",
+        "aliases": [
+          "aethir",
+          "ath",
+          "에이서",
+          "에이셔",
+          "아이셔",
+          "아이서"
+        ]
+      },
+      {
+        "docID": "aevo-exchange",
+        "target": "aevo-exchange",
+        "reason": "generated_catalog",
+        "aliases": [
+          "aevo-exchange",
+          "aevo"
+        ]
+      },
+      {
+        "docID": "affine",
+        "target": "affine",
+        "reason": "generated_catalog",
+        "aliases": [
+          "affine",
+          "sn120"
+        ]
+      },
+      {
+        "docID": "afk",
+        "target": "afk",
+        "reason": "generated_catalog",
+        "aliases": [
+          "afk"
+        ]
+      },
+      {
+        "docID": "afreum",
+        "target": "afreum",
+        "reason": "generated_catalog",
+        "aliases": [
+          "afreum",
+          "afr"
+        ]
+      },
+      {
+        "docID": "agave-token",
+        "target": "agave-token",
+        "reason": "generated_catalog",
+        "aliases": [
+          "agave-token",
+          "agve",
+          "agave"
+        ]
+      },
+      {
+        "docID": "agenda-47",
+        "target": "agenda-47",
+        "reason": "generated_catalog",
+        "aliases": [
+          "agenda-47",
+          "a47",
+          "agenda 47"
+        ]
+      },
+      {
+        "docID": "agent-arena-by-masa",
+        "target": "agent-arena-by-masa",
+        "reason": "generated_catalog",
+        "aliases": [
+          "agent-arena-by-masa",
+          "sn59",
+          "agent arena by masa"
+        ]
+      },
+      {
+        "docID": "agent-hustle",
+        "target": "agent-hustle",
+        "reason": "generated_catalog",
+        "aliases": [
+          "agent-hustle",
+          "hustle",
+          "agent hustle"
+        ]
+      },
+      {
+        "docID": "agentfun-ai",
+        "target": "agentfun-ai",
+        "reason": "generated_catalog",
+        "aliases": [
+          "agentfun-ai",
+          "agentfun",
+          "agentfun.ai"
+        ]
+      },
+      {
+        "docID": "agora-dollar",
+        "target": "agora-dollar",
+        "reason": "generated_catalog",
+        "aliases": [
+          "agora-dollar",
+          "ausd"
+        ]
+      }
+    ],
+    "referenceOnlyRows": [
+      {
+        "docID": "1guy",
+        "target": "1guy",
+        "aliases": [
+          "1guy"
+        ],
+        "reason": "reference_only_fallback"
+      },
+      {
+        "docID": "ark-of-panda",
+        "target": "ark-of-panda",
+        "aliases": [
+          "ark-of-panda",
+          "aop",
+          "ark of panda"
+        ],
+        "reason": "reference_only_fallback"
+      },
+      {
+        "docID": "doge-lumens",
+        "target": "doge-lumens",
+        "aliases": [
+          "doge-lumens",
+          "dxlm",
+          "dogelumens"
+        ],
+        "reason": "reference_only_fallback"
+      },
+      {
+        "docID": "edu3games",
+        "target": "edu3games",
+        "aliases": [
+          "edu3games",
+          "egn"
+        ],
+        "reason": "reference_only_fallback"
+      },
+      {
+        "docID": "envision",
+        "target": "envision",
+        "aliases": [
+          "엔비전"
+        ],
+        "reason": "reference_only_fallback"
+      },
+      {
+        "docID": "etherfuse-ustry",
+        "target": "etherfuse-ustry",
+        "aliases": [
+          "etherfuse-ustry",
+          "ustry",
+          "etherfuse ustry"
+        ],
+        "reason": "reference_only_fallback"
+      },
+      {
+        "docID": "grdm",
+        "target": "grdm",
+        "aliases": [
+          "grdm"
+        ],
+        "reason": "reference_only_fallback"
+      },
+      {
+        "docID": "gyroscope-gyd",
+        "target": "gyroscope-gyd",
+        "aliases": [
+          "gyroscope-gyd",
+          "gyd",
+          "gyroscope gyd"
+        ],
+        "reason": "reference_only_fallback"
+      },
+      {
+        "docID": "kujira",
+        "target": "kujira",
+        "aliases": [
+          "kujira",
+          "kuji"
+        ],
+        "reason": "reference_only_fallback"
+      },
+      {
+        "docID": "overnight-fi-usd-blast",
+        "target": "overnight-fi-usd-blast",
+        "aliases": [
+          "overnight-fi-usd-blast",
+          "usd+",
+          "overnight.fi usd+ (blast)"
+        ],
+        "reason": "reference_only_fallback"
+      },
+      {
+        "docID": "skor-ai",
+        "target": "skor-ai",
+        "aliases": [
+          "skor-ai",
+          "skorai",
+          "skor ai"
+        ],
+        "reason": "reference_only_fallback"
+      },
+      {
+        "docID": "uton",
+        "target": "uton",
+        "aliases": [
+          "uton"
+        ],
+        "reason": "reference_only_fallback"
+      }
+    ],
+    "guardedRows": [
+      {
+        "docID": "aelf",
+        "target": "aelf",
+        "aliases": [
+          "엘프"
+        ]
+      },
+      {
+        "docID": "berachain-bera",
+        "target": "berachain-bera",
+        "aliases": [
+          "베라"
+        ]
+      },
+      {
+        "docID": "bora",
+        "target": "bora",
+        "aliases": [
+          "보라"
+        ]
+      },
+      {
+        "docID": "celestia",
+        "target": "TIA",
+        "aliases": [
+          "티아"
+        ]
+      },
+      {
+        "docID": "chainlink",
+        "target": "LINK",
+        "aliases": [
+          "링크"
+        ]
+      },
+      {
+        "docID": "curve-dao-token",
+        "target": "CRV",
+        "aliases": [
+          "커브"
+        ]
+      },
+      {
+        "docID": "dai",
+        "target": "dai",
+        "aliases": [
+          "다이"
+        ]
+      },
+      {
+        "docID": "dash",
+        "target": "dash",
+        "aliases": [
+          "대시"
+        ]
+      },
+      {
+        "docID": "decentraland",
+        "target": "MANA",
+        "aliases": [
+          "마나"
+        ]
+      },
+      {
+        "docID": "espresso",
+        "target": "espresso",
+        "aliases": [
+          "에스프레소"
+        ]
+      },
+      {
+        "docID": "g-token",
+        "target": "g-token",
+        "aliases": [
+          "g"
+        ]
+      },
+      {
+        "docID": "gas",
+        "target": "gas",
+        "aliases": [
+          "가스"
+        ]
+      },
+      {
+        "docID": "golem",
+        "target": "golem",
+        "aliases": [
+          "골렘"
+        ]
+      },
+      {
+        "docID": "gunz",
+        "target": "gunz",
+        "aliases": [
+          "건즈",
+          "건"
+        ]
+      },
+      {
+        "docID": "harmony",
+        "target": "harmony",
+        "aliases": [
+          "하모니"
+        ]
+      },
+      {
+        "docID": "holotoken",
+        "target": "holotoken",
+        "aliases": [
+          "홀로"
+        ]
+      },
+      {
+        "docID": "layerzero",
+        "target": "layerzero",
+        "aliases": [
+          "제로"
+        ]
+      },
+      {
+        "docID": "leo-token",
+        "target": "leo-token",
+        "aliases": [
+          "레오"
+        ]
+      },
+      {
+        "docID": "lisk",
+        "target": "lisk",
+        "aliases": [
+          "리스크"
+        ]
+      },
+      {
+        "docID": "litecoin",
+        "target": "LTC",
+        "aliases": [
+          "라코"
+        ]
+      },
+      {
+        "docID": "manta-network",
+        "target": "manta-network",
+        "aliases": [
+          "만타"
+        ]
+      },
+      {
+        "docID": "mask-network",
+        "target": "mask-network",
+        "aliases": [
+          "마스크"
+        ]
+      },
+      {
+        "docID": "milk",
+        "target": "milk",
+        "aliases": [
+          "밀크"
+        ]
+      },
+      {
+        "docID": "mina-protocol",
+        "target": "mina-protocol",
+        "aliases": [
+          "미나"
+        ]
+      },
+      {
+        "docID": "my-neighbor-alice",
+        "target": "my-neighbor-alice",
+        "aliases": [
+          "앨리스"
+        ]
+      },
+      {
+        "docID": "navi",
+        "target": "navi",
+        "aliases": [
+          "나비"
+        ]
+      },
+      {
+        "docID": "oasis-network",
+        "target": "oasis-network",
+        "aliases": [
+          "오아시스"
+        ]
+      },
+      {
+        "docID": "ondo-finance",
+        "target": "ondo-finance",
+        "aliases": [
+          "온도"
+        ]
+      },
+      {
+        "docID": "pancakeswap-token",
+        "target": "pancakeswap-token",
+        "aliases": [
+          "팬케이크",
+          "케이크"
+        ]
+      },
+      {
+        "docID": "peaq-2",
+        "target": "peaq-2",
+        "aliases": [
+          "피크"
+        ]
+      },
+      {
+        "docID": "pnut",
+        "target": "pnut",
+        "aliases": [
+          "피넛",
+          "땅콩"
+        ]
+      },
+      {
+        "docID": "polygon-ecosystem-token",
+        "target": "MATIC",
+        "aliases": [
+          "pol"
+        ]
+      },
+      {
+        "docID": "power-protocol",
+        "target": "power-protocol",
+        "aliases": [
+          "파워"
+        ]
+      },
+      {
+        "docID": "qtum",
+        "target": "qtum",
+        "aliases": [
+          "퀀텀"
+        ]
+      },
+      {
+        "docID": "quant-network",
+        "target": "quant-network",
+        "aliases": [
+          "퀀트"
+        ]
+      },
+      {
+        "docID": "robostack",
+        "target": "robostack",
+        "aliases": [
+          "로봇"
+        ]
+      },
+      {
+        "docID": "safe-coin",
+        "target": "safe-coin-2",
+        "aliases": [
+          "세이프"
+        ]
+      },
+      {
+        "docID": "shiba-inu",
+        "target": "SHIB",
+        "aliases": [
+          "시바"
+        ]
+      },
+      {
+        "docID": "sign-global",
+        "target": "sign-global",
+        "aliases": [
+          "사인"
+        ]
+      },
+      {
+        "docID": "sky",
+        "target": "sky",
+        "aliases": [
+          "스카이"
+        ]
+      },
+      {
+        "docID": "steem",
+        "target": "steem",
+        "aliases": [
+          "스팀"
+        ]
+      },
+      {
+        "docID": "sushi",
+        "target": "SUSHI",
+        "aliases": [
+          "수세미",
+          "스시"
+        ]
+      },
+      {
+        "docID": "terra-luna",
+        "target": "terra-luna",
+        "aliases": [
+          "루나",
+          "테라"
+        ]
+      },
+      {
+        "docID": "the-official-67-coin",
+        "target": "the-official-67-coin",
+        "aliases": [
+          "67"
+        ]
+      },
+      {
+        "docID": "treehouse",
+        "target": "treehouse",
+        "aliases": [
+          "트리"
+        ]
+      },
+      {
+        "docID": "uniswap",
+        "target": "UNI",
+        "aliases": [
+          "유니"
+        ]
+      },
+      {
+        "docID": "virtual-protocol",
+        "target": "virtual-protocol",
+        "aliases": [
+          "버추얼"
+        ]
+      },
+      {
+        "docID": "waves",
+        "target": "waves",
+        "aliases": [
+          "웨이브"
+        ]
+      },
+      {
+        "docID": "wax",
+        "target": "wax",
+        "aliases": [
+          "왁스"
+        ]
+      },
+      {
+        "docID": "woo-network",
+        "target": "woo-network",
+        "aliases": [
+          "우"
+        ]
+      }
+    ],
+    "curatedAliasCollisions": [
+      {
+        "alias": "에이브",
+        "target": "AAVE",
+        "curatedTarget": "AAVE",
+        "docID": "aave"
+      },
+      {
+        "alias": "알고랜드",
+        "target": "ALGO",
+        "curatedTarget": "ALGO",
+        "docID": "algorand"
+      },
+      {
+        "alias": "앱토스",
+        "target": "APT",
+        "curatedTarget": "APT",
+        "docID": "aptos"
+      },
+      {
+        "alias": "아비트럼",
+        "target": "ARB",
+        "curatedTarget": "ARB",
+        "docID": "arbitrum"
+      },
+      {
+        "alias": "아발란체",
+        "target": "AVAX",
+        "curatedTarget": "AVAX",
+        "docID": "avalanche-2"
+      },
+      {
+        "alias": "엑시인피니티",
+        "target": "AXS",
+        "curatedTarget": "AXS",
+        "docID": "axie-infinity"
+      },
+      {
+        "alias": "비엔비",
+        "target": "BNB",
+        "curatedTarget": "BNB",
+        "docID": "binancecoin"
+      },
+      {
+        "alias": "비트코인",
+        "target": "BTC",
+        "curatedTarget": "BTC",
+        "docID": "bitcoin"
+      },
+      {
+        "alias": "비트",
+        "target": "BTC",
+        "curatedTarget": "BTC",
+        "docID": "bitcoin"
+      },
+      {
+        "alias": "비트코인캐시",
+        "target": "BCH",
+        "curatedTarget": "BCH",
+        "docID": "bitcoin-cash"
+      },
+      {
+        "alias": "비캐",
+        "target": "BCH",
+        "curatedTarget": "BCH",
+        "docID": "bitcoin-cash"
+      },
+      {
+        "alias": "봉크",
+        "target": "BONK",
+        "curatedTarget": "BONK",
+        "docID": "bonk"
+      },
+      {
+        "alias": "에이다",
+        "target": "ADA",
+        "curatedTarget": "ADA",
+        "docID": "cardano"
+      },
+      {
+        "alias": "체인링크",
+        "target": "LINK",
+        "curatedTarget": "LINK",
+        "docID": "chainlink"
+      },
+      {
+        "alias": "코스모스",
+        "target": "ATOM",
+        "curatedTarget": "ATOM",
+        "docID": "cosmos"
+      },
+      {
+        "alias": "아톰",
+        "target": "ATOM",
+        "curatedTarget": "ATOM",
+        "docID": "cosmos"
+      },
+      {
+        "alias": "디센트럴랜드",
+        "target": "MANA",
+        "curatedTarget": "MANA",
+        "docID": "decentraland"
+      },
+      {
+        "alias": "도지",
+        "target": "DOGE",
+        "curatedTarget": "DOGE",
+        "docID": "dogecoin"
+      },
+      {
+        "alias": "도지코인",
+        "target": "DOGE",
+        "curatedTarget": "DOGE",
+        "docID": "dogecoin"
+      },
+      {
+        "alias": "이오스",
+        "target": "EOS",
+        "curatedTarget": "EOS",
+        "docID": "eos"
+      },
+      {
+        "alias": "이더리움",
+        "target": "ETH",
+        "curatedTarget": "ETH",
+        "docID": "ethereum"
+      },
+      {
+        "alias": "이더",
+        "target": "ETH",
+        "curatedTarget": "ETH",
+        "docID": "ethereum"
+      },
+      {
+        "alias": "이더리움클래식",
+        "target": "ETC",
+        "curatedTarget": "ETC",
+        "docID": "ethereum-classic"
+      },
+      {
+        "alias": "이클",
+        "target": "ETC",
+        "curatedTarget": "ETC",
+        "docID": "ethereum-classic"
+      },
+      {
+        "alias": "팬텀",
+        "target": "FTM",
+        "curatedTarget": "FTM",
+        "docID": "fantom"
+      },
+      {
+        "alias": "플로키",
+        "target": "FLOKI",
+        "curatedTarget": "FLOKI",
+        "docID": "floki"
+      },
+      {
+        "alias": "라이트코인",
+        "target": "LTC",
+        "curatedTarget": "LTC",
+        "docID": "litecoin"
+      },
+      {
+        "alias": "모나드",
+        "target": "monad",
+        "curatedTarget": "monad",
+        "docID": "monad"
+      },
+      {
+        "alias": "monad",
+        "target": "monad",
+        "curatedTarget": "monad",
+        "docID": "monad"
+      },
+      {
+        "alias": "니어",
+        "target": "NEAR",
+        "curatedTarget": "NEAR",
+        "docID": "near"
+      },
+      {
+        "alias": "니어프로토콜",
+        "target": "NEAR",
+        "curatedTarget": "NEAR",
+        "docID": "near"
+      },
+      {
+        "alias": "옵티미즘",
+        "target": "OP",
+        "curatedTarget": "OP",
+        "docID": "optimism"
+      },
+      {
+        "alias": "페페",
+        "target": "PEPE",
+        "curatedTarget": "PEPE",
+        "docID": "pepe"
+      },
+      {
+        "alias": "폴카닷",
+        "target": "DOT",
+        "curatedTarget": "DOT",
+        "docID": "polkadot"
+      },
+      {
+        "alias": "닷",
+        "target": "DOT",
+        "curatedTarget": "DOT",
+        "docID": "polkadot"
+      },
+      {
+        "alias": "폴리곤",
+        "target": "MATIC",
+        "curatedTarget": "MATIC",
+        "docID": "polygon-ecosystem-token"
+      },
+      {
+        "alias": "리플",
+        "target": "XRP",
+        "curatedTarget": "XRP",
+        "docID": "ripple"
+      },
+      {
+        "alias": "세이",
+        "target": "SEI",
+        "curatedTarget": "SEI",
+        "docID": "sei"
+      },
+      {
+        "alias": "시바이누",
+        "target": "SHIB",
+        "curatedTarget": "SHIB",
+        "docID": "shiba-inu"
+      },
+      {
+        "alias": "솔라나",
+        "target": "SOL",
+        "curatedTarget": "SOL",
+        "docID": "solana"
+      },
+      {
+        "alias": "솔",
+        "target": "SOL",
+        "curatedTarget": "SOL",
+        "docID": "solana"
+      },
+      {
+        "alias": "스텔라",
+        "target": "XLM",
+        "curatedTarget": "XLM",
+        "docID": "stellar"
+      },
+      {
+        "alias": "스텔라루멘",
+        "target": "XLM",
+        "curatedTarget": "XLM",
+        "docID": "stellar"
+      },
+      {
+        "alias": "수이",
+        "target": "SUI",
+        "curatedTarget": "SUI",
+        "docID": "sui"
+      },
+      {
+        "alias": "톤",
+        "target": "TON",
+        "curatedTarget": "TON",
+        "docID": "the-open-network"
+      },
+      {
+        "alias": "톤코인",
+        "target": "TON",
+        "curatedTarget": "TON",
+        "docID": "the-open-network"
+      },
+      {
+        "alias": "샌드박스",
+        "target": "SAND",
+        "curatedTarget": "SAND",
+        "docID": "the-sandbox"
+      },
+      {
+        "alias": "트론",
+        "target": "TRX",
+        "curatedTarget": "TRX",
+        "docID": "tron"
+      },
+      {
+        "alias": "유니스왑",
+        "target": "UNI",
+        "curatedTarget": "UNI",
+        "docID": "uniswap"
+      }
+    ],
+    "generatedAliasCollisions": []
+  },
+  "ambiguousCuratedRows": [],
+  "generatedLocalResultCollisions": [
+    {
+      "docID": "pundi-x-2",
+      "target": "pundi-x-2",
+      "reason": "duplicate_generated_target"
+    },
+    {
+      "docID": "simon-s-cat",
+      "target": "simon-s-cat",
+      "reason": "duplicate_generated_target"
+    },
+    {
+      "docID": "wemix-token",
+      "target": "wemix-token",
+      "reason": "duplicate_generated_target"
+    }
+  ]
+}

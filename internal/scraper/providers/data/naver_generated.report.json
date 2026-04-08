@@ -1,0 +1,724 @@
+{
+  "source": "/Users/munawiki/Downloads/stock_mappings.md",
+  "generatedAt": "2026-04-06T07:55:54.090Z",
+  "rowCount": 2245,
+  "domesticRowCount": 1234,
+  "worldRowCount": 1011,
+  "manualWorldOverrides": {},
+  "summary": {
+    "generatedLocalResultCount": 2188,
+    "generatedAliasCount": 7376,
+    "unsupportedWorldRowCount": 5,
+    "curatedAliasCollisionCount": 38,
+    "generatedAliasCollisionCount": 1
+  },
+  "samples": {
+    "domesticRows": [
+      {
+        "code": "479080",
+        "target": "1Q 머니마켓액티브",
+        "aliasCount": 3
+      },
+      {
+        "code": "0131V0",
+        "target": "1Q 미국우주항공테크",
+        "aliasCount": 3
+      },
+      {
+        "code": "079940",
+        "target": "가비아",
+        "aliasCount": 2
+      },
+      {
+        "code": "000500",
+        "target": "가온전선",
+        "aliasCount": 2
+      },
+      {
+        "code": "399720",
+        "target": "가온칩스",
+        "aliasCount": 2
+      },
+      {
+        "code": "036620",
+        "target": "감성코퍼레이션",
+        "aliasCount": 2
+      },
+      {
+        "code": "217730",
+        "target": "강스템바이오텍",
+        "aliasCount": 2
+      },
+      {
+        "code": "035250",
+        "target": "강원랜드",
+        "aliasCount": 2
+      },
+      {
+        "code": "114190",
+        "target": "강원에너지",
+        "aliasCount": 2
+      },
+      {
+        "code": "094480",
+        "target": "갤럭시아머니트리",
+        "aliasCount": 2
+      },
+      {
+        "code": "009450",
+        "target": "경동나비엔",
+        "aliasCount": 2
+      },
+      {
+        "code": "011040",
+        "target": "경동제약",
+        "aliasCount": 2
+      },
+      {
+        "code": "010130",
+        "target": "고려아연",
+        "aliasCount": 2
+      },
+      {
+        "code": "002240",
+        "target": "고려제강",
+        "aliasCount": 2
+      },
+      {
+        "code": "098460",
+        "target": "고영",
+        "aliasCount": 2
+      },
+      {
+        "code": "215000",
+        "target": "골프존",
+        "aliasCount": 2
+      },
+      {
+        "code": "121440",
+        "target": "골프존홀딩스",
+        "aliasCount": 2
+      },
+      {
+        "code": "0132G0",
+        "target": "교보20호스팩",
+        "aliasCount": 3
+      },
+      {
+        "code": "030610",
+        "target": "교보증권",
+        "aliasCount": 2
+      },
+      {
+        "code": "066620",
+        "target": "국보디자인",
+        "aliasCount": 2
+      },
+      {
+        "code": "078130",
+        "target": "국일제지",
+        "aliasCount": 2
+      },
+      {
+        "code": "318060",
+        "target": "그래피",
+        "aliasCount": 2
+      },
+      {
+        "code": "0015G0",
+        "target": "그린광학",
+        "aliasCount": 2
+      },
+      {
+        "code": "204620",
+        "target": "글로벌텍스프리",
+        "aliasCount": 2
+      },
+      {
+        "code": "001570",
+        "target": "금양",
+        "aliasCount": 2
+      },
+      {
+        "code": "011780",
+        "target": "금호석유화학",
+        "aliasCount": 2
+      },
+      {
+        "code": "073240",
+        "target": "금호타이어",
+        "aliasCount": 2
+      },
+      {
+        "code": "036190",
+        "target": "금화피에스시",
+        "aliasCount": 2
+      },
+      {
+        "code": "049080",
+        "target": "기가레인",
+        "aliasCount": 2
+      },
+      {
+        "code": "420770",
+        "target": "기가비스",
+        "aliasCount": 2
+      }
+    ],
+    "worldRows": [
+      {
+        "symbol": "BOIL",
+        "target": "BOIL",
+        "market": "AMEX",
+        "reutersCode": "BOIL.K",
+        "query": "BOIL",
+        "aliasCount": 11
+      },
+      {
+        "symbol": "CONL",
+        "target": "CONL",
+        "market": "NASDAQ",
+        "reutersCode": "CONL.O",
+        "query": "CONL",
+        "aliasCount": 11
+      },
+      {
+        "symbol": "AAOI",
+        "target": "AAOI",
+        "market": "NASDAQ",
+        "reutersCode": "AAOI.O",
+        "query": "AAOI",
+        "aliasCount": 9
+      },
+      {
+        "symbol": "NVDA",
+        "target": "NVDA",
+        "market": "NASDAQ",
+        "reutersCode": "NVDA.O",
+        "query": "curated_local_result",
+        "aliasCount": 8
+      },
+      {
+        "symbol": "AAPL",
+        "target": "AAPL",
+        "market": "NASDAQ",
+        "reutersCode": "AAPL.O",
+        "query": "curated_local_result",
+        "aliasCount": 7
+      },
+      {
+        "symbol": "MSFT",
+        "target": "MSFT",
+        "market": "NASDAQ",
+        "reutersCode": "MSFT.O",
+        "query": "curated_local_result",
+        "aliasCount": 8
+      },
+      {
+        "symbol": "AMZN",
+        "target": "AMZN",
+        "market": "NASDAQ",
+        "reutersCode": "AMZN.O",
+        "query": "curated_local_result",
+        "aliasCount": 7
+      },
+      {
+        "symbol": "GOOGL",
+        "target": "GOOGL",
+        "market": "NASDAQ",
+        "reutersCode": "GOOGL.O",
+        "query": "curated_local_result",
+        "aliasCount": 10
+      },
+      {
+        "symbol": "TSM",
+        "target": "TSM",
+        "market": "NYSE",
+        "reutersCode": "TSM",
+        "query": "TSM",
+        "aliasCount": 8
+      },
+      {
+        "symbol": "GOOG",
+        "target": "GOOG",
+        "market": "NASDAQ",
+        "reutersCode": "GOOG.O",
+        "query": "curated_local_result",
+        "aliasCount": 7
+      },
+      {
+        "symbol": "META",
+        "target": "META",
+        "market": "NASDAQ",
+        "reutersCode": "META.O",
+        "query": "curated_local_result",
+        "aliasCount": 8
+      },
+      {
+        "symbol": "AVGO",
+        "target": "AVGO",
+        "market": "NASDAQ",
+        "reutersCode": "AVGO.O",
+        "query": "curated_local_result",
+        "aliasCount": 6
+      },
+      {
+        "symbol": "TSLA",
+        "target": "TSLA",
+        "market": "NASDAQ",
+        "reutersCode": "TSLA.O",
+        "query": "curated_local_result",
+        "aliasCount": 9
+      },
+      {
+        "symbol": "WMT",
+        "target": "WMT",
+        "market": "NASDAQ",
+        "reutersCode": "WMT.O",
+        "query": "WMT",
+        "aliasCount": 6
+      },
+      {
+        "symbol": "LLY",
+        "target": "LLY",
+        "market": "NYSE",
+        "reutersCode": "LLY",
+        "query": "LLY",
+        "aliasCount": 8
+      },
+      {
+        "symbol": "JPM",
+        "target": "JPM",
+        "market": "NYSE",
+        "reutersCode": "JPM",
+        "query": "curated_local_result",
+        "aliasCount": 8
+      },
+      {
+        "symbol": "BRK.B",
+        "target": "BRK.B",
+        "market": "NYSE",
+        "reutersCode": "BRKb",
+        "query": "BRK.B",
+        "aliasCount": 3
+      },
+      {
+        "symbol": "XOM",
+        "target": "XOM",
+        "market": "NYSE",
+        "reutersCode": "XOM",
+        "query": "XOM",
+        "aliasCount": 8
+      },
+      {
+        "symbol": "V",
+        "target": "V",
+        "market": "NYSE",
+        "reutersCode": "V",
+        "query": "curated_local_result",
+        "aliasCount": 6
+      },
+      {
+        "symbol": "JNJ",
+        "target": "JNJ",
+        "market": "NYSE",
+        "reutersCode": "JNJ",
+        "query": "JNJ",
+        "aliasCount": 6
+      },
+      {
+        "symbol": "ASML",
+        "target": "ASML",
+        "market": "NASDAQ",
+        "reutersCode": "ASML.O",
+        "query": "ASML",
+        "aliasCount": 7
+      },
+      {
+        "symbol": "MA",
+        "target": "MA",
+        "market": "NYSE",
+        "reutersCode": "MA",
+        "query": "MA",
+        "aliasCount": 7
+      },
+      {
+        "symbol": "ORCL",
+        "target": "ORCL",
+        "market": "NYSE",
+        "reutersCode": "ORCL.K",
+        "query": "ORCL",
+        "aliasCount": 6
+      },
+      {
+        "symbol": "COST",
+        "target": "COST",
+        "market": "NASDAQ",
+        "reutersCode": "COST.O",
+        "query": "curated_local_result",
+        "aliasCount": 9
+      },
+      {
+        "symbol": "MU",
+        "target": "MU",
+        "market": "NASDAQ",
+        "reutersCode": "MU.O",
+        "query": "MU",
+        "aliasCount": 8
+      },
+      {
+        "symbol": "BAC",
+        "target": "BAC",
+        "market": "NYSE",
+        "reutersCode": "BAC",
+        "query": "BAC",
+        "aliasCount": 7
+      },
+      {
+        "symbol": "ABBV",
+        "target": "ABBV",
+        "market": "NYSE",
+        "reutersCode": "ABBV.K",
+        "query": "ABBV",
+        "aliasCount": 6
+      },
+      {
+        "symbol": "BRK.A",
+        "target": "BRK.A",
+        "market": "NYSE",
+        "reutersCode": "BRKa",
+        "query": "BRK.A",
+        "aliasCount": 7
+      },
+      {
+        "symbol": "BABA",
+        "target": "BABA",
+        "market": "NYSE",
+        "reutersCode": "BABA.K",
+        "query": "BABA",
+        "aliasCount": 7
+      },
+      {
+        "symbol": "HD",
+        "target": "HD",
+        "market": "NYSE",
+        "reutersCode": "HD",
+        "query": "HD",
+        "aliasCount": 6
+      }
+    ],
+    "unsupportedWorldRows": [
+      {
+        "symbol": "CYBR",
+        "target": "CYBR",
+        "koreanName": "사이버아크 소프트웨어",
+        "englishName": "Cyberark Software Ltd",
+        "aliases": [
+          "cybr",
+          "사이버아크 소프트웨어",
+          "cyberark software ltd",
+          "사이버아크소프트웨어",
+          "cyberark software"
+        ],
+        "reutersCode": "UNSUPPORTED:CYBR"
+      },
+      {
+        "symbol": "EXAS",
+        "target": "EXAS",
+        "koreanName": "이그젝트 사이언시스",
+        "englishName": "Exact Sciences Corp",
+        "aliases": [
+          "exas",
+          "이그젝트 사이언시스",
+          "exact sciences corp",
+          "이그젝트사이언시스",
+          "exact sciences"
+        ],
+        "reutersCode": "UNSUPPORTED:EXAS"
+      },
+      {
+        "symbol": "CFLT",
+        "target": "CFLT",
+        "koreanName": "콘플루언트",
+        "englishName": "Confluent Inc",
+        "aliases": [
+          "cflt",
+          "콘플루언트",
+          "confluent inc",
+          "confluent"
+        ],
+        "reutersCode": "UNSUPPORTED:CFLT"
+      },
+      {
+        "symbol": "NGD",
+        "target": "NGD",
+        "koreanName": "뉴 골드",
+        "englishName": "New Gold Inc",
+        "aliases": [
+          "ngd",
+          "뉴 골드",
+          "new gold inc",
+          "뉴골드",
+          "new gold"
+        ],
+        "reutersCode": "UNSUPPORTED:NGD"
+      },
+      {
+        "symbol": "^VIX",
+        "target": "^VIX",
+        "koreanName": "뉴욕주식시장 변동성지수",
+        "englishName": "CBOE Volatility Index",
+        "aliases": [
+          "^vix",
+          "뉴욕주식시장 변동성지수",
+          "cboe volatility index",
+          "뉴욕주식시장변동성지수",
+          "vix",
+          "빅스",
+          "변동성지수",
+          "뉴욕변동성",
+          "공포지수"
+        ],
+        "reutersCode": "UNSUPPORTED:^VIX"
+      }
+    ],
+    "curatedAliasCollisions": [
+      {
+        "alias": "삼바",
+        "target": "삼성바이오로직스",
+        "curatedTarget": "삼성바이오로직스",
+        "kind": "domestic"
+      },
+      {
+        "alias": "삼전",
+        "target": "삼성전자",
+        "curatedTarget": "삼성전자",
+        "kind": "domestic"
+      },
+      {
+        "alias": "신한",
+        "target": "신한지주",
+        "curatedTarget": "신한지주",
+        "kind": "domestic"
+      },
+      {
+        "alias": "카뱅",
+        "target": "카카오뱅크",
+        "curatedTarget": "카카오뱅크",
+        "kind": "domestic"
+      },
+      {
+        "alias": "하나",
+        "target": "하나금융지주",
+        "curatedTarget": "하나금융지주",
+        "kind": "domestic"
+      },
+      {
+        "alias": "한전",
+        "target": "한국전력",
+        "curatedTarget": "한국전력",
+        "kind": "domestic"
+      },
+      {
+        "alias": "현차",
+        "target": "현대차",
+        "curatedTarget": "현대차",
+        "kind": "domestic"
+      },
+      {
+        "alias": "네이버",
+        "target": "NAVER",
+        "curatedTarget": "NAVER",
+        "kind": "domestic"
+      },
+      {
+        "alias": "포스코",
+        "target": "POSCO홀딩스",
+        "curatedTarget": "POSCO홀딩스",
+        "kind": "domestic"
+      },
+      {
+        "alias": "하닉",
+        "target": "SK하이닉스",
+        "curatedTarget": "SK하이닉스",
+        "kind": "domestic"
+      },
+      {
+        "alias": "엔비디아",
+        "target": "NVDA",
+        "curatedTarget": "NVDA",
+        "kind": "world"
+      },
+      {
+        "alias": "nvidia",
+        "target": "NVDA",
+        "curatedTarget": "NVDA",
+        "kind": "world"
+      },
+      {
+        "alias": "애플",
+        "target": "AAPL",
+        "curatedTarget": "AAPL",
+        "kind": "world"
+      },
+      {
+        "alias": "apple",
+        "target": "AAPL",
+        "curatedTarget": "AAPL",
+        "kind": "world"
+      },
+      {
+        "alias": "마이크로소프트",
+        "target": "MSFT",
+        "curatedTarget": "MSFT",
+        "kind": "world"
+      },
+      {
+        "alias": "microsoft",
+        "target": "MSFT",
+        "curatedTarget": "MSFT",
+        "kind": "world"
+      },
+      {
+        "alias": "마소",
+        "target": "MSFT",
+        "curatedTarget": "MSFT",
+        "kind": "world"
+      },
+      {
+        "alias": "아마존",
+        "target": "AMZN",
+        "curatedTarget": "AMZN",
+        "kind": "world"
+      },
+      {
+        "alias": "구글",
+        "target": "GOOGL",
+        "curatedTarget": "GOOGL",
+        "kind": "world"
+      },
+      {
+        "alias": "메타",
+        "target": "META",
+        "curatedTarget": "META",
+        "kind": "world"
+      },
+      {
+        "alias": "meta",
+        "target": "META",
+        "curatedTarget": "META",
+        "kind": "world"
+      },
+      {
+        "alias": "브로드컴",
+        "target": "AVGO",
+        "curatedTarget": "AVGO",
+        "kind": "world"
+      },
+      {
+        "alias": "broadcom",
+        "target": "AVGO",
+        "curatedTarget": "AVGO",
+        "kind": "world"
+      },
+      {
+        "alias": "테슬라",
+        "target": "TSLA",
+        "curatedTarget": "TSLA",
+        "kind": "world"
+      },
+      {
+        "alias": "tesla",
+        "target": "TSLA",
+        "curatedTarget": "TSLA",
+        "kind": "world"
+      },
+      {
+        "alias": "비자",
+        "target": "V",
+        "curatedTarget": "V",
+        "kind": "world"
+      },
+      {
+        "alias": "visa",
+        "target": "V",
+        "curatedTarget": "V",
+        "kind": "world"
+      },
+      {
+        "alias": "코스트코",
+        "target": "COST",
+        "curatedTarget": "COST",
+        "kind": "world"
+      },
+      {
+        "alias": "넷플릭스",
+        "target": "NFLX",
+        "curatedTarget": "NFLX",
+        "kind": "world"
+      },
+      {
+        "alias": "netflix",
+        "target": "NFLX",
+        "curatedTarget": "NFLX",
+        "kind": "world"
+      },
+      {
+        "alias": "넷플",
+        "target": "NFLX",
+        "curatedTarget": "NFLX",
+        "kind": "world"
+      },
+      {
+        "alias": "팔란티어",
+        "target": "PLTR",
+        "curatedTarget": "PLTR",
+        "kind": "world"
+      },
+      {
+        "alias": "코카콜라",
+        "target": "KO",
+        "curatedTarget": "KO",
+        "kind": "world"
+      },
+      {
+        "alias": "인텔",
+        "target": "INTC",
+        "curatedTarget": "INTC",
+        "kind": "world"
+      },
+      {
+        "alias": "intel",
+        "target": "INTC",
+        "curatedTarget": "INTC",
+        "kind": "world"
+      },
+      {
+        "alias": "디즈니",
+        "target": "DIS",
+        "curatedTarget": "DIS",
+        "kind": "world"
+      },
+      {
+        "alias": "KB",
+        "target": "KB금융지주 ADR",
+        "curatedTarget": "KB금융",
+        "kind": "world"
+      },
+      {
+        "alias": "쿠팡",
+        "target": "CPNG",
+        "curatedTarget": "쿠팡",
+        "kind": "world"
+      }
+    ],
+    "generatedAliasCollisions": [
+      {
+        "alias": "kb",
+        "existingTarget": "KB금융",
+        "nextTarget": "KB금융지주 ADR",
+        "kind": "world"
+      }
+    ]
+  }
+}

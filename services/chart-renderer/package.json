@@ -1,0 +1,13 @@
+{
+  "name": "chart-renderer",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "lightweight-charts": "4.2.2",
+    "playwright": "1.59.0"
+  }
+}

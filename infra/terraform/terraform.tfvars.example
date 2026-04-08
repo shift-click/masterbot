@@ -1,0 +1,23 @@
+# AWS region (default: ap-northeast-2 서울)
+aws_region = "ap-northeast-2"
+
+# EC2 instance type (JucoBot은 가벼우므로 t3.small이면 충분)
+instance_type = "t3.small"
+
+# Root volume size in GB
+volume_size = 20
+
+# SSH public key path (EC2 접속에 사용)
+ssh_public_key_path = "~/.ssh/id_ed25519.pub"
+
+# SSH 접속을 허용할 관리자 IP (본인 IP + /32)
+# https://checkip.amazonaws.com 에서 확인
+admin_cidr_blocks = ["203.0.113.1/32"]
+
+# Admin dashboard를 8080 포트로 외부 노출할지
+enable_admin_dashboard = false
+
+# Tailscale pre-auth key
+# https://login.tailscale.com/admin/settings/keys 에서 생성
+# Reusable + Ephemeral 권장
+tailscale_auth_key = "tskey-auth-xxxx"

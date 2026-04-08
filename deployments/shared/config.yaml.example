@@ -1,0 +1,64 @@
+bot:
+  name: JucoBot v2
+  log_level: info
+  shutdown_timeout: 10s
+
+iris:
+  enabled: true
+  ws_url: ws://127.0.0.1:3000/ws
+  http_url: http://127.0.0.1:3000
+  request_timeout: 5s
+  reconnect_min: 1s
+  reconnect_max: 30s
+
+cache:
+  driver: memory
+  default_ttl: 5m
+  stale_ttl: 1h
+  cleanup_interval: 1m
+  redis_addr: ""
+  redis_password: ""
+  redis_db: 0
+
+store:
+  driver: memory
+  supabase_url: ""
+  supabase_key: ""
+  table: bot_state
+
+coupang:
+  db_path: /app/data/coupang.db
+  collect_interval: 15m
+  idle_timeout: 720h
+  max_products: 10000
+  hot_interval: 1h
+  warm_interval: 6h
+  cold_interval: 24h
+  freshness: 1h
+  stale_threshold: 24h
+  min_refresh_interval: 30m
+  refresh_budget_per_hour: 120
+  registration_budget_per_hour: 30
+  resolution_budget_per_hour: 60
+  tier_window: 24h
+  hot_threshold: 3
+  warm_threshold: 1
+  candidate_fanout: 3
+  mapping_recheck_backoff: 6h
+  allow_auxiliary_fallback: true
+  read_refresh_timeout: 2s
+
+access:
+  default_policy: deny
+  runtime_db_path: /app/data/access.db
+  bootstrap_admin_room_chat_id: "1234567890"
+  bootstrap_admin_user_id: "42"
+  rooms:
+    - chat_id: "1234567890"
+      alias: "코인방"
+      allow_intents:
+        - coin
+    - chat_id: "9876543210"
+      alias: "장보기"
+      allow_intents:
+        - stock

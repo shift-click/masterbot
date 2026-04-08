@@ -1,0 +1,359 @@
+{
+  "1INCH": {
+    "name": "1INCH",
+    "symbol": "1INCH",
+    "tier": "cex"
+  },
+  "AAVE": {
+    "name": "AAVE",
+    "symbol": "AAVE",
+    "tier": "cex"
+  },
+  "ADA": {
+    "name": "ADA",
+    "symbol": "ADA",
+    "tier": "cex"
+  },
+  "ALGO": {
+    "name": "ALGO",
+    "symbol": "ALGO",
+    "tier": "cex"
+  },
+  "APT": {
+    "name": "APT",
+    "symbol": "APT",
+    "tier": "cex"
+  },
+  "ARB": {
+    "name": "ARB",
+    "symbol": "ARB",
+    "tier": "cex"
+  },
+  "ATOM": {
+    "name": "ATOM",
+    "symbol": "ATOM",
+    "tier": "cex"
+  },
+  "AVAX": {
+    "name": "AVAX",
+    "symbol": "AVAX",
+    "tier": "cex"
+  },
+  "AXS": {
+    "name": "AXS",
+    "symbol": "AXS",
+    "tier": "cex"
+  },
+  "BAT": {
+    "name": "BAT",
+    "symbol": "BAT",
+    "tier": "cex"
+  },
+  "BCH": {
+    "name": "BCH",
+    "symbol": "BCH",
+    "tier": "cex"
+  },
+  "BLUR": {
+    "name": "BLUR",
+    "symbol": "BLUR",
+    "tier": "cex"
+  },
+  "BNB": {
+    "name": "BNB",
+    "symbol": "BNB",
+    "tier": "cex"
+  },
+  "BONK": {
+    "name": "BONK",
+    "symbol": "BONK",
+    "tier": "cex"
+  },
+  "BTC": {
+    "name": "BTC",
+    "symbol": "BTC",
+    "tier": "cex"
+  },
+  "COMP": {
+    "name": "COMP",
+    "symbol": "COMP",
+    "tier": "cex"
+  },
+  "CRV": {
+    "name": "CRV",
+    "symbol": "CRV",
+    "tier": "cex"
+  },
+  "DOGE": {
+    "name": "DOGE",
+    "symbol": "DOGE",
+    "tier": "cex"
+  },
+  "DOT": {
+    "name": "DOT",
+    "symbol": "DOT",
+    "tier": "cex"
+  },
+  "ENS": {
+    "name": "ENS",
+    "symbol": "ENS",
+    "tier": "cex"
+  },
+  "EOS": {
+    "name": "EOS",
+    "symbol": "EOS",
+    "tier": "cex"
+  },
+  "ETC": {
+    "name": "ETC",
+    "symbol": "ETC",
+    "tier": "cex"
+  },
+  "ETH": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "tier": "cex"
+  },
+  "FET": {
+    "name": "FET",
+    "symbol": "FET",
+    "tier": "cex"
+  },
+  "FIL": {
+    "name": "FIL",
+    "symbol": "FIL",
+    "tier": "cex"
+  },
+  "FLOKI": {
+    "name": "FLOKI",
+    "symbol": "FLOKI",
+    "tier": "cex"
+  },
+  "FTM": {
+    "name": "FTM",
+    "symbol": "FTM",
+    "tier": "cex"
+  },
+  "GRT": {
+    "name": "GRT",
+    "symbol": "GRT",
+    "tier": "cex"
+  },
+  "HBAR": {
+    "name": "HBAR",
+    "symbol": "HBAR",
+    "tier": "cex"
+  },
+  "ICP": {
+    "name": "ICP",
+    "symbol": "ICP",
+    "tier": "cex"
+  },
+  "IMX": {
+    "name": "IMX",
+    "symbol": "IMX",
+    "tier": "cex"
+  },
+  "INJ": {
+    "name": "INJ",
+    "symbol": "INJ",
+    "tier": "cex"
+  },
+  "JTO": {
+    "name": "JTO",
+    "symbol": "JTO",
+    "tier": "cex"
+  },
+  "JUP": {
+    "name": "JUP",
+    "symbol": "JUP",
+    "tier": "cex"
+  },
+  "LDO": {
+    "name": "LDO",
+    "symbol": "LDO",
+    "tier": "cex"
+  },
+  "LINK": {
+    "name": "LINK",
+    "symbol": "LINK",
+    "tier": "cex"
+  },
+  "LTC": {
+    "name": "LTC",
+    "symbol": "LTC",
+    "tier": "cex"
+  },
+  "MANA": {
+    "name": "MANA",
+    "symbol": "MANA",
+    "tier": "cex"
+  },
+  "MATIC": {
+    "name": "MATIC",
+    "symbol": "MATIC",
+    "tier": "cex"
+  },
+  "MKR": {
+    "name": "MKR",
+    "symbol": "MKR",
+    "tier": "cex"
+  },
+  "NEAR": {
+    "name": "NEAR",
+    "symbol": "NEAR",
+    "tier": "cex"
+  },
+  "OP": {
+    "name": "OP",
+    "symbol": "OP",
+    "tier": "cex"
+  },
+  "PEPE": {
+    "name": "PEPE",
+    "symbol": "PEPE",
+    "tier": "cex"
+  },
+  "PYTH": {
+    "name": "PYTH",
+    "symbol": "PYTH",
+    "tier": "cex"
+  },
+  "RENDER": {
+    "name": "RENDER",
+    "symbol": "RENDER",
+    "tier": "cex"
+  },
+  "RPL": {
+    "name": "RPL",
+    "symbol": "RPL",
+    "tier": "cex"
+  },
+  "RUNE": {
+    "name": "RUNE",
+    "symbol": "RUNE",
+    "tier": "cex"
+  },
+  "SAND": {
+    "name": "SAND",
+    "symbol": "SAND",
+    "tier": "cex"
+  },
+  "SEI": {
+    "name": "SEI",
+    "symbol": "SEI",
+    "tier": "cex"
+  },
+  "SHIB": {
+    "name": "SHIB",
+    "symbol": "SHIB",
+    "tier": "cex"
+  },
+  "SNX": {
+    "name": "SNX",
+    "symbol": "SNX",
+    "tier": "cex"
+  },
+  "SOL": {
+    "name": "SOL",
+    "symbol": "SOL",
+    "tier": "cex"
+  },
+  "STRK": {
+    "name": "STRK",
+    "symbol": "STRK",
+    "tier": "cex"
+  },
+  "STX": {
+    "name": "STX",
+    "symbol": "STX",
+    "tier": "cex"
+  },
+  "SUI": {
+    "name": "SUI",
+    "symbol": "SUI",
+    "tier": "cex"
+  },
+  "SUSHI": {
+    "name": "SUSHI",
+    "symbol": "SUSHI",
+    "tier": "cex"
+  },
+  "THETA": {
+    "name": "THETA",
+    "symbol": "THETA",
+    "tier": "cex"
+  },
+  "TIA": {
+    "name": "TIA",
+    "symbol": "TIA",
+    "tier": "cex"
+  },
+  "TON": {
+    "name": "TON",
+    "symbol": "TON",
+    "tier": "cex"
+  },
+  "TRX": {
+    "name": "TRX",
+    "symbol": "TRX",
+    "tier": "cex"
+  },
+  "UNI": {
+    "name": "UNI",
+    "symbol": "UNI",
+    "tier": "cex"
+  },
+  "VET": {
+    "name": "VET",
+    "symbol": "VET",
+    "tier": "cex"
+  },
+  "W": {
+    "name": "W",
+    "symbol": "W",
+    "tier": "cex"
+  },
+  "WIF": {
+    "name": "WIF",
+    "symbol": "WIF",
+    "tier": "cex"
+  },
+  "WLD": {
+    "name": "WLD",
+    "symbol": "WLD",
+    "tier": "cex"
+  },
+  "XLM": {
+    "name": "XLM",
+    "symbol": "XLM",
+    "tier": "cex"
+  },
+  "XRP": {
+    "name": "XRP",
+    "symbol": "XRP",
+    "tier": "cex"
+  },
+  "YFI": {
+    "name": "YFI",
+    "symbol": "YFI",
+    "tier": "cex"
+  },
+  "ZRX": {
+    "name": "ZRX",
+    "symbol": "ZRX",
+    "tier": "cex"
+  },
+  "monad": {
+    "chain_id": "monad",
+    "coingecko_id": "monad",
+    "contract_address": "0x3bd359C1119dA7Da1D913D1C4D2B7c461115433A",
+    "name": "Monad",
+    "pair_address": "0x659bD0BC4167BA25c62E05656F78043E7eD4a9da",
+    "preferred_chart_venue": "upbit",
+    "preferred_quote_venue": "cex",
+    "symbol": "MON",
+    "tier": "dex",
+    "upbit_market": "KRW-MON"
+  }
+}
