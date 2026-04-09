@@ -1,0 +1,10 @@
+/.dist/
+/bin/
+*.log
+*.tmp
+/data/*.db
+/data/*.db-shm
+/data/*.db-wal
+/alertd
+/jucobot
+/services/chart-renderer/node_modules/

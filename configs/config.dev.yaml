@@ -1,0 +1,96 @@
+bot:
+  name: JucoBot v2 (dev)
+  log_level: debug
+  shutdown_timeout: 10s
+
+iris:
+  enabled: false
+
+http_test:
+  enabled: true
+  addr: ":18080"
+  reply_timeout: 15s
+
+cache:
+  driver: memory
+  default_ttl: 5m
+  stale_ttl: 1h
+  cleanup_interval: 1m
+
+store:
+  driver: memory
+  table: bot_state
+
+stock:
+  poll_interval: 2s
+  idle_timeout: 10m
+  off_hour_interval: 60s
+  market_open: 9
+  market_close: 16
+
+coupang:
+  db_path: data/coupang.db
+  collect_interval: 15m
+  idle_timeout: 720h
+  max_products: 10000
+  hot_interval: 1h
+  warm_interval: 6h
+  cold_interval: 24h
+  freshness: 1h
+  stale_threshold: 24h
+  min_refresh_interval: 30m
+  refresh_budget_per_hour: 120
+  registration_budget_per_hour: 30
+  resolution_budget_per_hour: 60
+  tier_window: 24h
+  hot_threshold: 3
+  warm_threshold: 1
+  candidate_fanout: 3
+  mapping_recheck_backoff: 6h
+  allow_auxiliary_fallback: true
+  read_refresh_timeout: 2s
+  lookup_coalescing_enabled: true
+  registration_join_wait: 2s
+  read_refresh_join_wait: 2s
+  chart_backfill_interval: 72h
+
+lotto:
+  db_path: data/lotto.db
+  sync_cooldown: 10m
+
+sports:
+  live_poll_interval: 30s
+  match_day_interval: 1h
+  idle_day_interval: 6h
+  pre_match_lead_time: 30m
+  odds_cache_ttl: 4h
+  event_fetch_delay: 90s
+  api_football_key: ""
+  api_football_budget: 100
+  odds_api_key: ""
+
+access:
+  default_policy: allow
+  rooms: []
+
+gemini:
+  api_key: ""
+  model: gemini-2.5-flash
+
+admin:
+  enabled: false
+  listen_addr: 127.0.0.1:9090
+  base_path: /admin
+  metrics_enabled: false
+  metrics_db_path: data/admin-metrics.db
+  pseudonym_secret: ""
+  flush_interval: 2s
+  rollup_interval: 5m
+  raw_retention: 2160h
+  hourly_retention: 2160h
+  daily_retention: 9480h
+  error_retention: 4320h
+  auth_email_header: X-Auth-Request-Email
+  allowed_emails: ""
+  audience_scopes: ""
+  trusted_proxy_cidrs: 127.0.0.1/32,::1/128

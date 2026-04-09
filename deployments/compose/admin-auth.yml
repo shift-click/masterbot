@@ -1,0 +1,44 @@
+name: ${JUCOBOT_ADMIN_COMPOSE_PROJECT_NAME:-jucobot-admin}
+
+services:
+  oauth2-proxy:
+    image: quay.io/oauth2-proxy/oauth2-proxy:v7.8.1
+    restart: unless-stopped
+    environment:
+      OAUTH2_PROXY_PROVIDER: google
+      OAUTH2_PROXY_HTTP_ADDRESS: 0.0.0.0:4180
+      OAUTH2_PROXY_EMAIL_DOMAINS: "*"
+      OAUTH2_PROXY_SCOPE: openid email profile
+      OAUTH2_PROXY_REVERSE_PROXY: "true"
+      OAUTH2_PROXY_SET_XAUTHREQUEST: "true"
+      OAUTH2_PROXY_PASS_AUTHORIZATION_HEADER: "false"
+      OAUTH2_PROXY_SKIP_PROVIDER_BUTTON: "true"
+      OAUTH2_PROXY_COOKIE_SECURE: "true"
+      OAUTH2_PROXY_CLIENT_ID: ${OAUTH2_PROXY_CLIENT_ID:?set OAUTH2_PROXY_CLIENT_ID}
+      OAUTH2_PROXY_CLIENT_SECRET: ${OAUTH2_PROXY_CLIENT_SECRET:?set OAUTH2_PROXY_CLIENT_SECRET}
+      OAUTH2_PROXY_COOKIE_SECRET: ${OAUTH2_PROXY_COOKIE_SECRET:?set OAUTH2_PROXY_COOKIE_SECRET}
+      OAUTH2_PROXY_ALLOWED_EMAILS: ${OAUTH2_PROXY_ALLOWED_EMAILS:?set OAUTH2_PROXY_ALLOWED_EMAILS}
+      OAUTH2_PROXY_UPSTREAMS: http://${JUCOBOT_CONTAINER_NAME:-jucobot-app}:9090/admin/
+    networks:
+      - stack
+
+  admin-proxy:
+    image: nginx:1.27-alpine
+    restart: unless-stopped
+    depends_on:
+      - oauth2-proxy
+    ports:
+      - ${JUCOBOT_ADMIN_PUBLIC_PORT:-8080}:8080
+    volumes:
+      - ../admin/nginx-admin.conf.template:/etc/nginx/templates/default.conf.template:ro
+    environment:
+      OAUTH2_PROXY_UPSTREAM: http://oauth2-proxy:4180
+      JUCOBOT_ADMIN_UPSTREAM: http://${JUCOBOT_CONTAINER_NAME:-jucobot-app}:9090
+      JUCOBOT_ADMIN_SERVER_NAME: ${JUCOBOT_ADMIN_SERVER_NAME:-_}
+    networks:
+      - stack
+
+networks:
+  stack:
+    external: true
+    name: ${JUCOBOT_STACK_NETWORK:-jucobot-stack}

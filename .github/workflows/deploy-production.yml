@@ -1,0 +1,119 @@
+name: deploy-production
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: production
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    environment: production
+    permissions:
+      contents: read
+      id-token: write
+      attestations: write
+    env:
+      AWS_REGION: ${{ vars.AWS_REGION }}
+      AWS_DEPLOY_ROLE_ARN: ${{ vars.AWS_DEPLOY_ROLE_ARN }}
+      AWS_DEPLOY_BUCKET: ${{ vars.AWS_DEPLOY_BUCKET }}
+      AWS_DEPLOY_INSTANCE_ID: ${{ vars.AWS_DEPLOY_INSTANCE_ID }}
+      AWS_SSM_PREFIX: ${{ vars.AWS_SSM_PREFIX }}
+      REMOTE_ROOT: ${{ vars.REMOTE_ROOT }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@93cb6efe18208431cddfb8368fd83d5badbf9bfd
+
+      - name: Setup Go
+        uses: actions/setup-go@4a3601121dd01d1626a1e23e37211e3254c1c06c
+        with:
+          go-version-file: go.mod
+          cache: true
+
+      - name: Setup Node.js
+        uses: actions/setup-node@53b83947a5a98c8d113130e565377fae1a50d02f
+        with:
+          node-version: "20"
+          cache: npm
+          cache-dependency-path: services/chart-renderer/package-lock.json
+
+      - name: Run Go test suite
+        run: go test ./...
+
+      - name: Install chart-renderer dependencies
+        working-directory: services/chart-renderer
+        run: npm ci
+
+      - name: Run chart-renderer tests
+        working-directory: services/chart-renderer
+        run: npm test
+
+      - name: Compute release metadata
+        shell: bash
+        run: |
+          set -euo pipefail
+          release_id="$(date -u +'%Y%m%d%H%M%S')-${GITHUB_SHA::12}"
+          build_time="$(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          echo "RELEASE_ID=$release_id" >> "$GITHUB_ENV"
+          echo "BUILD_TIME=$build_time" >> "$GITHUB_ENV"
+
+      - name: Package release archive
+        shell: bash
+        run: |
+          set -euo pipefail
+          archive_path="$(RELEASE_ID="$RELEASE_ID" BUILD_REVISION="$GITHUB_SHA" BUILD_TIME="$BUILD_TIME" ./scripts/deploy/package-release.sh)"
+          echo "ARCHIVE_PATH=$archive_path" >> "$GITHUB_ENV"
+          echo "ARCHIVE_NAME=$(basename "$archive_path")" >> "$GITHUB_ENV"
+
+      - name: Upload release artifact
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: public-production-release
+          path: ${{ env.ARCHIVE_PATH }}
+          if-no-files-found: error
+
+      - name: Attest release artifact provenance
+        uses: actions/attest-build-provenance@96b4a1ef7235a096b17240c259729fdd70c83d45
+        with:
+          subject-path: ${{ env.ARCHIVE_PATH }}
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@ff717079ee2060e4bcee96c4779b553acc87447c
+        with:
+          role-to-assume: ${{ env.AWS_DEPLOY_ROLE_ARN }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      - name: Deploy via AWS SSM
+        shell: bash
+        run: |
+          set -euo pipefail
+          TARGET_INSTANCE_ID="$AWS_DEPLOY_INSTANCE_ID" \
+          DEPLOY_BUCKET="$AWS_DEPLOY_BUCKET" \
+          AWS_REGION="${AWS_REGION:-ap-northeast-2}" \
+          SSM_PREFIX="${AWS_SSM_PREFIX:-/jucobot/prod}" \
+          REMOTE_ROOT="${REMOTE_ROOT:-/opt/jucobot}" \
+          RELEASE_ID="$RELEASE_ID" \
+          BUILD_REVISION="$GITHUB_SHA" \
+          BUILD_TIME="$BUILD_TIME" \
+          ARCHIVE_PATH="$ARCHIVE_PATH" \
+          ./scripts/deploy/deploy-ssm.sh
+
+      - name: Verify remote release state
+        shell: bash
+        run: |
+          set -euo pipefail
+          TARGET_INSTANCE_ID="$AWS_DEPLOY_INSTANCE_ID" \
+          AWS_REGION="${AWS_REGION:-ap-northeast-2}" \
+          REMOTE_ROOT="${REMOTE_ROOT:-/opt/jucobot}" \
+          EXPECTED_RELEASE_ID="$RELEASE_ID" \
+          EXPECTED_REVISION="$GITHUB_SHA" \
+          ./scripts/deploy/verify-ssm-state.sh

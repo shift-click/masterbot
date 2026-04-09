@@ -1,0 +1,719 @@
+{
+  "AAPL": {
+    "code": "AAPL",
+    "name": "애플",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "AAPL.O"
+  },
+  "AMD": {
+    "code": "AMD",
+    "name": "AMD",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "AMD.O"
+  },
+  "AMZN": {
+    "code": "AMZN",
+    "name": "아마존닷컴",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "AMZN.O"
+  },
+  "AVGO": {
+    "code": "AVGO",
+    "name": "브로드컴",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "AVGO.O"
+  },
+  "COST": {
+    "code": "COST",
+    "name": "코스트코 홀세일",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "COST.O"
+  },
+  "DIS": {
+    "code": "DIS",
+    "name": "월트 디즈니",
+    "market": "NYSE",
+    "nation_code": "USA",
+    "reuters_code": "DIS"
+  },
+  "GOOG": {
+    "code": "GOOG",
+    "name": "알파벳 Class C",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "GOOG.O"
+  },
+  "GOOGL": {
+    "code": "GOOGL",
+    "name": "알파벳 Class A",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "GOOGL.O"
+  },
+  "HD현대중공업": {
+    "code": "329180",
+    "name": "HD현대중공업",
+    "market": "KOSPI"
+  },
+  "HLB": {
+    "code": "028300",
+    "name": "HLB",
+    "market": "KOSDAQ"
+  },
+  "INTC": {
+    "code": "INTC",
+    "name": "인텔",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "INTC.O"
+  },
+  "JPM": {
+    "code": "JPM",
+    "name": "JP모간 체이스",
+    "market": "NYSE",
+    "nation_code": "USA",
+    "reuters_code": "JPM"
+  },
+  "JP모건": {
+    "code": "JPM",
+    "name": "JP모간 체이스",
+    "market": "NYSE",
+    "nation_code": "USA",
+    "reuters_code": "JPM"
+  },
+  "KB": {
+    "code": "105560",
+    "name": "KB금융",
+    "market": "KOSPI"
+  },
+  "KB금융": {
+    "code": "105560",
+    "name": "KB금융",
+    "market": "KOSPI"
+  },
+  "KO": {
+    "code": "KO",
+    "name": "코카콜라",
+    "market": "NYSE",
+    "nation_code": "USA",
+    "reuters_code": "KO"
+  },
+  "LG에너지솔루션": {
+    "code": "373220",
+    "name": "LG에너지솔루션",
+    "market": "KOSPI"
+  },
+  "LG전자": {
+    "code": "066570",
+    "name": "LG전자",
+    "market": "KOSPI"
+  },
+  "LG화학": {
+    "code": "051910",
+    "name": "LG화학",
+    "market": "KOSPI"
+  },
+  "META": {
+    "code": "META",
+    "name": "메타 플랫폼스",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "META.O"
+  },
+  "MSFT": {
+    "code": "MSFT",
+    "name": "마이크로소프트",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "MSFT.O"
+  },
+  "NAVER": {
+    "code": "035420",
+    "name": "NAVER",
+    "market": "KOSPI"
+  },
+  "NFLX": {
+    "code": "NFLX",
+    "name": "넷플릭스",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "NFLX.O"
+  },
+  "NVDA": {
+    "code": "NVDA",
+    "name": "엔비디아",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "NVDA.O"
+  },
+  "PLTR": {
+    "code": "PLTR",
+    "name": "팔란티어 테크놀로지스",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "PLTR.O"
+  },
+  "POSCO홀딩스": {
+    "code": "005490",
+    "name": "POSCO홀딩스",
+    "market": "KOSPI"
+  },
+  "SK하이닉스": {
+    "code": "000660",
+    "name": "SK하이닉스",
+    "market": "KOSPI"
+  },
+  "TSLA": {
+    "code": "TSLA",
+    "name": "테슬라",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "TSLA.O"
+  },
+  "V": {
+    "code": "V",
+    "name": "비자",
+    "market": "NYSE",
+    "nation_code": "USA",
+    "reuters_code": "V"
+  },
+  "amazon": {
+    "code": "AMZN",
+    "name": "아마존닷컴",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "AMZN.O"
+  },
+  "apple": {
+    "code": "AAPL",
+    "name": "애플",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "AAPL.O"
+  },
+  "broadcom": {
+    "code": "AVGO",
+    "name": "브로드컴",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "AVGO.O"
+  },
+  "costco": {
+    "code": "COST",
+    "name": "코스트코 홀세일",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "COST.O"
+  },
+  "disney": {
+    "code": "DIS",
+    "name": "월트 디즈니",
+    "market": "NYSE",
+    "nation_code": "USA",
+    "reuters_code": "DIS"
+  },
+  "google": {
+    "code": "GOOGL",
+    "name": "알파벳 Class A",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "GOOGL.O"
+  },
+  "intel": {
+    "code": "INTC",
+    "name": "인텔",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "INTC.O"
+  },
+  "meta": {
+    "code": "META",
+    "name": "메타 플랫폼스",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "META.O"
+  },
+  "microsoft": {
+    "code": "MSFT",
+    "name": "마이크로소프트",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "MSFT.O"
+  },
+  "netflix": {
+    "code": "NFLX",
+    "name": "넷플릭스",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "NFLX.O"
+  },
+  "nvidia": {
+    "code": "NVDA",
+    "name": "엔비디아",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "NVDA.O"
+  },
+  "palantir": {
+    "code": "PLTR",
+    "name": "팔란티어 테크놀로지스",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "PLTR.O"
+  },
+  "tesla": {
+    "code": "TSLA",
+    "name": "테슬라",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "TSLA.O"
+  },
+  "visa": {
+    "code": "V",
+    "name": "비자",
+    "market": "NYSE",
+    "nation_code": "USA",
+    "reuters_code": "V"
+  },
+  "ㅅㅈ": {
+    "code": "005930",
+    "name": "삼성전자",
+    "market": "KOSPI"
+  },
+  "ㅎㄴ": {
+    "code": "000660",
+    "name": "SK하이닉스",
+    "market": "KOSPI"
+  },
+  "ㅎㄷㅊ": {
+    "code": "005380",
+    "name": "현대차",
+    "market": "KOSPI"
+  },
+  "구글": {
+    "code": "GOOGL",
+    "name": "알파벳 Class A",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "GOOGL.O"
+  },
+  "기아": {
+    "code": "000270",
+    "name": "기아",
+    "market": "KOSPI"
+  },
+  "기차": {
+    "code": "000270",
+    "name": "기아",
+    "market": "KOSPI"
+  },
+  "네바": {
+    "code": "035420",
+    "name": "NAVER",
+    "market": "KOSPI"
+  },
+  "네이버": {
+    "code": "035420",
+    "name": "NAVER",
+    "market": "KOSPI"
+  },
+  "넷플": {
+    "code": "NFLX",
+    "name": "넷플릭스",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "NFLX.O"
+  },
+  "넷플릭스": {
+    "code": "NFLX",
+    "name": "넷플릭스",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "NFLX.O"
+  },
+  "두산에": {
+    "code": "034020",
+    "name": "두산에너빌리티",
+    "market": "KOSPI"
+  },
+  "두산에너빌리티": {
+    "code": "034020",
+    "name": "두산에너빌리티",
+    "market": "KOSPI"
+  },
+  "디즈니": {
+    "code": "DIS",
+    "name": "월트 디즈니",
+    "market": "NYSE",
+    "nation_code": "USA",
+    "reuters_code": "DIS"
+  },
+  "리가켐": {
+    "code": "141080",
+    "name": "리가켐바이오",
+    "market": "KOSDAQ"
+  },
+  "리가켐바이오": {
+    "code": "141080",
+    "name": "리가켐바이오",
+    "market": "KOSDAQ"
+  },
+  "마소": {
+    "code": "MSFT",
+    "name": "마이크로소프트",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "MSFT.O"
+  },
+  "마이크로소프트": {
+    "code": "MSFT",
+    "name": "마이크로소프트",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "MSFT.O"
+  },
+  "메타": {
+    "code": "META",
+    "name": "메타 플랫폼스",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "META.O"
+  },
+  "버크셔": {
+    "code": "BRK.B",
+    "name": "버크셔 해서웨이 Class B",
+    "market": "NYSE",
+    "nation_code": "USA",
+    "reuters_code": "BRKb"
+  },
+  "브로드컴": {
+    "code": "AVGO",
+    "name": "브로드컴",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "AVGO.O"
+  },
+  "비자": {
+    "code": "V",
+    "name": "비자",
+    "market": "NYSE",
+    "nation_code": "USA",
+    "reuters_code": "V"
+  },
+  "삼SDI": {
+    "code": "006400",
+    "name": "삼성SDI",
+    "market": "KOSPI"
+  },
+  "삼물": {
+    "code": "028260",
+    "name": "삼성물산",
+    "market": "KOSPI"
+  },
+  "삼바": {
+    "code": "207940",
+    "name": "삼성바이오로직스",
+    "market": "KOSPI"
+  },
+  "삼생": {
+    "code": "032830",
+    "name": "삼성생명",
+    "market": "KOSPI"
+  },
+  "삼성SDI": {
+    "code": "006400",
+    "name": "삼성SDI",
+    "market": "KOSPI"
+  },
+  "삼성물산": {
+    "code": "028260",
+    "name": "삼성물산",
+    "market": "KOSPI"
+  },
+  "삼성바이오로직스": {
+    "code": "207940",
+    "name": "삼성바이오로직스",
+    "market": "KOSPI"
+  },
+  "삼성생명": {
+    "code": "032830",
+    "name": "삼성생명",
+    "market": "KOSPI"
+  },
+  "삼성전자": {
+    "code": "005930",
+    "name": "삼성전자",
+    "market": "KOSPI"
+  },
+  "삼성전자우": {
+    "code": "005935",
+    "name": "삼성전자우",
+    "market": "KOSPI"
+  },
+  "삼성화재": {
+    "code": "000810",
+    "name": "삼성화재",
+    "market": "KOSPI"
+  },
+  "삼에스": {
+    "code": "006400",
+    "name": "삼성SDI",
+    "market": "KOSPI"
+  },
+  "삼전": {
+    "code": "005930",
+    "name": "삼성전자",
+    "market": "KOSPI"
+  },
+  "삼전우": {
+    "code": "005935",
+    "name": "삼성전자우",
+    "market": "KOSPI"
+  },
+  "삼화재": {
+    "code": "000810",
+    "name": "삼성화재",
+    "market": "KOSPI"
+  },
+  "셀트": {
+    "code": "068270",
+    "name": "셀트리온",
+    "market": "KOSPI"
+  },
+  "셀트리온": {
+    "code": "068270",
+    "name": "셀트리온",
+    "market": "KOSPI"
+  },
+  "신한": {
+    "code": "055550",
+    "name": "신한지주",
+    "market": "KOSPI"
+  },
+  "신한지주": {
+    "code": "055550",
+    "name": "신한지주",
+    "market": "KOSPI"
+  },
+  "아마존": {
+    "code": "AMZN",
+    "name": "아마존닷컴",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "AMZN.O"
+  },
+  "알테오젠": {
+    "code": "196170",
+    "name": "알테오젠",
+    "market": "KOSDAQ"
+  },
+  "애플": {
+    "code": "AAPL",
+    "name": "애플",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "AAPL.O"
+  },
+  "에코비": {
+    "code": "247540",
+    "name": "에코프로비엠",
+    "market": "KOSDAQ"
+  },
+  "에코프로": {
+    "code": "086520",
+    "name": "에코프로",
+    "market": "KOSDAQ"
+  },
+  "에코프로비엠": {
+    "code": "247540",
+    "name": "에코프로비엠",
+    "market": "KOSDAQ"
+  },
+  "에하닉": {
+    "code": "000660",
+    "name": "SK하이닉스",
+    "market": "KOSPI"
+  },
+  "엔비디아": {
+    "code": "NVDA",
+    "name": "엔비디아",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "NVDA.O"
+  },
+  "엘앤에프": {
+    "code": "066970",
+    "name": "엘앤에프",
+    "market": "KOSDAQ"
+  },
+  "엘지이": {
+    "code": "373220",
+    "name": "LG에너지솔루션",
+    "market": "KOSPI"
+  },
+  "엘지전": {
+    "code": "066570",
+    "name": "LG전자",
+    "market": "KOSPI"
+  },
+  "엘지화": {
+    "code": "051910",
+    "name": "LG화학",
+    "market": "KOSPI"
+  },
+  "우리": {
+    "code": "316140",
+    "name": "우리금융지주",
+    "market": "KOSPI"
+  },
+  "우리금융지주": {
+    "code": "316140",
+    "name": "우리금융지주",
+    "market": "KOSPI"
+  },
+  "인텔": {
+    "code": "INTC",
+    "name": "인텔",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "INTC.O"
+  },
+  "카게": {
+    "code": "293490",
+    "name": "카카오게임즈",
+    "market": "KOSDAQ"
+  },
+  "카뱅": {
+    "code": "323410",
+    "name": "카카오뱅크",
+    "market": "KOSPI"
+  },
+  "카카오": {
+    "code": "035720",
+    "name": "카카오",
+    "market": "KOSPI"
+  },
+  "카카오게임즈": {
+    "code": "293490",
+    "name": "카카오게임즈",
+    "market": "KOSDAQ"
+  },
+  "카카오뱅크": {
+    "code": "323410",
+    "name": "카카오뱅크",
+    "market": "KOSPI"
+  },
+  "카카오페이": {
+    "code": "377300",
+    "name": "카카오페이",
+    "market": "KOSPI"
+  },
+  "카페": {
+    "code": "377300",
+    "name": "카카오페이",
+    "market": "KOSPI"
+  },
+  "코스트코": {
+    "code": "COST",
+    "name": "코스트코 홀세일",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "COST.O"
+  },
+  "코카콜라": {
+    "code": "KO",
+    "name": "코카콜라",
+    "market": "NYSE",
+    "nation_code": "USA",
+    "reuters_code": "KO"
+  },
+  "크래프톤": {
+    "code": "259960",
+    "name": "크래프톤",
+    "market": "KOSPI"
+  },
+  "테슬라": {
+    "code": "TSLA",
+    "name": "테슬라",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "TSLA.O"
+  },
+  "팔란티어": {
+    "code": "PLTR",
+    "name": "팔란티어 테크놀로지스",
+    "market": "NASDAQ",
+    "nation_code": "USA",
+    "reuters_code": "PLTR.O"
+  },
+  "포스코": {
+    "code": "005490",
+    "name": "POSCO홀딩스",
+    "market": "KOSPI"
+  },
+  "포홀": {
+    "code": "005490",
+    "name": "POSCO홀딩스",
+    "market": "KOSPI"
+  },
+  "펄어비스": {
+    "code": "263750",
+    "name": "펄어비스",
+    "market": "KOSDAQ"
+  },
+  "하나": {
+    "code": "086790",
+    "name": "하나금융지주",
+    "market": "KOSPI"
+  },
+  "하나금융지주": {
+    "code": "086790",
+    "name": "하나금융지주",
+    "market": "KOSPI"
+  },
+  "하닉": {
+    "code": "000660",
+    "name": "SK하이닉스",
+    "market": "KOSPI"
+  },
+  "한국전력": {
+    "code": "015760",
+    "name": "한국전력",
+    "market": "KOSPI"
+  },
+  "한미반": {
+    "code": "042700",
+    "name": "한미반도체",
+    "market": "KOSPI"
+  },
+  "한미반도체": {
+    "code": "042700",
+    "name": "한미반도체",
+    "market": "KOSPI"
+  },
+  "한전": {
+    "code": "015760",
+    "name": "한국전력",
+    "market": "KOSPI"
+  },
+  "현대차": {
+    "code": "005380",
+    "name": "현대차",
+    "market": "KOSPI"
+  },
+  "현엔진": {
+    "code": "329180",
+    "name": "HD현대중공업",
+    "market": "KOSPI"
+  },
+  "현차": {
+    "code": "005380",
+    "name": "현대차",
+    "market": "KOSPI"
+  }
+}

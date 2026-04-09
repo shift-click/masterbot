@@ -1,0 +1,40 @@
+name: ${REDROID_PROJECT_NAME:-jucobot-redroid}
+
+services:
+  redroid:
+    container_name: ${REDROID_CONTAINER_NAME:-jucobot-redroid}
+    image: ${REDROID_IMAGE:-redroid/redroid:12.0.0-latest}
+    privileged: true
+    restart: unless-stopped
+    command:
+      - androidboot.redroid_gpu_mode=${REDROID_GPU_MODE:-guest}
+      - androidboot.use_memfd=${REDROID_USE_MEMFD:-true}
+    ports:
+      - "${REDROID_BIND_ADDRESS:-127.0.0.1}:${REDROID_ADB_PORT:-5555}:5555"
+      - "${REDROID_BIND_ADDRESS:-127.0.0.1}:${REDROID_IRIS_PORT:-3000}:3000"
+    volumes:
+      - redroid-data:/data
+    deploy:
+      resources:
+        limits:
+          cpus: '4'
+          memory: 4G
+        reservations:
+          cpus: '2'
+          memory: 2G
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3000/dashboard"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 120s
+    networks:
+      - stack
+
+networks:
+  stack:
+    name: ${JUCOBOT_STACK_NETWORK:-jucobot-stack}
+
+volumes:
+  redroid-data:
+    name: ${REDROID_DATA_VOLUME:-jucobot-redroid-data}

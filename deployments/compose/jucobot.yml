@@ -1,0 +1,115 @@
+name: ${JUCOBOT_COMPOSE_PROJECT_NAME:-jucobot-app}
+
+services:
+  jucobot:
+    container_name: ${JUCOBOT_CONTAINER_NAME:-jucobot-app}
+    build:
+      context: ../..
+      dockerfile: deployments/Dockerfile
+    restart: unless-stopped
+    environment:
+      JUCOBOT_IRIS_ENABLED: ${JUCOBOT_IRIS_ENABLED:-true}
+      JUCOBOT_IRIS_WS_URL: ${JUCOBOT_IRIS_WS_URL:-ws://jucobot-redroid:3000/ws}
+      JUCOBOT_IRIS_HTTP_URL: ${JUCOBOT_IRIS_HTTP_URL:-http://jucobot-redroid:3000}
+      JUCOBOT_BOT_LOG_LEVEL: ${JUCOBOT_BOT_LOG_LEVEL:-info}
+      JUCOBOT_COUPANG_DB_PATH: /app/data/coupang.db
+      JUCOBOT_BUILD_VERSION: ${JUCOBOT_BUILD_VERSION:-dev}
+      JUCOBOT_BUILD_REVISION: ${JUCOBOT_BUILD_REVISION:-unknown}
+      JUCOBOT_BUILD_TIME: ${JUCOBOT_BUILD_TIME:-unknown}
+      JUCOBOT_ADMIN_METRICS_ENABLED: ${JUCOBOT_ADMIN_METRICS_ENABLED:-false}
+      JUCOBOT_ADMIN_METRICS_DB_PATH: ${JUCOBOT_ADMIN_METRICS_DB_PATH:-/app/data/admin-metrics.db}
+      JUCOBOT_ADMIN_PSEUDONYM_SECRET: ${JUCOBOT_ADMIN_PSEUDONYM_SECRET:-}
+      JUCOBOT_ADMIN_ENABLED: ${JUCOBOT_ADMIN_ENABLED:-false}
+      JUCOBOT_ADMIN_LISTEN_ADDR: ${JUCOBOT_ADMIN_LISTEN_ADDR:-0.0.0.0:9090}
+      JUCOBOT_ADMIN_BASE_PATH: ${JUCOBOT_ADMIN_BASE_PATH:-/admin}
+      JUCOBOT_ADMIN_AUTH_EMAIL_HEADER: ${JUCOBOT_ADMIN_AUTH_EMAIL_HEADER:-X-Auth-Request-Email}
+      JUCOBOT_ADMIN_ALLOWED_EMAILS: ${JUCOBOT_ADMIN_ALLOWED_EMAILS:-}
+      JUCOBOT_ADMIN_AUDIENCE_SCOPES: ${JUCOBOT_ADMIN_AUDIENCE_SCOPES:-}
+      JUCOBOT_ADMIN_TRUSTED_PROXY_CIDRS: ${JUCOBOT_ADMIN_TRUSTED_PROXY_CIDRS:-127.0.0.1/32,::1/128}
+      JUCOBOT_ALERT_TELEGRAM_BOT_TOKEN: ${JUCOBOT_ALERT_TELEGRAM_BOT_TOKEN:-}
+      JUCOBOT_ALERT_TELEGRAM_CHAT_ID: ${JUCOBOT_ALERT_TELEGRAM_CHAT_ID:-}
+      JUCOBOT_ALERT_TELEGRAM_API_BASE: ${JUCOBOT_ALERT_TELEGRAM_API_BASE:-https://api.telegram.org}
+      JUCOBOT_ALERT_APP_NAME: ${JUCOBOT_ALERT_APP_NAME:-jucobot}
+      JUCOBOT_GEMINI_API_KEY: ${JUCOBOT_GEMINI_API_KEY:-}
+      JUCOBOT_CHART_RENDERER_URL: ${JUCOBOT_CHART_RENDERER_URL:-}
+      GOMEMLIMIT: 400MiB
+    deploy:
+      resources:
+        limits:
+          memory: 512M
+        reservations:
+          memory: 256M
+    healthcheck:
+      test:
+        [
+          "CMD-SHELL",
+          "if [ \"${JUCOBOT_ADMIN_ENABLED:-false}\" = \"true\" ]; then smoke_email=\"${JUCOBOT_SMOKE_ADMIN_EMAIL:-}\"; if [ -z \"$$smoke_email\" ] && [ -n \"${JUCOBOT_ADMIN_ALLOWED_EMAILS:-}\" ]; then smoke_email=$$(printf '%s' \"$JUCOBOT_ADMIN_ALLOWED_EMAILS\" | cut -d, -f1 | tr -d ' '); fi; [ -n \"$$smoke_email\" ] && wget --spider -q --header=\"${JUCOBOT_ADMIN_AUTH_EMAIL_HEADER:-X-Auth-Request-Email}: $$smoke_email\" \"http://127.0.0.1:9090${JUCOBOT_ADMIN_BASE_PATH:-/admin}/api/overview\"; else pidof jucobot >/dev/null; fi",
+        ]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
+    volumes:
+      - /opt/jucobot/shared/config.yaml:/app/configs/config.yaml:ro
+      - jucobot-data:/app/data
+    networks:
+      - stack
+
+  chart-renderer:
+    profiles:
+      - chart
+    container_name: ${JUCOBOT_CHART_RENDERER_NAME:-jucobot-chart-renderer}
+    build:
+      context: ../../services/chart-renderer
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    deploy:
+      resources:
+        limits:
+          memory: 768M
+        reservations:
+          memory: 256M
+    healthcheck:
+      test:
+        ["CMD-SHELL", "wget -qO- http://localhost:3100/health >/dev/null"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 30s
+    networks:
+      - stack
+
+  alertd:
+    profiles:
+      - alerting
+    container_name: ${JUCOBOT_ALERTD_CONTAINER_NAME:-jucobot-alertd}
+    build:
+      context: ../..
+      dockerfile: deployments/Dockerfile
+    restart: unless-stopped
+    environment:
+      ALERTD_APP_NAME: ${ALERTD_APP_NAME:-jucobot}
+      ALERTD_METRICS_DB_PATH: ${ALERTD_METRICS_DB_PATH:-/app/data/admin-metrics.db}
+      ALERTD_POLL_INTERVAL: ${ALERTD_POLL_INTERVAL:-1m}
+      ALERTD_CRITICAL_WINDOW: ${ALERTD_CRITICAL_WINDOW:-3m}
+      ALERTD_WARNING_WINDOW: ${ALERTD_WARNING_WINDOW:-10m}
+      ALERTD_ERROR_RATE_THRESHOLD: ${ALERTD_ERROR_RATE_THRESHOLD:-0.05}
+      ALERTD_P95_THRESHOLD_MS: ${ALERTD_P95_THRESHOLD_MS:-1500}
+      ALERTD_MIN_COMMANDS: ${ALERTD_MIN_COMMANDS:-10}
+      ALERTD_DEDUP_WINDOW: ${ALERTD_DEDUP_WINDOW:-15m}
+      ALERTD_TELEGRAM_BOT_TOKEN: ${ALERTD_TELEGRAM_BOT_TOKEN:?set ALERTD_TELEGRAM_BOT_TOKEN}
+      ALERTD_TELEGRAM_CHAT_ID: ${ALERTD_TELEGRAM_CHAT_ID:?set ALERTD_TELEGRAM_CHAT_ID}
+      ALERTD_TELEGRAM_API_BASE: ${ALERTD_TELEGRAM_API_BASE:-https://api.telegram.org}
+    entrypoint: ["/app/alertd"]
+    volumes:
+      - jucobot-data:/app/data
+    networks:
+      - stack
+
+networks:
+  stack:
+    external: true
+    name: ${JUCOBOT_STACK_NETWORK:-jucobot-stack}
+
+volumes:
+  jucobot-data:

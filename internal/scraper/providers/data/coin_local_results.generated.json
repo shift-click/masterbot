@@ -1,0 +1,7658 @@
+{
+  "1-coin-can-change-your-life": {
+    "symbol": "1-COIN-CAN-CHANGE-YOUR-LIFE",
+    "name": "1 Coin Can Change Your Life",
+    "tier": "coingecko",
+    "coingecko_id": "1-coin-can-change-your-life"
+  },
+  "1guy": {
+    "symbol": "1GUY",
+    "name": "1guy",
+    "tier": "coingecko",
+    "coingecko_id": "UNSUPPORTED:1guy"
+  },
+  "404-gen": {
+    "symbol": "SN17",
+    "name": "404—GEN",
+    "tier": "coingecko",
+    "coingecko_id": "404-gen"
+  },
+  "67coin": {
+    "symbol": "67",
+    "name": "67COIN",
+    "tier": "coingecko",
+    "coingecko_id": "67coin"
+  },
+  "a7a5": {
+    "symbol": "A7A5",
+    "name": "A7A5",
+    "tier": "coingecko",
+    "coingecko_id": "a7a5"
+  },
+  "aavegotchi": {
+    "symbol": "GHST",
+    "name": "Aavegotchi",
+    "tier": "coingecko",
+    "coingecko_id": "aavegotchi"
+  },
+  "abelian": {
+    "symbol": "ABEL",
+    "name": "Abelian",
+    "tier": "coingecko",
+    "coingecko_id": "abelian"
+  },
+  "access-protocol": {
+    "symbol": "ACS",
+    "name": "Access Protocol",
+    "tier": "coingecko",
+    "coingecko_id": "access-protocol"
+  },
+  "acet-token": {
+    "symbol": "ACT",
+    "name": "Acet",
+    "tier": "coingecko",
+    "coingecko_id": "acet-token"
+  },
+  "achain": {
+    "symbol": "ACT",
+    "name": "Achain",
+    "tier": "coingecko",
+    "coingecko_id": "achain"
+  },
+  "across-protocol": {
+    "symbol": "ACX",
+    "name": "Across Protocol",
+    "tier": "coingecko",
+    "coingecko_id": "across-protocol"
+  },
+  "acurast": {
+    "symbol": "ACU",
+    "name": "Acurast",
+    "tier": "coingecko",
+    "coingecko_id": "acurast"
+  },
+  "adex": {
+    "symbol": "ADX",
+    "name": "AdEx",
+    "tier": "coingecko",
+    "coingecko_id": "adex"
+  },
+  "adi-token": {
+    "symbol": "ADI",
+    "name": "ADI",
+    "tier": "coingecko",
+    "coingecko_id": "adi-token"
+  },
+  "ado-network": {
+    "symbol": "ADO",
+    "name": "ADO Protocol",
+    "tier": "coingecko",
+    "coingecko_id": "ado-network"
+  },
+  "adshares": {
+    "symbol": "ADS",
+    "name": "Adshares",
+    "tier": "coingecko",
+    "coingecko_id": "adshares"
+  },
+  "aelf": {
+    "symbol": "ELF",
+    "name": "aelf",
+    "tier": "coingecko",
+    "coingecko_id": "aelf"
+  },
+  "aergo": {
+    "symbol": "AERGO",
+    "name": "Aergo",
+    "tier": "coingecko",
+    "coingecko_id": "aergo"
+  },
+  "aerodrome-finance": {
+    "symbol": "AERO",
+    "name": "Aerodrome Finance",
+    "tier": "coingecko",
+    "coingecko_id": "aerodrome-finance"
+  },
+  "aethir": {
+    "symbol": "ATH",
+    "name": "Aethir",
+    "tier": "coingecko",
+    "coingecko_id": "aethir"
+  },
+  "aevo-exchange": {
+    "symbol": "AEVO",
+    "name": "Aevo",
+    "tier": "coingecko",
+    "coingecko_id": "aevo-exchange"
+  },
+  "affine": {
+    "symbol": "SN120",
+    "name": "affine",
+    "tier": "coingecko",
+    "coingecko_id": "affine"
+  },
+  "afk": {
+    "symbol": "AFK",
+    "name": "afk",
+    "tier": "coingecko",
+    "coingecko_id": "afk"
+  },
+  "afreum": {
+    "symbol": "AFR",
+    "name": "Afreum",
+    "tier": "coingecko",
+    "coingecko_id": "afreum"
+  },
+  "agave-token": {
+    "symbol": "AGVE",
+    "name": "Agave",
+    "tier": "coingecko",
+    "coingecko_id": "agave-token"
+  },
+  "agenda-47": {
+    "symbol": "A47",
+    "name": "AGENDA 47",
+    "tier": "coingecko",
+    "coingecko_id": "agenda-47"
+  },
+  "agent-arena-by-masa": {
+    "symbol": "SN59",
+    "name": "Agent Arena by Masa",
+    "tier": "coingecko",
+    "coingecko_id": "agent-arena-by-masa"
+  },
+  "agent-hustle": {
+    "symbol": "HUSTLE",
+    "name": "Agent Hustle",
+    "tier": "coingecko",
+    "coingecko_id": "agent-hustle"
+  },
+  "agentfun-ai": {
+    "symbol": "AGENTFUN",
+    "name": "AgentFun.AI",
+    "tier": "coingecko",
+    "coingecko_id": "agentfun-ai"
+  },
+  "agora-dollar": {
+    "symbol": "AUSD",
+    "name": "AUSD",
+    "tier": "coingecko",
+    "coingecko_id": "agora-dollar"
+  },
+  "agoras-currency-of-tau": {
+    "symbol": "AGRS",
+    "name": "Agoras: Tau Net",
+    "tier": "coingecko",
+    "coingecko_id": "agoras-currency-of-tau"
+  },
+  "ahatoken": {
+    "symbol": "AHT",
+    "name": "AhaToken",
+    "tier": "coingecko",
+    "coingecko_id": "ahatoken"
+  },
+  "ai-companions": {
+    "symbol": "AIC",
+    "name": "AI Companions",
+    "tier": "coingecko",
+    "coingecko_id": "ai-companions"
+  },
+  "ai-network": {
+    "symbol": "AIN",
+    "name": "AI Network",
+    "tier": "coingecko",
+    "coingecko_id": "ai-network"
+  },
+  "ai-powered-finance": {
+    "symbol": "AIPF",
+    "name": "AI Powered Finance",
+    "tier": "coingecko",
+    "coingecko_id": "ai-powered-finance"
+  },
+  "ai-rig-complex": {
+    "symbol": "ARC",
+    "name": "AI Rig Complex",
+    "tier": "coingecko",
+    "coingecko_id": "ai-rig-complex"
+  },
+  "aioz-network": {
+    "symbol": "AIOZ",
+    "name": "AIOZ Network",
+    "tier": "coingecko",
+    "coingecko_id": "aioz-network"
+  },
+  "airtor-protocol": {
+    "symbol": "ANYONE",
+    "name": "ANyONe Protocol",
+    "tier": "coingecko",
+    "coingecko_id": "airtor-protocol"
+  },
+  "aism-faith-token": {
+    "symbol": "AISM",
+    "name": "AISM FAITH TOKEN",
+    "tier": "coingecko",
+    "coingecko_id": "aism-faith-token"
+  },
+  "akash-network": {
+    "symbol": "AKT",
+    "name": "Akash Network",
+    "tier": "coingecko",
+    "coingecko_id": "akash-network"
+  },
+  "alchemix": {
+    "symbol": "ALCX",
+    "name": "Alchemix",
+    "tier": "coingecko",
+    "coingecko_id": "alchemix"
+  },
+  "aleo": {
+    "symbol": "ALEO",
+    "name": "ALEO",
+    "tier": "coingecko",
+    "coingecko_id": "aleo"
+  },
+  "aleph": {
+    "symbol": "ALEPH",
+    "name": "Aleph Cloud",
+    "tier": "coingecko",
+    "coingecko_id": "aleph"
+  },
+  "alien-worlds": {
+    "symbol": "TLM",
+    "name": "Alien Worlds",
+    "tier": "coingecko",
+    "coingecko_id": "alien-worlds"
+  },
+  "alkimi-2": {
+    "symbol": "ALKIMI",
+    "name": "ALKIMI",
+    "tier": "coingecko",
+    "coingecko_id": "alkimi-2"
+  },
+  "allianceblock-nexera": {
+    "symbol": "NXRA",
+    "name": "Nexera",
+    "tier": "coingecko",
+    "coingecko_id": "allianceblock-nexera"
+  },
+  "allo": {
+    "symbol": "RWA",
+    "name": "Allo",
+    "tier": "coingecko",
+    "coingecko_id": "allo"
+  },
+  "alpha-fi": {
+    "symbol": "ALPHA",
+    "name": "Alpha Fi",
+    "tier": "coingecko",
+    "coingecko_id": "alpha-fi"
+  },
+  "alpha-finance": {
+    "symbol": "ALPHA",
+    "name": "Stella",
+    "tier": "coingecko",
+    "coingecko_id": "alpha-finance"
+  },
+  "alpha-quark-token": {
+    "symbol": "AQT",
+    "name": "Alpha Quark",
+    "tier": "coingecko",
+    "coingecko_id": "alpha-quark-token"
+  },
+  "amazon-xstock": {
+    "symbol": "AMZNX",
+    "name": "Amazon xStock",
+    "tier": "coingecko",
+    "coingecko_id": "amazon-xstock"
+  },
+  "amd-ondo-tokenized-stock": {
+    "symbol": "AMDON",
+    "name": "AMD (Ondo Tokenized Stock)",
+    "tier": "coingecko",
+    "coingecko_id": "amd-ondo-tokenized-stock"
+  },
+  "amiko": {
+    "symbol": "AMIKO",
+    "name": "Amiko",
+    "tier": "coingecko",
+    "coingecko_id": "amiko"
+  },
+  "amo": {
+    "symbol": "AMO",
+    "name": "AMO Coin",
+    "tier": "coingecko",
+    "coingecko_id": "amo"
+  },
+  "amp-token": {
+    "symbol": "AMP",
+    "name": "Amp",
+    "tier": "coingecko",
+    "coingecko_id": "amp-token"
+  },
+  "ampleforth-governance-token": {
+    "symbol": "FORTH",
+    "name": "Ampleforth Governance",
+    "tier": "coingecko",
+    "coingecko_id": "ampleforth-governance-token"
+  },
+  "andy-the-wisguy": {
+    "symbol": "ANDY",
+    "name": "ANDY ETH",
+    "tier": "coingecko",
+    "coingecko_id": "andy-the-wisguy"
+  },
+  "andy70b": {
+    "symbol": "ANDY70B",
+    "name": "ANDY70B",
+    "tier": "coingecko",
+    "coingecko_id": "andy70b"
+  },
+  "angle-protocol": {
+    "symbol": "ANGLE",
+    "name": "ANGLE",
+    "tier": "coingecko",
+    "coingecko_id": "angle-protocol"
+  },
+  "anime": {
+    "symbol": "ANIME",
+    "name": "Animecoin",
+    "tier": "coingecko",
+    "coingecko_id": "anime"
+  },
+  "antihunter": {
+    "symbol": "ANTIHUNTER",
+    "name": "AntiHunter",
+    "tier": "coingecko",
+    "coingecko_id": "antihunter"
+  },
+  "anyspend": {
+    "symbol": "ANY",
+    "name": "Anyspend",
+    "tier": "coingecko",
+    "coingecko_id": "anyspend"
+  },
+  "anyswap": {
+    "symbol": "ANY",
+    "name": "Anyswap",
+    "tier": "coingecko",
+    "coingecko_id": "anyswap"
+  },
+  "anzen-usdz": {
+    "symbol": "USDZ",
+    "name": "Anzen USDz",
+    "tier": "coingecko",
+    "coingecko_id": "anzen-usdz"
+  },
+  "ao-computer": {
+    "symbol": "AO",
+    "name": "ao Computer",
+    "tier": "coingecko",
+    "coingecko_id": "ao-computer"
+  },
+  "ape-and-pepe": {
+    "symbol": "APEPE",
+    "name": "Ape and Pepe",
+    "tier": "coingecko",
+    "coingecko_id": "ape-and-pepe"
+  },
+  "apecoin": {
+    "symbol": "APE",
+    "name": "ApeCoin",
+    "tier": "coingecko",
+    "coingecko_id": "apecoin"
+  },
+  "apenft": {
+    "symbol": "NFT",
+    "name": "AINFT",
+    "tier": "coingecko",
+    "coingecko_id": "apenft"
+  },
+  "apex-4": {
+    "symbol": "AP3X",
+    "name": "APEX",
+    "tier": "coingecko",
+    "coingecko_id": "apex-4"
+  },
+  "apex-5": {
+    "symbol": "SN1",
+    "name": "Apex",
+    "tier": "coingecko",
+    "coingecko_id": "apex-5"
+  },
+  "apollo-diversified-credit-securitize-fund": {
+    "symbol": "ACRED",
+    "name": "Apollo Diversified Credit Securitize Fund",
+    "tier": "coingecko",
+    "coingecko_id": "apollo-diversified-credit-securitize-fund"
+  },
+  "apollox-2": {
+    "symbol": "APX",
+    "name": "APX",
+    "tier": "coingecko",
+    "coingecko_id": "apollox-2"
+  },
+  "apple-ondo-tokenized-stock": {
+    "symbol": "AAPLON",
+    "name": "Apple (Ondo Tokenized Stock)",
+    "tier": "coingecko",
+    "coingecko_id": "apple-ondo-tokenized-stock"
+  },
+  "apraemio": {
+    "symbol": "APRA",
+    "name": "Apraemio",
+    "tier": "coingecko",
+    "coingecko_id": "apraemio"
+  },
+  "apu-s-club": {
+    "symbol": "APU",
+    "name": "Apu Apustaja",
+    "tier": "coingecko",
+    "coingecko_id": "apu-s-club"
+  },
+  "aquarius": {
+    "symbol": "AQUA",
+    "name": "Aquarius",
+    "tier": "coingecko",
+    "coingecko_id": "aquarius"
+  },
+  "arcs": {
+    "symbol": "ARX",
+    "name": "ARCS",
+    "tier": "coingecko",
+    "coingecko_id": "arcs"
+  },
+  "arena-z": {
+    "symbol": "A2Z",
+    "name": "Arena-Z",
+    "tier": "coingecko",
+    "coingecko_id": "arena-z"
+  },
+  "aria-2": {
+    "symbol": "ARIAIP",
+    "name": "Aria",
+    "tier": "coingecko",
+    "coingecko_id": "aria-2"
+  },
+  "aria-ai": {
+    "symbol": "ARIA",
+    "name": "Aria.AI",
+    "tier": "coingecko",
+    "coingecko_id": "aria-ai"
+  },
+  "ark": {
+    "symbol": "ARK",
+    "name": "ARK",
+    "tier": "coingecko",
+    "coingecko_id": "ark"
+  },
+  "ark-of-panda": {
+    "symbol": "AOP",
+    "name": "ark of panda",
+    "tier": "coingecko",
+    "coingecko_id": "UNSUPPORTED:ark-of-panda"
+  },
+  "arkham": {
+    "symbol": "ARKM",
+    "name": "Arkham",
+    "tier": "coingecko",
+    "coingecko_id": "arkham"
+  },
+  "army-3": {
+    "symbol": "ARMY",
+    "name": "XRP ARMY",
+    "tier": "coingecko",
+    "coingecko_id": "army-3"
+  },
+  "arsenal-fan-token": {
+    "symbol": "AFC",
+    "name": "Arsenal Fan Token",
+    "tier": "coingecko",
+    "coingecko_id": "arsenal-fan-token"
+  },
+  "arweave": {
+    "symbol": "AR",
+    "name": "Arweave",
+    "tier": "coingecko",
+    "coingecko_id": "arweave"
+  },
+  "as-roma-fan-token": {
+    "symbol": "ASR",
+    "name": "AS Roma Fan Token",
+    "tier": "coingecko",
+    "coingecko_id": "as-roma-fan-token"
+  },
+  "aspecta": {
+    "symbol": "ASP",
+    "name": "Aspecta",
+    "tier": "coingecko",
+    "coingecko_id": "aspecta"
+  },
+  "assemble-protocol": {
+    "symbol": "ASM",
+    "name": "Assemble AI",
+    "tier": "coingecko",
+    "coingecko_id": "assemble-protocol"
+  },
+  "astar": {
+    "symbol": "ASTR",
+    "name": "Astar",
+    "tier": "coingecko",
+    "coingecko_id": "astar"
+  },
+  "aster-2": {
+    "symbol": "ASTER",
+    "name": "Aster",
+    "tier": "coingecko",
+    "coingecko_id": "aster-2"
+  },
+  "astherus-usdf": {
+    "symbol": "USDF",
+    "name": "Aster USDF",
+    "tier": "coingecko",
+    "coingecko_id": "astherus-usdf"
+  },
+  "atletico-madrid": {
+    "symbol": "ATM",
+    "name": "Atletico Madrid Fan Token",
+    "tier": "coingecko",
+    "coingecko_id": "atletico-madrid"
+  },
+  "au79": {
+    "symbol": "AU79",
+    "name": "AU79",
+    "tier": "coingecko",
+    "coingecko_id": "au79"
+  },
+  "audiera": {
+    "symbol": "BEAT",
+    "name": "Audiera",
+    "tier": "coingecko",
+    "coingecko_id": "audiera"
+  },
+  "audius": {
+    "symbol": "AUDIO",
+    "name": "Audius",
+    "tier": "coingecko",
+    "coingecko_id": "audius"
+  },
+  "auki-labs": {
+    "symbol": "AUKI",
+    "name": "Auki",
+    "tier": "coingecko",
+    "coingecko_id": "auki-labs"
+  },
+  "aura-bal": {
+    "symbol": "AURABAL",
+    "name": "Aura BAL",
+    "tier": "coingecko",
+    "coingecko_id": "aura-bal"
+  },
+  "aura-on-sol": {
+    "symbol": "AURA",
+    "name": "aura",
+    "tier": "coingecko",
+    "coingecko_id": "aura-on-sol"
+  },
+  "aurora-dao": {
+    "symbol": "IDEX",
+    "name": "IDEX",
+    "tier": "coingecko",
+    "coingecko_id": "aurora-dao"
+  },
+  "aurory": {
+    "symbol": "AURY",
+    "name": "Aurory",
+    "tier": "coingecko",
+    "coingecko_id": "aurory"
+  },
+  "automata": {
+    "symbol": "ATA",
+    "name": "Automata",
+    "tier": "coingecko",
+    "coingecko_id": "automata"
+  },
+  "autonomi": {
+    "symbol": "ANT",
+    "name": "Autonomi",
+    "tier": "coingecko",
+    "coingecko_id": "autonomi"
+  },
+  "ava-ai": {
+    "symbol": "AVA",
+    "name": "Ava AI",
+    "tier": "coingecko",
+    "coingecko_id": "ava-ai"
+  },
+  "avant-usd": {
+    "symbol": "AVUSD",
+    "name": "Avant USD",
+    "tier": "coingecko",
+    "coingecko_id": "avant-usd"
+  },
+  "aventus": {
+    "symbol": "AVT",
+    "name": "Aventus",
+    "tier": "coingecko",
+    "coingecko_id": "aventus"
+  },
+  "axelar": {
+    "symbol": "AXL",
+    "name": "Axelar",
+    "tier": "coingecko",
+    "coingecko_id": "axelar"
+  },
+  "axiome": {
+    "symbol": "AXM",
+    "name": "Axiome",
+    "tier": "coingecko",
+    "coingecko_id": "axiome"
+  },
+  "axlusdc": {
+    "symbol": "AXLUSDC",
+    "name": "Axelar Bridged USDC",
+    "tier": "coingecko",
+    "coingecko_id": "axlusdc"
+  },
+  "baby-doge-coin": {
+    "symbol": "BABYDOGE",
+    "name": "Baby Doge Coin",
+    "tier": "coingecko",
+    "coingecko_id": "baby-doge-coin"
+  },
+  "baby-shark-universe": {
+    "symbol": "BSU",
+    "name": "Baby Shark Universe",
+    "tier": "coingecko",
+    "coingecko_id": "baby-shark-universe"
+  },
+  "babyboomtoken": {
+    "symbol": "BBT",
+    "name": "BabyBoomToken",
+    "tier": "coingecko",
+    "coingecko_id": "babyboomtoken"
+  },
+  "badger-dao": {
+    "symbol": "BADGER",
+    "name": "Badger",
+    "tier": "coingecko",
+    "coingecko_id": "badger-dao"
+  },
+  "balancer": {
+    "symbol": "BAL",
+    "name": "Balancer",
+    "tier": "coingecko",
+    "coingecko_id": "balancer"
+  },
+  "bankercoin-2": {
+    "symbol": "BNKR",
+    "name": "BankrCoin",
+    "tier": "coingecko",
+    "coingecko_id": "bankercoin-2"
+  },
+  "based-brett": {
+    "symbol": "BRETT",
+    "name": "Brett",
+    "tier": "coingecko",
+    "coingecko_id": "based-brett"
+  },
+  "bc-token": {
+    "symbol": "BC",
+    "name": "BCGame Coin",
+    "tier": "coingecko",
+    "coingecko_id": "bc-token"
+  },
+  "beam-2": {
+    "symbol": "BEAM",
+    "name": "Beam",
+    "tier": "coingecko",
+    "coingecko_id": "beam-2"
+  },
+  "beincom": {
+    "symbol": "BIC",
+    "name": "Beincom",
+    "tier": "coingecko",
+    "coingecko_id": "beincom"
+  },
+  "beldex": {
+    "symbol": "BDX",
+    "name": "Beldex",
+    "tier": "coingecko",
+    "coingecko_id": "beldex"
+  },
+  "bella-protocol": {
+    "symbol": "BEL",
+    "name": "Bella Protocol",
+    "tier": "coingecko",
+    "coingecko_id": "bella-protocol"
+  },
+  "bellscoin": {
+    "symbol": "BELLS",
+    "name": "Bellscoin",
+    "tier": "coingecko",
+    "coingecko_id": "bellscoin"
+  },
+  "beny-bad-boy": {
+    "symbol": "BBB",
+    "name": "Beny Bad Boy",
+    "tier": "coingecko",
+    "coingecko_id": "beny-bad-boy"
+  },
+  "berachain-bera": {
+    "symbol": "BERA",
+    "name": "Berachain",
+    "tier": "coingecko",
+    "coingecko_id": "berachain-bera"
+  },
+  "best-patent-token": {
+    "symbol": "BPT",
+    "name": "Best Patent Token",
+    "tier": "coingecko",
+    "coingecko_id": "best-patent-token"
+  },
+  "bfg-token": {
+    "symbol": "BFG",
+    "name": "BFG Token",
+    "tier": "coingecko",
+    "coingecko_id": "bfg-token"
+  },
+  "bfusd": {
+    "symbol": "BFUSD",
+    "name": "BFUSD",
+    "tier": "coingecko",
+    "coingecko_id": "bfusd"
+  },
+  "bianrensheng": {
+    "symbol": "币安人生",
+    "name": "币安人生 (BinanceLife)",
+    "tier": "coingecko",
+    "coingecko_id": "bianrensheng"
+  },
+  "biconomy": {
+    "symbol": "BICO",
+    "name": "Biconomy",
+    "tier": "coingecko",
+    "coingecko_id": "biconomy"
+  },
+  "bidz-coin": {
+    "symbol": "BIDZ",
+    "name": "BIDZ Coin",
+    "tier": "coingecko",
+    "coingecko_id": "bidz-coin"
+  },
+  "bifrost": {
+    "symbol": "BFC",
+    "name": "Bifrost",
+    "tier": "coingecko",
+    "coingecko_id": "bifrost"
+  },
+  "big-time": {
+    "symbol": "BIGTIME",
+    "name": "Big Time",
+    "tier": "coingecko",
+    "coingecko_id": "big-time"
+  },
+  "bilira": {
+    "symbol": "TRYB",
+    "name": "BiLira",
+    "tier": "coingecko",
+    "coingecko_id": "bilira"
+  },
+  "bit2me": {
+    "symbol": "B2M",
+    "name": "Bit2Me",
+    "tier": "coingecko",
+    "coingecko_id": "bit2me"
+  },
+  "bitads": {
+    "symbol": "SN16",
+    "name": "Bitads",
+    "tier": "coingecko",
+    "coingecko_id": "bitads"
+  },
+  "bitboard": {
+    "symbol": "BB",
+    "name": "BitBoard",
+    "tier": "coingecko",
+    "coingecko_id": "bitboard"
+  },
+  "bitchemical-token": {
+    "symbol": "BCHEM",
+    "name": "Bitchemical Token",
+    "tier": "coingecko",
+    "coingecko_id": "bitchemical-token"
+  },
+  "bitcoin-cash-sv": {
+    "symbol": "BSV",
+    "name": "Bitcoin SV",
+    "tier": "coingecko",
+    "coingecko_id": "bitcoin-cash-sv"
+  },
+  "bitcoin-gold": {
+    "symbol": "BTG",
+    "name": "Bitcoin Gold",
+    "tier": "coingecko",
+    "coingecko_id": "bitcoin-gold"
+  },
+  "bitcoin-limited-edition": {
+    "symbol": "BTCLE",
+    "name": "Bitcoin Limited Edition",
+    "tier": "coingecko",
+    "coingecko_id": "bitcoin-limited-edition"
+  },
+  "bitcoin-usd-btcfi": {
+    "symbol": "BTCUSD",
+    "name": "Bitcoin USD (BTCFi)",
+    "tier": "coingecko",
+    "coingecko_id": "bitcoin-usd-btcfi"
+  },
+  "bitcoinos": {
+    "symbol": "BOS",
+    "name": "BitcoinOS",
+    "tier": "coingecko",
+    "coingecko_id": "bitcoinos"
+  },
+  "bitget-token": {
+    "symbol": "BGB",
+    "name": "Bitget Token",
+    "tier": "coingecko",
+    "coingecko_id": "bitget-token"
+  },
+  "bitkub-coin": {
+    "symbol": "KUB",
+    "name": "KUB Coin",
+    "tier": "coingecko",
+    "coingecko_id": "bitkub-coin"
+  },
+  "bitlayer-bitvm": {
+    "symbol": "BTR",
+    "name": "Bitlayer",
+    "tier": "coingecko",
+    "coingecko_id": "bitlayer-bitvm"
+  },
+  "bitmart-token": {
+    "symbol": "BMX",
+    "name": "BitMart",
+    "tier": "coingecko",
+    "coingecko_id": "bitmart-token"
+  },
+  "bitmind": {
+    "symbol": "SN34",
+    "name": "BitMind",
+    "tier": "coingecko",
+    "coingecko_id": "bitmind"
+  },
+  "bitrise-token": {
+    "symbol": "BRISE",
+    "name": "Bitgert",
+    "tier": "coingecko",
+    "coingecko_id": "bitrise-token"
+  },
+  "bitrue-token": {
+    "symbol": "BTR",
+    "name": "Bitrue Coin",
+    "tier": "coingecko",
+    "coingecko_id": "bitrue-token"
+  },
+  "bittensor": {
+    "symbol": "TAO",
+    "name": "Bittensor",
+    "tier": "coingecko",
+    "coingecko_id": "bittensor"
+  },
+  "bittorrent": {
+    "symbol": "BTT",
+    "name": "BitTorrent",
+    "tier": "coingecko",
+    "coingecko_id": "bittorrent"
+  },
+  "blackhole": {
+    "symbol": "BLACK",
+    "name": "Blackhole",
+    "tier": "coingecko",
+    "coingecko_id": "blackhole"
+  },
+  "blackrock-usd-institutional-digital-liquidity-fund": {
+    "symbol": "BUIDL",
+    "name": "BlackRock USD Institutional Digital Liquidity Fund",
+    "tier": "coingecko",
+    "coingecko_id": "blackrock-usd-institutional-digital-liquidity-fund"
+  },
+  "blast": {
+    "symbol": "BLAST",
+    "name": "Blast",
+    "tier": "coingecko",
+    "coingecko_id": "blast"
+  },
+  "bless-2": {
+    "symbol": "BLESS",
+    "name": "Bless",
+    "tier": "coingecko",
+    "coingecko_id": "bless-2"
+  },
+  "block-4": {
+    "symbol": "BLOCK",
+    "name": "Block",
+    "tier": "coingecko",
+    "coingecko_id": "block-4"
+  },
+  "blockchain-capital": {
+    "symbol": "BCAP",
+    "name": "Blockchain Capital",
+    "tier": "coingecko",
+    "coingecko_id": "blockchain-capital"
+  },
+  "blockstack": {
+    "symbol": "STX",
+    "name": "Stacks",
+    "tier": "coingecko",
+    "coingecko_id": "blockstack"
+  },
+  "blockv": {
+    "symbol": "VEE",
+    "name": "BLOCKv",
+    "tier": "coingecko",
+    "coingecko_id": "blockv"
+  },
+  "bluefin": {
+    "symbol": "BLUE",
+    "name": "Bluefin",
+    "tier": "coingecko",
+    "coingecko_id": "bluefin"
+  },
+  "bluwhale": {
+    "symbol": "BLUAI",
+    "name": "Bluwhale",
+    "tier": "coingecko",
+    "coingecko_id": "bluwhale"
+  },
+  "bluzelle": {
+    "symbol": "BLZ",
+    "name": "Bluzelle",
+    "tier": "coingecko",
+    "coingecko_id": "bluzelle"
+  },
+  "bnb48-club-token": {
+    "symbol": "KOGE",
+    "name": "KOGE",
+    "tier": "coingecko",
+    "coingecko_id": "bnb48-club-token"
+  },
+  "boba-network": {
+    "symbol": "BOBA",
+    "name": "Boba Network",
+    "tier": "coingecko",
+    "coingecko_id": "boba-network"
+  },
+  "boob": {
+    "symbol": "BOOB",
+    "name": "boob",
+    "tier": "coingecko",
+    "coingecko_id": "boob"
+  },
+  "book-2": {
+    "symbol": "STUFF",
+    "name": "STUFF.io",
+    "tier": "coingecko",
+    "coingecko_id": "book-2"
+  },
+  "book-of-ethereum": {
+    "symbol": "BOOE",
+    "name": "Book of Ethereum",
+    "tier": "coingecko",
+    "coingecko_id": "book-of-ethereum"
+  },
+  "book-of-meme": {
+    "symbol": "BOME",
+    "name": "BOOK OF MEME",
+    "tier": "coingecko",
+    "coingecko_id": "book-of-meme"
+  },
+  "bora": {
+    "symbol": "BORA",
+    "name": "BORA",
+    "tier": "coingecko",
+    "coingecko_id": "bora"
+  },
+  "borgy": {
+    "symbol": "$BORGY",
+    "name": "BORGY",
+    "tier": "coingecko",
+    "coingecko_id": "borgy"
+  },
+  "boson-protocol": {
+    "symbol": "BOSON",
+    "name": "Boson",
+    "tier": "coingecko",
+    "coingecko_id": "boson-protocol"
+  },
+  "bouncebit": {
+    "symbol": "BB",
+    "name": "BounceBit",
+    "tier": "coingecko",
+    "coingecko_id": "bouncebit"
+  },
+  "bouncebit-usd-2": {
+    "symbol": "BBUSD",
+    "name": "BounceBit USD",
+    "tier": "coingecko",
+    "coingecko_id": "bouncebit-usd-2"
+  },
+  "boundless": {
+    "symbol": "ZKC",
+    "name": "Boundless",
+    "tier": "coingecko",
+    "coingecko_id": "boundless"
+  },
+  "brickken": {
+    "symbol": "BKN",
+    "name": "Brickken",
+    "tier": "coingecko",
+    "coingecko_id": "brickken"
+  },
+  "brla-digital-brla": {
+    "symbol": "BRLA",
+    "name": "BRLA Digital BRLA",
+    "tier": "coingecko",
+    "coingecko_id": "brla-digital-brla"
+  },
+  "broccoli-3": {
+    "symbol": "BROCCOLI",
+    "name": "Broccoli",
+    "tier": "coingecko",
+    "coingecko_id": "broccoli-3"
+  },
+  "bsquared-network": {
+    "symbol": "B2",
+    "name": "BSquared Network",
+    "tier": "coingecko",
+    "coingecko_id": "bsquared-network"
+  },
+  "btse-token": {
+    "symbol": "BTSE",
+    "name": "BTSE Token",
+    "tier": "coingecko",
+    "coingecko_id": "btse-token"
+  },
+  "bubblemaps": {
+    "symbol": "BMT",
+    "name": "Bubblemaps",
+    "tier": "coingecko",
+    "coingecko_id": "bubblemaps"
+  },
+  "bucket-protocol-buck-stablecoin": {
+    "symbol": "BUCK",
+    "name": "Bucket Protocol BUCK Stablecoin",
+    "tier": "coingecko",
+    "coingecko_id": "bucket-protocol-buck-stablecoin"
+  },
+  "bugscoin": {
+    "symbol": "BGSC",
+    "name": "BugsCoin",
+    "tier": "coingecko",
+    "coingecko_id": "bugscoin"
+  },
+  "build-on": {
+    "symbol": "B",
+    "name": "BUILDon",
+    "tier": "coingecko",
+    "coingecko_id": "build-on"
+  },
+  "bulla-3": {
+    "symbol": "BULLA",
+    "name": "BULLA",
+    "tier": "coingecko",
+    "coingecko_id": "bulla-3"
+  },
+  "bullish-degen": {
+    "symbol": "BULLISH",
+    "name": "Bullish Degen",
+    "tier": "coingecko",
+    "coingecko_id": "bullish-degen"
+  },
+  "buttcoin-7": {
+    "symbol": "BUTTCOIN",
+    "name": "Buttcoin",
+    "tier": "coingecko",
+    "coingecko_id": "buttcoin-7"
+  },
+  "buying": {
+    "symbol": "BUY",
+    "name": "Buying.com",
+    "tier": "coingecko",
+    "coingecko_id": "buying"
+  },
+  "byteball": {
+    "symbol": "GBYTE",
+    "name": "Obyte",
+    "tier": "coingecko",
+    "coingecko_id": "byteball"
+  },
+  "bytecoin": {
+    "symbol": "BCN",
+    "name": "Bytecoin",
+    "tier": "coingecko",
+    "coingecko_id": "bytecoin"
+  },
+  "bytomdao": {
+    "symbol": "BTM",
+    "name": "BytomDAO",
+    "tier": "coingecko",
+    "coingecko_id": "bytomdao"
+  },
+  "c8ntinuum": {
+    "symbol": "CTM",
+    "name": "c8ntinuum",
+    "tier": "coingecko",
+    "coingecko_id": "c8ntinuum"
+  },
+  "ca-htb": {
+    "symbol": "CA",
+    "name": "Coupon Assets",
+    "tier": "coingecko",
+    "coingecko_id": "ca-htb"
+  },
+  "caldera": {
+    "symbol": "ERA",
+    "name": "Caldera",
+    "tier": "coingecko",
+    "coingecko_id": "caldera"
+  },
+  "camino-network": {
+    "symbol": "CAM",
+    "name": "Camino Network",
+    "tier": "coingecko",
+    "coingecko_id": "camino-network"
+  },
+  "camp-network": {
+    "symbol": "CAMP",
+    "name": "Camp Network",
+    "tier": "coingecko",
+    "coingecko_id": "camp-network"
+  },
+  "canton-network": {
+    "symbol": "CC",
+    "name": "Canton",
+    "tier": "coingecko",
+    "coingecko_id": "canton-network"
+  },
+  "cap-usd": {
+    "symbol": "CUSD",
+    "name": "Cap USD",
+    "tier": "coingecko",
+    "coingecko_id": "cap-usd"
+  },
+  "cargox": {
+    "symbol": "CXO",
+    "name": "CargoX",
+    "tier": "coingecko",
+    "coingecko_id": "cargox"
+  },
+  "cartesi": {
+    "symbol": "CTSI",
+    "name": "Cartesi",
+    "tier": "coingecko",
+    "coingecko_id": "cartesi"
+  },
+  "cash-4": {
+    "symbol": "CASH",
+    "name": "CASH",
+    "tier": "coingecko",
+    "coingecko_id": "cash-4"
+  },
+  "catecoin": {
+    "symbol": "CATE",
+    "name": "CateCoin",
+    "tier": "coingecko",
+    "coingecko_id": "catecoin"
+  },
+  "ceek": {
+    "symbol": "CEEK",
+    "name": "CEEK Smart VR",
+    "tier": "coingecko",
+    "coingecko_id": "ceek"
+  },
+  "celium": {
+    "symbol": "SN51",
+    "name": "lium",
+    "tier": "coingecko",
+    "coingecko_id": "celium"
+  },
+  "celo": {
+    "symbol": "CELO",
+    "name": "Celo",
+    "tier": "coingecko",
+    "coingecko_id": "celo"
+  },
+  "celo-euro": {
+    "symbol": "EURM",
+    "name": "Mento Euro",
+    "tier": "coingecko",
+    "coingecko_id": "celo-euro"
+  },
+  "cf-large-cap-index": {
+    "symbol": "LCAP",
+    "name": "CF Large Cap Index",
+    "tier": "coingecko",
+    "coingecko_id": "cf-large-cap-index"
+  },
+  "chain-2": {
+    "symbol": "XCN",
+    "name": "Onyxcoin",
+    "tier": "coingecko",
+    "coingecko_id": "chain-2"
+  },
+  "chainbase": {
+    "symbol": "C",
+    "name": "Chainbase",
+    "tier": "coingecko",
+    "coingecko_id": "chainbase"
+  },
+  "chainflip": {
+    "symbol": "FLIP",
+    "name": "Chainflip",
+    "tier": "coingecko",
+    "coingecko_id": "chainflip"
+  },
+  "checkmate-2": {
+    "symbol": "CHECK",
+    "name": "Checkmate",
+    "tier": "coingecko",
+    "coingecko_id": "checkmate-2"
+  },
+  "cheems-token": {
+    "symbol": "CHEEMS",
+    "name": "Cheems Token",
+    "tier": "coingecko",
+    "coingecko_id": "cheems-token"
+  },
+  "chevron-ondo-tokenized-stock": {
+    "symbol": "CVXON",
+    "name": "Chevron (Ondo Tokenized Stock)",
+    "tier": "coingecko",
+    "coingecko_id": "chevron-ondo-tokenized-stock"
+  },
+  "chiliz": {
+    "symbol": "CHZ",
+    "name": "Chiliz",
+    "tier": "coingecko",
+    "coingecko_id": "chiliz"
+  },
+  "chrema-coin": {
+    "symbol": "CRMC",
+    "name": "Chrema Coin",
+    "tier": "coingecko",
+    "coingecko_id": "chrema-coin"
+  },
+  "chromaway": {
+    "symbol": "CHR",
+    "name": "Chromia",
+    "tier": "coingecko",
+    "coingecko_id": "chromaway"
+  },
+  "chutes": {
+    "symbol": "SN64",
+    "name": "Chutes",
+    "tier": "coingecko",
+    "coingecko_id": "chutes"
+  },
+  "circle-xstock": {
+    "symbol": "CRCLX",
+    "name": "Circle xStock",
+    "tier": "coingecko",
+    "coingecko_id": "circle-xstock"
+  },
+  "civic": {
+    "symbol": "CVC",
+    "name": "Civic",
+    "tier": "coingecko",
+    "coingecko_id": "civic"
+  },
+  "cjournal-2": {
+    "symbol": "CJL",
+    "name": "CJournal",
+    "tier": "coingecko",
+    "coingecko_id": "cjournal-2"
+  },
+  "clash-of-lilliput": {
+    "symbol": "COL",
+    "name": "Clash of Lilliput",
+    "tier": "coingecko",
+    "coingecko_id": "clash-of-lilliput"
+  },
+  "clawd-atg-eth": {
+    "symbol": "CLAWD",
+    "name": "clawd.atg.eth",
+    "tier": "coingecko",
+    "coingecko_id": "clawd-atg-eth"
+  },
+  "clawnch": {
+    "symbol": "CLAWNCH",
+    "name": "CLAWNCH",
+    "tier": "coingecko",
+    "coingecko_id": "clawnch"
+  },
+  "cloakcoin": {
+    "symbol": "CLOAK",
+    "name": "Cloakcoin",
+    "tier": "coingecko",
+    "coingecko_id": "cloakcoin"
+  },
+  "cobak-token": {
+    "symbol": "CBK",
+    "name": "Cobak",
+    "tier": "coingecko",
+    "coingecko_id": "cobak-token"
+  },
+  "coca-cola-ondo-tokenized-stock": {
+    "symbol": "KOON",
+    "name": "Coca-Cola (Ondo Tokenized Stock)",
+    "tier": "coingecko",
+    "coingecko_id": "coca-cola-ondo-tokenized-stock"
+  },
+  "coco-2": {
+    "symbol": "COCO",
+    "name": "coco",
+    "tier": "coingecko",
+    "coingecko_id": "coco-2"
+  },
+  "cod3x-usd": {
+    "symbol": "CDXUSD",
+    "name": "Cod3x USD",
+    "tier": "coingecko",
+    "coingecko_id": "cod3x-usd"
+  },
+  "codatta": {
+    "symbol": "XNY",
+    "name": "Codatta",
+    "tier": "coingecko",
+    "coingecko_id": "codatta"
+  },
+  "cofinex-2": {
+    "symbol": "CNX",
+    "name": "Cofinex",
+    "tier": "coingecko",
+    "coingecko_id": "cofinex-2"
+  },
+  "coin98": {
+    "symbol": "C98",
+    "name": "Coin98",
+    "tier": "coingecko",
+    "coingecko_id": "coin98"
+  },
+  "coinex-token": {
+    "symbol": "CET",
+    "name": "CoinEx",
+    "tier": "coingecko",
+    "coingecko_id": "coinex-token"
+  },
+  "coinmarketcap-20-index-dtf": {
+    "symbol": "CMC20",
+    "name": "CoinMarketCap 20 Index DTF",
+    "tier": "coingecko",
+    "coingecko_id": "coinmarketcap-20-index-dtf"
+  },
+  "coinweb": {
+    "symbol": "CWEB",
+    "name": "Coinweb",
+    "tier": "coingecko",
+    "coingecko_id": "coinweb"
+  },
+  "coldint": {
+    "symbol": "SN29",
+    "name": "Coldint",
+    "tier": "coingecko",
+    "coingecko_id": "coldint"
+  },
+  "comedian": {
+    "symbol": "BAN",
+    "name": "Comedian",
+    "tier": "coingecko",
+    "coingecko_id": "comedian"
+  },
+  "compute-horde": {
+    "symbol": "SN12",
+    "name": "Compute Horde",
+    "tier": "coingecko",
+    "coingecko_id": "compute-horde"
+  },
+  "concilium": {
+    "symbol": "CONCILIUM",
+    "name": "Concilium",
+    "tier": "coingecko",
+    "coingecko_id": "concilium"
+  },
+  "concordium": {
+    "symbol": "CCD",
+    "name": "Concordium",
+    "tier": "coingecko",
+    "coingecko_id": "concordium"
+  },
+  "conflux-token": {
+    "symbol": "CFX",
+    "name": "Conflux",
+    "tier": "coingecko",
+    "coingecko_id": "conflux-token"
+  },
+  "conscious-token": {
+    "symbol": "CONSCIOUS",
+    "name": "Conscious Token",
+    "tier": "coingecko",
+    "coingecko_id": "conscious-token"
+  },
+  "convex-finance": {
+    "symbol": "CVX",
+    "name": "Convex Finance",
+    "tier": "coingecko",
+    "coingecko_id": "convex-finance"
+  },
+  "cookie": {
+    "symbol": "COOKIE",
+    "name": "Cookie DAO",
+    "tier": "coingecko",
+    "coingecko_id": "cookie"
+  },
+  "copper-inu-2": {
+    "symbol": "COPPERINU",
+    "name": "copper inu",
+    "tier": "coingecko",
+    "coingecko_id": "copper-inu-2"
+  },
+  "coq-inu": {
+    "symbol": "COQ",
+    "name": "Coq Inu",
+    "tier": "coingecko",
+    "coingecko_id": "coq-inu"
+  },
+  "coral-protocol": {
+    "symbol": "CORAL",
+    "name": "Coral Protocol",
+    "tier": "coingecko",
+    "coingecko_id": "coral-protocol"
+  },
+  "coredaoorg": {
+    "symbol": "CORE",
+    "name": "Core",
+    "tier": "coingecko",
+    "coingecko_id": "coredaoorg"
+  },
+  "cornucopias": {
+    "symbol": "COPI",
+    "name": "Cornucopias",
+    "tier": "coingecko",
+    "coingecko_id": "cornucopias"
+  },
+  "coti": {
+    "symbol": "COTI",
+    "name": "COTI",
+    "tier": "coingecko",
+    "coingecko_id": "coti"
+  },
+  "cow-protocol": {
+    "symbol": "COW",
+    "name": "CoW Protocol",
+    "tier": "coingecko",
+    "coingecko_id": "cow-protocol"
+  },
+  "creatorbid": {
+    "symbol": "BID",
+    "name": "CreatorBid",
+    "tier": "coingecko",
+    "coingecko_id": "creatorbid"
+  },
+  "creditcoin-2": {
+    "symbol": "CTC",
+    "name": "Creditcoin",
+    "tier": "coingecko",
+    "coingecko_id": "creditcoin-2"
+  },
+  "crepe-2": {
+    "symbol": "CREPE",
+    "name": "CREPE",
+    "tier": "coingecko",
+    "coingecko_id": "crepe-2"
+  },
+  "croatian-ff-fan-token": {
+    "symbol": "VATRENI",
+    "name": "Croatian Football Federation Token",
+    "tier": "coingecko",
+    "coingecko_id": "croatian-ff-fan-token"
+  },
+  "crowdstrike-xstock": {
+    "symbol": "CRWDX",
+    "name": "CrowdStrike xStock",
+    "tier": "coingecko",
+    "coingecko_id": "crowdstrike-xstock"
+  },
+  "crvusd": {
+    "symbol": "CRVUSD",
+    "name": "crvUSD",
+    "tier": "coingecko",
+    "coingecko_id": "crvusd"
+  },
+  "crypto-com-chain": {
+    "symbol": "CRO",
+    "name": "Cronos",
+    "tier": "coingecko",
+    "coingecko_id": "crypto-com-chain"
+  },
+  "crypto-trading-fund": {
+    "symbol": "CTF",
+    "name": "Crypto Trading Fund",
+    "tier": "coingecko",
+    "coingecko_id": "crypto-trading-fund"
+  },
+  "cudos": {
+    "symbol": "CUDOS",
+    "name": "Cudos",
+    "tier": "coingecko",
+    "coingecko_id": "cudos"
+  },
+  "cult-dao": {
+    "symbol": "CULT",
+    "name": "Cult DAO",
+    "tier": "coingecko",
+    "coingecko_id": "cult-dao"
+  },
+  "custodiy-2": {
+    "symbol": "CTY",
+    "name": "CUSTODIY",
+    "tier": "coingecko",
+    "coingecko_id": "custodiy-2"
+  },
+  "cyberconnect": {
+    "symbol": "CYBER",
+    "name": "CYBER",
+    "tier": "coingecko",
+    "coingecko_id": "cyberconnect"
+  },
+  "cygnus-2": {
+    "symbol": "CGN",
+    "name": "Cygnus",
+    "tier": "coingecko",
+    "coingecko_id": "cygnus-2"
+  },
+  "cygnus-finance-global-usd": {
+    "symbol": "CGUSD",
+    "name": "Cygnus Finance Global USD",
+    "tier": "coingecko",
+    "coingecko_id": "cygnus-finance-global-usd"
+  },
+  "cysic": {
+    "symbol": "CYS",
+    "name": "Cysic",
+    "tier": "coingecko",
+    "coingecko_id": "cysic"
+  },
+  "czs-dog": {
+    "symbol": "BROCCOLI",
+    "name": "CZ's Dog",
+    "tier": "coingecko",
+    "coingecko_id": "czs-dog"
+  },
+  "dacxi": {
+    "symbol": "DXI",
+    "name": "Dacxi",
+    "tier": "coingecko",
+    "coingecko_id": "dacxi"
+  },
+  "daddy-tate": {
+    "symbol": "DADDY",
+    "name": "Daddy Tate",
+    "tier": "coingecko",
+    "coingecko_id": "daddy-tate"
+  },
+  "dadi-insight-token": {
+    "symbol": "DIT",
+    "name": "DADI Insight Token",
+    "tier": "coingecko",
+    "coingecko_id": "dadi-insight-token"
+  },
+  "dai": {
+    "symbol": "DAI",
+    "name": "Dai",
+    "tier": "coingecko",
+    "coingecko_id": "dai"
+  },
+  "daku-v2": {
+    "symbol": "DAKU",
+    "name": "Daku V2",
+    "tier": "coingecko",
+    "coingecko_id": "daku-v2"
+  },
+  "dao-maker": {
+    "symbol": "DAO",
+    "name": "DAO Maker",
+    "tier": "coingecko",
+    "coingecko_id": "dao-maker"
+  },
+  "dar-open-network": {
+    "symbol": "D",
+    "name": "Dar Open Network",
+    "tier": "coingecko",
+    "coingecko_id": "dar-open-network"
+  },
+  "dash": {
+    "symbol": "DASH",
+    "name": "Dash",
+    "tier": "coingecko",
+    "coingecko_id": "dash"
+  },
+  "data-ownership-protocol-2": {
+    "symbol": "DOP2",
+    "name": "Data Ownership Protocol 2",
+    "tier": "coingecko",
+    "coingecko_id": "data-ownership-protocol-2"
+  },
+  "debridge": {
+    "symbol": "DBR",
+    "name": "deBridge",
+    "tier": "coingecko",
+    "coingecko_id": "debridge"
+  },
+  "decred": {
+    "symbol": "DCR",
+    "name": "Decred",
+    "tier": "coingecko",
+    "coingecko_id": "decred"
+  },
+  "deep": {
+    "symbol": "DEEP",
+    "name": "DeepBook",
+    "tier": "coingecko",
+    "coingecko_id": "deep"
+  },
+  "deepnode": {
+    "symbol": "DN",
+    "name": "DeepNode",
+    "tier": "coingecko",
+    "coingecko_id": "deepnode"
+  },
+  "defi-ssi": {
+    "symbol": "DEFI.SSI",
+    "name": "DEFI.ssi",
+    "tier": "coingecko",
+    "coingecko_id": "defi-ssi"
+  },
+  "definitive": {
+    "symbol": "EDGE",
+    "name": "Definitive",
+    "tier": "coingecko",
+    "coingecko_id": "definitive"
+  },
+  "defipulse-index": {
+    "symbol": "DPI",
+    "name": "DeFi Pulse Index",
+    "tier": "coingecko",
+    "coingecko_id": "defipulse-index"
+  },
+  "degen-base": {
+    "symbol": "DEGEN",
+    "name": "Degen",
+    "tier": "coingecko",
+    "coingecko_id": "degen-base"
+  },
+  "dego-finance": {
+    "symbol": "DEGO",
+    "name": "Dego Finance",
+    "tier": "coingecko",
+    "coingecko_id": "dego-finance"
+  },
+  "delorean": {
+    "symbol": "DMC",
+    "name": "DeLorean",
+    "tier": "coingecko",
+    "coingecko_id": "delorean"
+  },
+  "delta-exchange-token": {
+    "symbol": "DETO",
+    "name": "Delta Exchange",
+    "tier": "coingecko",
+    "coingecko_id": "delta-exchange-token"
+  },
+  "delysium": {
+    "symbol": "AGI",
+    "name": "Delysium",
+    "tier": "coingecko",
+    "coingecko_id": "delysium"
+  },
+  "desearch": {
+    "symbol": "SN22",
+    "name": "Desearch",
+    "tier": "coingecko",
+    "coingecko_id": "desearch"
+  },
+  "deso": {
+    "symbol": "DESO",
+    "name": "Decentralized Social",
+    "tier": "coingecko",
+    "coingecko_id": "deso"
+  },
+  "dexe": {
+    "symbol": "DEXE",
+    "name": "DeXe",
+    "tier": "coingecko",
+    "coingecko_id": "dexe"
+  },
+  "dextf": {
+    "symbol": "DEXTF",
+    "name": "Memento",
+    "tier": "coingecko",
+    "coingecko_id": "dextf"
+  },
+  "dextools": {
+    "symbol": "DEXT",
+    "name": "DexTools",
+    "tier": "coingecko",
+    "coingecko_id": "dextools"
+  },
+  "dfdv-xstock": {
+    "symbol": "DFDVX",
+    "name": "DeFi Development Corp.",
+    "tier": "coingecko",
+    "coingecko_id": "dfdv-xstock"
+  },
+  "dforce-token": {
+    "symbol": "DF",
+    "name": "dForce",
+    "tier": "coingecko",
+    "coingecko_id": "dforce-token"
+  },
+  "dhedge-dao": {
+    "symbol": "DHT",
+    "name": "dHEDGE DAO",
+    "tier": "coingecko",
+    "coingecko_id": "dhedge-dao"
+  },
+  "dia-data": {
+    "symbol": "DIA",
+    "name": "DIA",
+    "tier": "coingecko",
+    "coingecko_id": "dia-data"
+  },
+  "dialectic-eth-vault": {
+    "symbol": "DETH",
+    "name": "Dialectic ETH Vault",
+    "tier": "coingecko",
+    "coingecko_id": "dialectic-eth-vault"
+  },
+  "dialectic-usd-vault": {
+    "symbol": "DUSD",
+    "name": "Dialectic USD Vault",
+    "tier": "coingecko",
+    "coingecko_id": "dialectic-usd-vault"
+  },
+  "diamond-launch": {
+    "symbol": "DLC",
+    "name": "Diverge Loop",
+    "tier": "coingecko",
+    "coingecko_id": "diamond-launch"
+  },
+  "digibyte": {
+    "symbol": "DGB",
+    "name": "DigiByte",
+    "tier": "coingecko",
+    "coingecko_id": "digibyte"
+  },
+  "dinero-2": {
+    "symbol": "DINERO",
+    "name": "Dinero",
+    "tier": "coingecko",
+    "coingecko_id": "dinero-2"
+  },
+  "dippy-speech": {
+    "symbol": "SN58",
+    "name": "Handshake",
+    "tier": "coingecko",
+    "coingecko_id": "dippy-speech"
+  },
+  "district0x": {
+    "symbol": "DNT",
+    "name": "district0x",
+    "tier": "coingecko",
+    "coingecko_id": "district0x"
+  },
+  "divi": {
+    "symbol": "DIVI",
+    "name": "Divi",
+    "tier": "coingecko",
+    "coingecko_id": "divi"
+  },
+  "dividend-dog-head": {
+    "symbol": "分红狗头",
+    "name": "分红狗头 (Dividend Dog Head)",
+    "tier": "coingecko",
+    "coingecko_id": "dividend-dog-head"
+  },
+  "djed": {
+    "symbol": "DJED",
+    "name": "Djed",
+    "tier": "coingecko",
+    "coingecko_id": "djed"
+  },
+  "dkargo": {
+    "symbol": "DKA",
+    "name": "dKargo",
+    "tier": "coingecko",
+    "coingecko_id": "dkargo"
+  },
+  "dog-go-to-the-moon-rune": {
+    "symbol": "DOG",
+    "name": "Dog (Bitcoin)",
+    "tier": "coingecko",
+    "coingecko_id": "dog-go-to-the-moon-rune"
+  },
+  "dog-with-purpose": {
+    "symbol": "DOPU",
+    "name": "Dog With Purpose",
+    "tier": "coingecko",
+    "coingecko_id": "dog-with-purpose"
+  },
+  "doge-head-coin": {
+    "symbol": "DHC",
+    "name": "Doge Head Coin",
+    "tier": "coingecko",
+    "coingecko_id": "doge-head-coin"
+  },
+  "doge-lumens": {
+    "symbol": "DXLM",
+    "name": "doge lumens",
+    "tier": "coingecko",
+    "coingecko_id": "UNSUPPORTED:doge-lumens"
+  },
+  "dogeking": {
+    "symbol": "DOGEKING",
+    "name": "DogeKing",
+    "tier": "coingecko",
+    "coingecko_id": "dogeking"
+  },
+  "doginme": {
+    "symbol": "DOGINME",
+    "name": "doginme",
+    "tier": "coingecko",
+    "coingecko_id": "doginme"
+  },
+  "dola-usd": {
+    "symbol": "DOLA",
+    "name": "DOLA",
+    "tier": "coingecko",
+    "coingecko_id": "dola-usd"
+  },
+  "dolphin-2": {
+    "symbol": "POD",
+    "name": "Dolphin",
+    "tier": "coingecko",
+    "coingecko_id": "dolphin-2"
+  },
+  "dolz-io": {
+    "symbol": "DOLZ",
+    "name": "DOLZ.io",
+    "tier": "coingecko",
+    "coingecko_id": "dolz-io"
+  },
+  "doodles": {
+    "symbol": "DOOD",
+    "name": "Doodles",
+    "tier": "coingecko",
+    "coingecko_id": "doodles"
+  },
+  "doublezero": {
+    "symbol": "2Z",
+    "name": "DoubleZero",
+    "tier": "coingecko",
+    "coingecko_id": "doublezero"
+  },
+  "dowge": {
+    "symbol": "DJI6930",
+    "name": "DOWGE",
+    "tier": "coingecko",
+    "coingecko_id": "dowge"
+  },
+  "dragonchain": {
+    "symbol": "DRGN",
+    "name": "Dragonchain",
+    "tier": "coingecko",
+    "coingecko_id": "dragonchain"
+  },
+  "dragonswap": {
+    "symbol": "DRG",
+    "name": "DragonSwap",
+    "tier": "coingecko",
+    "coingecko_id": "dragonswap"
+  },
+  "dressdio": {
+    "symbol": "DRESS",
+    "name": "DRESSdio",
+    "tier": "coingecko",
+    "coingecko_id": "dressdio"
+  },
+  "duckchain-token": {
+    "symbol": "DUCK",
+    "name": "DuckChain Token",
+    "tier": "coingecko",
+    "coingecko_id": "duckchain-token"
+  },
+  "dupe": {
+    "symbol": "DUPE",
+    "name": "Dupe",
+    "tier": "coingecko",
+    "coingecko_id": "dupe"
+  },
+  "dydx": {
+    "symbol": "ETHDYDX",
+    "name": "dYdX",
+    "tier": "coingecko",
+    "coingecko_id": "dydx"
+  },
+  "dydx-chain": {
+    "symbol": "DYDX",
+    "name": "dYdX",
+    "tier": "coingecko",
+    "coingecko_id": "dydx-chain"
+  },
+  "dynachain": {
+    "symbol": "DYNA",
+    "name": "Dynachain",
+    "tier": "coingecko",
+    "coingecko_id": "dynachain"
+  },
+  "dynex": {
+    "symbol": "DNX",
+    "name": "Dynex",
+    "tier": "coingecko",
+    "coingecko_id": "dynex"
+  },
+  "earthmeta": {
+    "symbol": "EMT",
+    "name": "EarthMeta",
+    "tier": "coingecko",
+    "coingecko_id": "earthmeta"
+  },
+  "ecash": {
+    "symbol": "XEC",
+    "name": "eCash",
+    "tier": "coingecko",
+    "coingecko_id": "ecash"
+  },
+  "echelon-prime": {
+    "symbol": "PRIME",
+    "name": "Echelon Prime",
+    "tier": "coingecko",
+    "coingecko_id": "echelon-prime"
+  },
+  "echo-protocol": {
+    "symbol": "ECHO",
+    "name": "Echo Protocol",
+    "tier": "coingecko",
+    "coingecko_id": "echo-protocol"
+  },
+  "edel": {
+    "symbol": "EDEL",
+    "name": "Edel",
+    "tier": "coingecko",
+    "coingecko_id": "edel"
+  },
+  "edu-coin": {
+    "symbol": "EDU",
+    "name": "Open Campus",
+    "tier": "coingecko",
+    "coingecko_id": "edu-coin"
+  },
+  "edu3games": {
+    "symbol": "EGN",
+    "name": "edu3games",
+    "tier": "coingecko",
+    "coingecko_id": "UNSUPPORTED:edu3games"
+  },
+  "efficientfrontier": {
+    "symbol": "SN53",
+    "name": "EfficientFrontier",
+    "tier": "coingecko",
+    "coingecko_id": "efficientfrontier"
+  },
+  "eigenlayer": {
+    "symbol": "EIGEN",
+    "name": "EigenCloud (prev. EigenLayer)",
+    "tier": "coingecko",
+    "coingecko_id": "eigenlayer"
+  },
+  "electra-protocol": {
+    "symbol": "XEP",
+    "name": "Electra Protocol",
+    "tier": "coingecko",
+    "coingecko_id": "electra-protocol"
+  },
+  "electronic-usd": {
+    "symbol": "EUSD",
+    "name": "Electronic USD",
+    "tier": "coingecko",
+    "coingecko_id": "electronic-usd"
+  },
+  "elephant-money": {
+    "symbol": "ELEPHANT",
+    "name": "Elephant Money",
+    "tier": "coingecko",
+    "coingecko_id": "elephant-money"
+  },
+  "elephant-money-trunk": {
+    "symbol": "TRUNK",
+    "name": "Elephant Money (TRUNK)",
+    "tier": "coingecko",
+    "coingecko_id": "elephant-money-trunk"
+  },
+  "eli-lilly-ondo-tokenized-stock": {
+    "symbol": "LLYON",
+    "name": "Eli Lilly (Ondo Tokenized Stock)",
+    "tier": "coingecko",
+    "coingecko_id": "eli-lilly-ondo-tokenized-stock"
+  },
+  "elrond-erd-2": {
+    "symbol": "EGLD",
+    "name": "MultiversX",
+    "tier": "coingecko",
+    "coingecko_id": "elrond-erd-2"
+  },
+  "elsa": {
+    "symbol": "ELSA",
+    "name": "Elsa",
+    "tier": "coingecko",
+    "coingecko_id": "elsa"
+  },
+  "elysia": {
+    "symbol": "EL",
+    "name": "ELYSIA",
+    "tier": "coingecko",
+    "coingecko_id": "elysia"
+  },
+  "energy-web-token": {
+    "symbol": "EWT",
+    "name": "Energy Web Token",
+    "tier": "coingecko",
+    "coingecko_id": "energy-web-token"
+  },
+  "enosys-loans-cdp": {
+    "symbol": "CDP",
+    "name": "Enosys Loans CDP",
+    "tier": "coingecko",
+    "coingecko_id": "enosys-loans-cdp"
+  },
+  "enso": {
+    "symbol": "ENSO",
+    "name": "Enso",
+    "tier": "coingecko",
+    "coingecko_id": "enso"
+  },
+  "envision": {
+    "symbol": "ENVISION",
+    "name": "엔비전",
+    "tier": "coingecko",
+    "coingecko_id": "UNSUPPORTED:envision"
+  },
+  "epic-cash": {
+    "symbol": "EPIC",
+    "name": "Epic Private Internet Cash",
+    "tier": "coingecko",
+    "coingecko_id": "epic-cash"
+  },
+  "ergo": {
+    "symbol": "ERG",
+    "name": "Ergo",
+    "tier": "coingecko",
+    "coingecko_id": "ergo"
+  },
+  "espresso": {
+    "symbol": "ESP",
+    "name": "Espresso",
+    "tier": "coingecko",
+    "coingecko_id": "espresso"
+  },
+  "ethena": {
+    "symbol": "ENA",
+    "name": "Ethena",
+    "tier": "coingecko",
+    "coingecko_id": "ethena"
+  },
+  "ethena-usde": {
+    "symbol": "USDE",
+    "name": "Ethena USDe",
+    "tier": "coingecko",
+    "coingecko_id": "ethena-usde"
+  },
+  "ether-fi": {
+    "symbol": "ETHFI",
+    "name": "Ether.fi",
+    "tier": "coingecko",
+    "coingecko_id": "ether-fi"
+  },
+  "etherfuse-ustry": {
+    "symbol": "USTRY",
+    "name": "etherfuse ustry",
+    "tier": "coingecko",
+    "coingecko_id": "UNSUPPORTED:etherfuse-ustry"
+  },
+  "ethgas-2": {
+    "symbol": "GWEI",
+    "name": "ETHGas",
+    "tier": "coingecko",
+    "coingecko_id": "ethgas-2"
+  },
+  "euro-coin": {
+    "symbol": "EURC",
+    "name": "EURC",
+    "tier": "coingecko",
+    "coingecko_id": "euro-coin"
+  },
+  "eusd-2": {
+    "symbol": "EUSD",
+    "name": "eUSD",
+    "tier": "coingecko",
+    "coingecko_id": "eusd-2"
+  },
+  "eutbl": {
+    "symbol": "EUTBL",
+    "name": "Spiko EU T-Bills Money Market Fund",
+    "tier": "coingecko",
+    "coingecko_id": "eutbl"
+  },
+  "evaa-protocol": {
+    "symbol": "EVAA",
+    "name": "EVAA Protocol",
+    "tier": "coingecko",
+    "coingecko_id": "evaa-protocol"
+  },
+  "everipedia": {
+    "symbol": "IQ",
+    "name": "IQ",
+    "tier": "coingecko",
+    "coingecko_id": "everipedia"
+  },
+  "everlyn": {
+    "symbol": "LYN",
+    "name": "Everlyn",
+    "tier": "coingecko",
+    "coingecko_id": "everlyn"
+  },
+  "evernode": {
+    "symbol": "EVR",
+    "name": "Evernode",
+    "tier": "coingecko",
+    "coingecko_id": "evernode"
+  },
+  "everscale": {
+    "symbol": "EVER",
+    "name": "Everscale",
+    "tier": "coingecko",
+    "coingecko_id": "everscale"
+  },
+  "everybody": {
+    "symbol": "HOLD",
+    "name": "Everybody",
+    "tier": "coingecko",
+    "coingecko_id": "everybody"
+  },
+  "exchangecoin": {
+    "symbol": "EXCC",
+    "name": "ExchangeCoin",
+    "tier": "coingecko",
+    "coingecko_id": "exchangecoin"
+  },
+  "extra-finance": {
+    "symbol": "EXTRA",
+    "name": "Extra Finance",
+    "tier": "coingecko",
+    "coingecko_id": "extra-finance"
+  },
+  "fair-and-free": {
+    "symbol": "FAIR3",
+    "name": "Fair and Free",
+    "tier": "coingecko",
+    "coingecko_id": "fair-and-free"
+  },
+  "faith-tribe": {
+    "symbol": "FTRB",
+    "name": "Faith Tribe",
+    "tier": "coingecko",
+    "coingecko_id": "faith-tribe"
+  },
+  "falcon-finance": {
+    "symbol": "USDF",
+    "name": "Falcon USD",
+    "tier": "coingecko",
+    "coingecko_id": "falcon-finance"
+  },
+  "falcon-finance-ff": {
+    "symbol": "FF",
+    "name": "Falcon Finance",
+    "tier": "coingecko",
+    "coingecko_id": "falcon-finance-ff"
+  },
+  "farcana": {
+    "symbol": "FAR",
+    "name": "FAR Labs",
+    "tier": "coingecko",
+    "coingecko_id": "farcana"
+  },
+  "fartboy": {
+    "symbol": "$FARTBOY",
+    "name": "Fartboy",
+    "tier": "coingecko",
+    "coingecko_id": "fartboy"
+  },
+  "fartcoin": {
+    "symbol": "FARTCOIN",
+    "name": "Fartcoin",
+    "tier": "coingecko",
+    "coingecko_id": "fartcoin"
+  },
+  "fasttoken": {
+    "symbol": "FTN",
+    "name": "Fasttoken",
+    "tier": "coingecko",
+    "coingecko_id": "fasttoken"
+  },
+  "feg-token-2": {
+    "symbol": "FEG",
+    "name": "FEED EVERY GORILLA",
+    "tier": "coingecko",
+    "coingecko_id": "feg-token-2"
+  },
+  "fei-usd": {
+    "symbol": "FEI",
+    "name": "Fei USD",
+    "tier": "coingecko",
+    "coingecko_id": "fei-usd"
+  },
+  "felix-feusd": {
+    "symbol": "FEUSD",
+    "name": "Felix feUSD",
+    "tier": "coingecko",
+    "coingecko_id": "felix-feusd"
+  },
+  "fidelity-digital-dollar": {
+    "symbol": "FIDD",
+    "name": "Fidelity Digital Dollar",
+    "tier": "coingecko",
+    "coingecko_id": "fidelity-digital-dollar"
+  },
+  "fidelity-digital-interest-token": {
+    "symbol": "FDIT",
+    "name": "Fidelity Digital Interest Token",
+    "tier": "coingecko",
+    "coingecko_id": "fidelity-digital-interest-token"
+  },
+  "fidu": {
+    "symbol": "FIDU",
+    "name": "Fidu",
+    "tier": "coingecko",
+    "coingecko_id": "fidu"
+  },
+  "figure-heloc": {
+    "symbol": "FIGR_HELOC",
+    "name": "Figure Heloc",
+    "tier": "coingecko",
+    "coingecko_id": "figure-heloc"
+  },
+  "finvesta": {
+    "symbol": "FINVESTA",
+    "name": "Finvesta",
+    "tier": "coingecko",
+    "coingecko_id": "finvesta"
+  },
+  "fio-protocol": {
+    "symbol": "FIO",
+    "name": "FIO Protocol",
+    "tier": "coingecko",
+    "coingecko_id": "fio-protocol"
+  },
+  "first-digital-usd": {
+    "symbol": "FDUSD",
+    "name": "First Digital USD",
+    "tier": "coingecko",
+    "coingecko_id": "first-digital-usd"
+  },
+  "flare-networks": {
+    "symbol": "FLR",
+    "name": "Flare",
+    "tier": "coingecko",
+    "coingecko_id": "flare-networks"
+  },
+  "flash-trade": {
+    "symbol": "FAF",
+    "name": "Flash.Trade",
+    "tier": "coingecko",
+    "coingecko_id": "flash-trade"
+  },
+  "flayer": {
+    "symbol": "FLAY",
+    "name": "Flayer",
+    "tier": "coingecko",
+    "coingecko_id": "flayer"
+  },
+  "flow": {
+    "symbol": "FLOW",
+    "name": "Flow",
+    "tier": "coingecko",
+    "coingecko_id": "flow"
+  },
+  "fogo": {
+    "symbol": "FOGO",
+    "name": "Fogo",
+    "tier": "coingecko",
+    "coingecko_id": "fogo"
+  },
+  "four": {
+    "symbol": "FORM",
+    "name": "Four",
+    "tier": "coingecko",
+    "coingecko_id": "four"
+  },
+  "frax": {
+    "symbol": "FRAX",
+    "name": "Legacy Frax Dollar",
+    "tier": "coingecko",
+    "coingecko_id": "frax"
+  },
+  "frax-price-index-share": {
+    "symbol": "FPIS",
+    "name": "Frax Price Index Share",
+    "tier": "coingecko",
+    "coingecko_id": "frax-price-index-share"
+  },
+  "frax-share": {
+    "symbol": "FRAX",
+    "name": "Frax (prev. FXS)",
+    "tier": "coingecko",
+    "coingecko_id": "frax-share"
+  },
+  "frax-usd": {
+    "symbol": "FRXUSD",
+    "name": "Frax USD",
+    "tier": "coingecko",
+    "coingecko_id": "frax-usd"
+  },
+  "freedom-dollar": {
+    "symbol": "FUSD",
+    "name": "Freedom Dollar",
+    "tier": "coingecko",
+    "coingecko_id": "freedom-dollar"
+  },
+  "freysa-ai": {
+    "symbol": "FAI",
+    "name": "Freysa AI",
+    "tier": "coingecko",
+    "coingecko_id": "freysa-ai"
+  },
+  "frok-ai": {
+    "symbol": "FROK",
+    "name": "FROK",
+    "tier": "coingecko",
+    "coingecko_id": "frok-ai"
+  },
+  "ftmtoken": {
+    "symbol": "FTMX",
+    "name": "FTMTOKEN",
+    "tier": "coingecko",
+    "coingecko_id": "ftmtoken"
+  },
+  "fuzzybear": {
+    "symbol": "FUZZY",
+    "name": "Fuzzybear",
+    "tier": "coingecko",
+    "coingecko_id": "fuzzybear"
+  },
+  "g-token": {
+    "symbol": "G",
+    "name": "Gravity (by Galxe)",
+    "tier": "coingecko",
+    "coingecko_id": "g-token"
+  },
+  "gaia-3": {
+    "symbol": "GAIA",
+    "name": "Gaia",
+    "tier": "coingecko",
+    "coingecko_id": "gaia-3"
+  },
+  "gaiai": {
+    "symbol": "GAIX",
+    "name": "GaiAI",
+    "tier": "coingecko",
+    "coingecko_id": "gaiai"
+  },
+  "gaib": {
+    "symbol": "GAIB",
+    "name": "GAIB",
+    "tier": "coingecko",
+    "coingecko_id": "gaib"
+  },
+  "gaib-aid": {
+    "symbol": "AID",
+    "name": "GAIB AID",
+    "tier": "coingecko",
+    "coingecko_id": "gaib-aid"
+  },
+  "gains-network": {
+    "symbol": "GNS",
+    "name": "Gains Network",
+    "tier": "coingecko",
+    "coingecko_id": "gains-network"
+  },
+  "gala": {
+    "symbol": "GALA",
+    "name": "GALA",
+    "tier": "coingecko",
+    "coingecko_id": "gala"
+  },
+  "galaxia": {
+    "symbol": "GXA",
+    "name": "Galaxia",
+    "tier": "coingecko",
+    "coingecko_id": "galaxia"
+  },
+  "galeon": {
+    "symbol": "GALEON",
+    "name": "Galeon",
+    "tier": "coingecko",
+    "coingecko_id": "galeon"
+  },
+  "gama-token": {
+    "symbol": "GAMA",
+    "name": "Gama Token",
+    "tier": "coingecko",
+    "coingecko_id": "gama-token"
+  },
+  "game-by-virtuals": {
+    "symbol": "GAME",
+    "name": "GAME by Virtuals",
+    "tier": "coingecko",
+    "coingecko_id": "game-by-virtuals"
+  },
+  "game-stop": {
+    "symbol": "GME",
+    "name": "GME (Ethereum)",
+    "tier": "coingecko",
+    "coingecko_id": "game-stop"
+  },
+  "gamebuild": {
+    "symbol": "GAME",
+    "name": "GameBuild",
+    "tier": "coingecko",
+    "coingecko_id": "gamebuild"
+  },
+  "gamer-tag": {
+    "symbol": "GMRT",
+    "name": "The Game Company",
+    "tier": "coingecko",
+    "coingecko_id": "gamer-tag"
+  },
+  "gamercoin": {
+    "symbol": "GHX",
+    "name": "GamerCoin",
+    "tier": "coingecko",
+    "coingecko_id": "gamercoin"
+  },
+  "games-for-a-living": {
+    "symbol": "GFAL",
+    "name": "Games for a Living",
+    "tier": "coingecko",
+    "coingecko_id": "games-for-a-living"
+  },
+  "gas": {
+    "symbol": "GAS",
+    "name": "Gas",
+    "tier": "coingecko",
+    "coingecko_id": "gas"
+  },
+  "gatechain-token": {
+    "symbol": "GT",
+    "name": "Gate",
+    "tier": "coingecko",
+    "coingecko_id": "gatechain-token"
+  },
+  "gboy": {
+    "symbol": "GBOY",
+    "name": "GBOY",
+    "tier": "coingecko",
+    "coingecko_id": "gboy"
+  },
+  "genius-ai": {
+    "symbol": "GNUS",
+    "name": "GENIUS AI",
+    "tier": "coingecko",
+    "coingecko_id": "genius-ai"
+  },
+  "gho": {
+    "symbol": "GHO",
+    "name": "GHO",
+    "tier": "coingecko",
+    "coingecko_id": "gho"
+  },
+  "ghostwareos": {
+    "symbol": "GHOST",
+    "name": "GhostwareOS",
+    "tier": "coingecko",
+    "coingecko_id": "ghostwareos"
+  },
+  "gigachad-2": {
+    "symbol": "GIGA",
+    "name": "Gigachad",
+    "tier": "coingecko",
+    "coingecko_id": "gigachad-2"
+  },
+  "giggle-fund": {
+    "symbol": "GIGGLE",
+    "name": "Giggle Fund",
+    "tier": "coingecko",
+    "coingecko_id": "giggle-fund"
+  },
+  "gitcoin": {
+    "symbol": "GTC",
+    "name": "Gitcoin",
+    "tier": "coingecko",
+    "coingecko_id": "gitcoin"
+  },
+  "gittensor": {
+    "symbol": "SN74",
+    "name": "Gittensor",
+    "tier": "coingecko",
+    "coingecko_id": "gittensor"
+  },
+  "giveback": {
+    "symbol": "GBACK",
+    "name": "GIVEBACK",
+    "tier": "coingecko",
+    "coingecko_id": "giveback"
+  },
+  "global-commercial-business": {
+    "symbol": "GCB",
+    "name": "Global Commercial Business",
+    "tier": "coingecko",
+    "coingecko_id": "global-commercial-business"
+  },
+  "global-dollar": {
+    "symbol": "USDG",
+    "name": "Global Dollar",
+    "tier": "coingecko",
+    "coingecko_id": "global-dollar"
+  },
+  "global-entertainment-token": {
+    "symbol": "GET",
+    "name": "Global Entertainment Token",
+    "tier": "coingecko",
+    "coingecko_id": "global-entertainment-token"
+  },
+  "gmt-token": {
+    "symbol": "GOMINING",
+    "name": "GoMining Token",
+    "tier": "coingecko",
+    "coingecko_id": "gmt-token"
+  },
+  "gmx": {
+    "symbol": "GMX",
+    "name": "GMX",
+    "tier": "coingecko",
+    "coingecko_id": "gmx"
+  },
+  "gnosis": {
+    "symbol": "GNO",
+    "name": "Gnosis",
+    "tier": "coingecko",
+    "coingecko_id": "gnosis"
+  },
+  "goat-network": {
+    "symbol": "GOATED",
+    "name": "GOAT Network",
+    "tier": "coingecko",
+    "coingecko_id": "goat-network"
+  },
+  "goatseus-maximus": {
+    "symbol": "GOAT",
+    "name": "Goatseus Maximus",
+    "tier": "coingecko",
+    "coingecko_id": "goatseus-maximus"
+  },
+  "gochujangcoin": {
+    "symbol": "GOCHU",
+    "name": "Gochujangcoin",
+    "tier": "coingecko",
+    "coingecko_id": "gochujangcoin"
+  },
+  "gold-dao": {
+    "symbol": "GOLDAO",
+    "name": "Gold DAO",
+    "tier": "coingecko",
+    "coingecko_id": "gold-dao"
+  },
+  "gold-token-sa-dgld-tokenized-gold": {
+    "symbol": "DGLD",
+    "name": "Gold Token SA DGLD Tokenized Gold",
+    "tier": "coingecko",
+    "coingecko_id": "gold-token-sa-dgld-tokenized-gold"
+  },
+  "gold-xstock": {
+    "symbol": "GLDX",
+    "name": "Gold xStock",
+    "tier": "coingecko",
+    "coingecko_id": "gold-xstock"
+  },
+  "goldcoin": {
+    "symbol": "GLC",
+    "name": "Goldcoin",
+    "tier": "coingecko",
+    "coingecko_id": "goldcoin"
+  },
+  "goldfinch": {
+    "symbol": "GFI",
+    "name": "Goldfinch",
+    "tier": "coingecko",
+    "coingecko_id": "goldfinch"
+  },
+  "goldn": {
+    "symbol": "GOLDN",
+    "name": "Goldn",
+    "tier": "coingecko",
+    "coingecko_id": "goldn"
+  },
+  "golem": {
+    "symbol": "GLM",
+    "name": "Golem",
+    "tier": "coingecko",
+    "coingecko_id": "golem"
+  },
+  "goplus-security": {
+    "symbol": "GPS",
+    "name": "GoPlus Security",
+    "tier": "coingecko",
+    "coingecko_id": "goplus-security"
+  },
+  "gram-2": {
+    "symbol": "GRAM",
+    "name": "Gram",
+    "tier": "coingecko",
+    "coingecko_id": "gram-2"
+  },
+  "graphite": {
+    "symbol": "SN43",
+    "name": "Graphite",
+    "tier": "coingecko",
+    "coingecko_id": "graphite"
+  },
+  "grass": {
+    "symbol": "GRASS",
+    "name": "Grass",
+    "tier": "coingecko",
+    "coingecko_id": "grass"
+  },
+  "grdm": {
+    "symbol": "GRDM",
+    "name": "grdm",
+    "tier": "coingecko",
+    "coingecko_id": "UNSUPPORTED:grdm"
+  },
+  "green": {
+    "symbol": "GREEN",
+    "name": "Green",
+    "tier": "coingecko",
+    "coingecko_id": "green"
+  },
+  "griffain": {
+    "symbol": "GRIFFAIN",
+    "name": "GRIFFAIN",
+    "tier": "coingecko",
+    "coingecko_id": "griffain"
+  },
+  "grin": {
+    "symbol": "GRIN",
+    "name": "Grin",
+    "tier": "coingecko",
+    "coingecko_id": "grin"
+  },
+  "grok-2": {
+    "symbol": "GROK",
+    "name": "Grok",
+    "tier": "coingecko",
+    "coingecko_id": "grok-2"
+  },
+  "grx-chain": {
+    "symbol": "GRX",
+    "name": "GRX Chain",
+    "tier": "coingecko",
+    "coingecko_id": "grx-chain"
+  },
+  "gunz": {
+    "symbol": "GUN",
+    "name": "Gunz",
+    "tier": "coingecko",
+    "coingecko_id": "gunz"
+  },
+  "gusd": {
+    "symbol": "GUSD",
+    "name": "GUSD",
+    "tier": "coingecko",
+    "coingecko_id": "gusd"
+  },
+  "gxchain": {
+    "symbol": "GXC",
+    "name": "GXChain",
+    "tier": "coingecko",
+    "coingecko_id": "gxchain"
+  },
+  "gyroscope-gyd": {
+    "symbol": "GYD",
+    "name": "gyroscope gyd",
+    "tier": "coingecko",
+    "coingecko_id": "UNSUPPORTED:gyroscope-gyd"
+  },
+  "haio": {
+    "symbol": "HAIO",
+    "name": "HAiO",
+    "tier": "coingecko",
+    "coingecko_id": "haio"
+  },
+  "hairdao": {
+    "symbol": "HAIR",
+    "name": "HairDAO",
+    "tier": "coingecko",
+    "coingecko_id": "hairdao"
+  },
+  "hamster-kombat": {
+    "symbol": "HMSTR",
+    "name": "Hamster Kombat",
+    "tier": "coingecko",
+    "coingecko_id": "hamster-kombat"
+  },
+  "hana-network": {
+    "symbol": "HANA",
+    "name": "Hana Network",
+    "tier": "coingecko",
+    "coingecko_id": "hana-network"
+  },
+  "handshake": {
+    "symbol": "HNS",
+    "name": "Handshake",
+    "tier": "coingecko",
+    "coingecko_id": "handshake"
+  },
+  "handy": {
+    "symbol": "HANDY",
+    "name": "Handy",
+    "tier": "coingecko",
+    "coingecko_id": "handy"
+  },
+  "harmony": {
+    "symbol": "ONE",
+    "name": "Harmony",
+    "tier": "coingecko",
+    "coingecko_id": "harmony"
+  },
+  "harvest-finance": {
+    "symbol": "FARM",
+    "name": "Harvest Finance",
+    "tier": "coingecko",
+    "coingecko_id": "harvest-finance"
+  },
+  "hash-2": {
+    "symbol": "HASH",
+    "name": "Provenance Blockchain",
+    "tier": "coingecko",
+    "coingecko_id": "hash-2"
+  },
+  "hashflow": {
+    "symbol": "HFT",
+    "name": "Hashflow",
+    "tier": "coingecko",
+    "coingecko_id": "hashflow"
+  },
+  "hashnote-usyc": {
+    "symbol": "USYC",
+    "name": "Circle USYC",
+    "tier": "coingecko",
+    "coingecko_id": "hashnote-usyc"
+  },
+  "hashpack": {
+    "symbol": "PACK",
+    "name": "HashPack",
+    "tier": "coingecko",
+    "coingecko_id": "hashpack"
+  },
+  "hastra-prime": {
+    "symbol": "PRIME",
+    "name": "PRIME",
+    "tier": "coingecko",
+    "coingecko_id": "hastra-prime"
+  },
+  "hathor": {
+    "symbol": "HTR",
+    "name": "Hathor",
+    "tier": "coingecko",
+    "coingecko_id": "hathor"
+  },
+  "heima": {
+    "symbol": "HEI",
+    "name": "Heima",
+    "tier": "coingecko",
+    "coingecko_id": "heima"
+  },
+  "helios-blockchain": {
+    "symbol": "HLS",
+    "name": "Helios Blockchain",
+    "tier": "coingecko",
+    "coingecko_id": "helios-blockchain"
+  },
+  "helium": {
+    "symbol": "HNT",
+    "name": "Helium",
+    "tier": "coingecko",
+    "coingecko_id": "helium"
+  },
+  "helium-iot": {
+    "symbol": "IOT",
+    "name": "Helium IOT",
+    "tier": "coingecko",
+    "coingecko_id": "helium-iot"
+  },
+  "helium-mobile": {
+    "symbol": "MOBILE",
+    "name": "Helium Mobile",
+    "tier": "coingecko",
+    "coingecko_id": "helium-mobile"
+  },
+  "hemi": {
+    "symbol": "HEMI",
+    "name": "Hemi",
+    "tier": "coingecko",
+    "coingecko_id": "hemi"
+  },
+  "hera-finance": {
+    "symbol": "HERA",
+    "name": "Hera Finance",
+    "tier": "coingecko",
+    "coingecko_id": "hera-finance"
+  },
+  "herbcoin": {
+    "symbol": "HERB",
+    "name": "HERBCOIN",
+    "tier": "coingecko",
+    "coingecko_id": "herbcoin"
+  },
+  "hermes-3": {
+    "symbol": "SN82",
+    "name": "Hermes",
+    "tier": "coingecko",
+    "coingecko_id": "hermes-3"
+  },
+  "hi-dollar": {
+    "symbol": "HI",
+    "name": "hi Dollar",
+    "tier": "coingecko",
+    "coingecko_id": "hi-dollar"
+  },
+  "hippo-protocol": {
+    "symbol": "HP",
+    "name": "Hippo Protocol",
+    "tier": "coingecko",
+    "coingecko_id": "hippo-protocol"
+  },
+  "hivemapper": {
+    "symbol": "HONEY",
+    "name": "Hivemapper",
+    "tier": "coingecko",
+    "coingecko_id": "hivemapper"
+  },
+  "holdstation-2": {
+    "symbol": "HOLD",
+    "name": "Holdstation",
+    "tier": "coingecko",
+    "coingecko_id": "holdstation-2"
+  },
+  "holotoken": {
+    "symbol": "HOT",
+    "name": "Holo",
+    "tier": "coingecko",
+    "coingecko_id": "holotoken"
+  },
+  "holoworld": {
+    "symbol": "HOLO",
+    "name": "Holoworld",
+    "tier": "coingecko",
+    "coingecko_id": "holoworld"
+  },
+  "honey-3": {
+    "symbol": "HONEY",
+    "name": "Honey",
+    "tier": "coingecko",
+    "coingecko_id": "honey-3"
+  },
+  "hooked-protocol": {
+    "symbol": "HOOK",
+    "name": "Hooked Protocol",
+    "tier": "coingecko",
+    "coingecko_id": "hooked-protocol"
+  },
+  "hopr": {
+    "symbol": "HOPR",
+    "name": "HOPR",
+    "tier": "coingecko",
+    "coingecko_id": "hopr"
+  },
+  "hosky": {
+    "symbol": "HOSKY",
+    "name": "Hosky",
+    "tier": "coingecko",
+    "coingecko_id": "hosky"
+  },
+  "houdini-swap": {
+    "symbol": "LOCK",
+    "name": "Houdini Swap",
+    "tier": "coingecko",
+    "coingecko_id": "houdini-swap"
+  },
+  "htx-dao": {
+    "symbol": "HTX",
+    "name": "HTX DAO",
+    "tier": "coingecko",
+    "coingecko_id": "htx-dao"
+  },
+  "huma-finance": {
+    "symbol": "HUMA",
+    "name": "Huma Finance",
+    "tier": "coingecko",
+    "coingecko_id": "huma-finance"
+  },
+  "humanity": {
+    "symbol": "H",
+    "name": "Humanity",
+    "tier": "coingecko",
+    "coingecko_id": "humanity"
+  },
+  "humans-ai": {
+    "symbol": "HEART",
+    "name": "Humans.ai",
+    "tier": "coingecko",
+    "coingecko_id": "humans-ai"
+  },
+  "humidifi": {
+    "symbol": "WET",
+    "name": "HumidiFi",
+    "tier": "coingecko",
+    "coingecko_id": "humidifi"
+  },
+  "hybux": {
+    "symbol": "HYBUX",
+    "name": "HYBUX",
+    "tier": "coingecko",
+    "coingecko_id": "hybux"
+  },
+  "hydrated-dollar": {
+    "symbol": "HOLLAR",
+    "name": "Hydrated Dollar",
+    "tier": "coingecko",
+    "coingecko_id": "hydrated-dollar"
+  },
+  "hyperbeat-ultra-hype": {
+    "symbol": "HBHYPE",
+    "name": "Hyperbeat Ultra HYPE",
+    "tier": "coingecko",
+    "coingecko_id": "hyperbeat-ultra-hype"
+  },
+  "hyperion-2": {
+    "symbol": "RION",
+    "name": "Hyperion",
+    "tier": "coingecko",
+    "coingecko_id": "hyperion-2"
+  },
+  "hyperlane": {
+    "symbol": "HYPER",
+    "name": "Hyperlane",
+    "tier": "coingecko",
+    "coingecko_id": "hyperlane"
+  },
+  "hyperliquid": {
+    "symbol": "HYPE",
+    "name": "Hyperliquid",
+    "tier": "coingecko",
+    "coingecko_id": "hyperliquid"
+  },
+  "hyperwave-hlp": {
+    "symbol": "HWHLP",
+    "name": "Hyperwave HLP",
+    "tier": "coingecko",
+    "coingecko_id": "hyperwave-hlp"
+  },
+  "ibs-2": {
+    "symbol": "IBS",
+    "name": "IBS",
+    "tier": "coingecko",
+    "coingecko_id": "ibs-2"
+  },
+  "idia": {
+    "symbol": "IDIA",
+    "name": "Impossible Finance Launchpad",
+    "tier": "coingecko",
+    "coingecko_id": "idia"
+  },
+  "idlemine": {
+    "symbol": "IDLE",
+    "name": "IdleMine",
+    "tier": "coingecko",
+    "coingecko_id": "idlemine"
+  },
+  "iexec-rlc": {
+    "symbol": "RLC",
+    "name": "iExec RLC",
+    "tier": "coingecko",
+    "coingecko_id": "iexec-rlc"
+  },
+  "ika": {
+    "symbol": "IKA",
+    "name": "Ika",
+    "tier": "coingecko",
+    "coingecko_id": "ika"
+  },
+  "illuminaticoin": {
+    "symbol": "NATI",
+    "name": "IlluminatiCoin",
+    "tier": "coingecko",
+    "coingecko_id": "illuminaticoin"
+  },
+  "illuvium": {
+    "symbol": "ILV",
+    "name": "Illuvium",
+    "tier": "coingecko",
+    "coingecko_id": "illuvium"
+  },
+  "immunefi": {
+    "symbol": "IMU",
+    "name": "Immunefi",
+    "tier": "coingecko",
+    "coingecko_id": "immunefi"
+  },
+  "impossible-cloud-network-token": {
+    "symbol": "ICNT",
+    "name": "Impossible Cloud Network Token",
+    "tier": "coingecko",
+    "coingecko_id": "impossible-cloud-network-token"
+  },
+  "indigo-dao-governance-token": {
+    "symbol": "INDY",
+    "name": "Indigo Protocol",
+    "tier": "coingecko",
+    "coingecko_id": "indigo-dao-governance-token"
+  },
+  "infinex-2": {
+    "symbol": "INX",
+    "name": "Infinex",
+    "tier": "coingecko",
+    "coingecko_id": "infinex-2"
+  },
+  "infinifi-locked-iusd-1week": {
+    "symbol": "LIUSD",
+    "name": "infiniFi Locked iUSD (1week)",
+    "tier": "coingecko",
+    "coingecko_id": "infinifi-locked-iusd-1week"
+  },
+  "infinifi-usd": {
+    "symbol": "IUSD",
+    "name": "InfiniFi USD",
+    "tier": "coingecko",
+    "coingecko_id": "infinifi-usd"
+  },
+  "infrared-finance": {
+    "symbol": "IR",
+    "name": "Infrared Finance",
+    "tier": "coingecko",
+    "coingecko_id": "infrared-finance"
+  },
+  "ini": {
+    "symbol": "INI",
+    "name": "INI",
+    "tier": "coingecko",
+    "coingecko_id": "ini"
+  },
+  "initia": {
+    "symbol": "INIT",
+    "name": "Initia",
+    "tier": "coingecko",
+    "coingecko_id": "initia"
+  },
+  "instadapp": {
+    "symbol": "FLUID",
+    "name": "Fluid",
+    "tier": "coingecko",
+    "coingecko_id": "instadapp"
+  },
+  "intel-ondo-tokenized-stock": {
+    "symbol": "INTCON",
+    "name": "Intel (Ondo Tokenized Stock)",
+    "tier": "coingecko",
+    "coingecko_id": "intel-ondo-tokenized-stock"
+  },
+  "intuition": {
+    "symbol": "TRUST",
+    "name": "Intuition",
+    "tier": "coingecko",
+    "coingecko_id": "intuition"
+  },
+  "inverse-finance": {
+    "symbol": "INV",
+    "name": "Inverse Finance",
+    "tier": "coingecko",
+    "coingecko_id": "inverse-finance"
+  },
+  "invesco-qqq-etf-ondo-tokenized-etf": {
+    "symbol": "QQQON",
+    "name": "Invesco QQQ ETF (Ondo Tokenized ETF)",
+    "tier": "coingecko",
+    "coingecko_id": "invesco-qqq-etf-ondo-tokenized-etf"
+  },
+  "io": {
+    "symbol": "IO",
+    "name": "io.net",
+    "tier": "coingecko",
+    "coingecko_id": "io"
+  },
+  "iostoken": {
+    "symbol": "IOST",
+    "name": "IOST",
+    "tier": "coingecko",
+    "coingecko_id": "iostoken"
+  },
+  "iota": {
+    "symbol": "IOTA",
+    "name": "IOTA",
+    "tier": "coingecko",
+    "coingecko_id": "iota"
+  },
+  "irys": {
+    "symbol": "IRYS",
+    "name": "Irys",
+    "tier": "coingecko",
+    "coingecko_id": "irys"
+  },
+  "ishares-core-msci-emerging-markets-etf-ondo-tokenized-etf": {
+    "symbol": "IEMGON",
+    "name": "iShares Core MSCI Emerging Markets ETF (Ondo Tokenized ETF)",
+    "tier": "coingecko",
+    "coingecko_id": "ishares-core-msci-emerging-markets-etf-ondo-tokenized-etf"
+  },
+  "ishares-core-s-p-500-etf-ondo-tokenized-etf": {
+    "symbol": "IVVON",
+    "name": "iShares Core S&P 500 ETF (Ondo Tokenized ETF)",
+    "tier": "coingecko",
+    "coingecko_id": "ishares-core-s-p-500-etf-ondo-tokenized-etf"
+  },
+  "ishares-gold-trust-ondo-tokenized-stock": {
+    "symbol": "IAUON",
+    "name": "iShares Gold Trust (Ondo Tokenized Stock)",
+    "tier": "coingecko",
+    "coingecko_id": "ishares-gold-trust-ondo-tokenized-stock"
+  },
+  "ishares-msci-eafe-etf-ondo-tokenized-etf": {
+    "symbol": "EFAON",
+    "name": "iShares MSCI EAFE ETF (Ondo Tokenized ETF)",
+    "tier": "coingecko",
+    "coingecko_id": "ishares-msci-eafe-etf-ondo-tokenized-etf"
+  },
+  "ishares-msci-emerging-markets-etf-ondo-tokenized-etf": {
+    "symbol": "EEMON",
+    "name": "iShares MSCI Emerging Markets ETF (Ondo Tokenized ETF)",
+    "tier": "coingecko",
+    "coingecko_id": "ishares-msci-emerging-markets-etf-ondo-tokenized-etf"
+  },
+  "ishares-russell-1000-growth-etf-ondo-tokenized-etf": {
+    "symbol": "IWFON",
+    "name": "iShares Russell 1000 Growth ETF (Ondo Tokenized ETF)",
+    "tier": "coingecko",
+    "coingecko_id": "ishares-russell-1000-growth-etf-ondo-tokenized-etf"
+  },
+  "ishares-tips-bond-etf-ondo-tokenized-etf": {
+    "symbol": "TIPON",
+    "name": "iShares TIPS Bond ETF (Ondo Tokenized ETF)",
+    "tier": "coingecko",
+    "coingecko_id": "ishares-tips-bond-etf-ondo-tokenized-etf"
+  },
+  "italian-national-football-team-fan-token": {
+    "symbol": "ITA",
+    "name": "Italian National Football Team Fan Token",
+    "tier": "coingecko",
+    "coingecko_id": "italian-national-football-team-fan-token"
+  },
+  "ix-token": {
+    "symbol": "IXT",
+    "name": "Planet IX (OLD)",
+    "tier": "coingecko",
+    "coingecko_id": "ix-token"
+  },
+  "izumi-finance": {
+    "symbol": "IZI",
+    "name": "iZUMi Finance",
+    "tier": "coingecko",
+    "coingecko_id": "izumi-finance"
+  },
+  "jager-hunter": {
+    "symbol": "JAGER",
+    "name": "Jager Hunter",
+    "tier": "coingecko",
+    "coingecko_id": "jager-hunter"
+  },
+  "janus-henderson-anemoy-aaa-clo-fund": {
+    "symbol": "JAAA",
+    "name": "Janus Henderson Anemoy AAA CLO Fund",
+    "tier": "coingecko",
+    "coingecko_id": "janus-henderson-anemoy-aaa-clo-fund"
+  },
+  "janus-henderson-anemoy-treasury-fund": {
+    "symbol": "JTRSY",
+    "name": "Janus Henderson Anemoy Treasury Fund",
+    "tier": "coingecko",
+    "coingecko_id": "janus-henderson-anemoy-treasury-fund"
+  },
+  "jasmycoin": {
+    "symbol": "JASMY",
+    "name": "JasmyCoin",
+    "tier": "coingecko",
+    "coingecko_id": "jasmycoin"
+  },
+  "jester": {
+    "symbol": "JEST",
+    "name": "Jester",
+    "tier": "coingecko",
+    "coingecko_id": "jester"
+  },
+  "jobcoin-2": {
+    "symbol": "JOBCOIN",
+    "name": "JOBCOIN",
+    "tier": "coingecko",
+    "coingecko_id": "jobcoin-2"
+  },
+  "joe-coin": {
+    "symbol": "JOE",
+    "name": "Joe Coin",
+    "tier": "coingecko",
+    "coingecko_id": "joe-coin"
+  },
+  "joule-2": {
+    "symbol": "JOULE",
+    "name": "Joule",
+    "tier": "coingecko",
+    "coingecko_id": "joule-2"
+  },
+  "jpycoin": {
+    "symbol": "JPYC",
+    "name": "JPY Coin",
+    "tier": "coingecko",
+    "coingecko_id": "jpycoin"
+  },
+  "juice-3": {
+    "symbol": "JUICE",
+    "name": "JUICE",
+    "tier": "coingecko",
+    "coingecko_id": "juice-3"
+  },
+  "jumptoken": {
+    "symbol": "JMPT",
+    "name": "JumpToken",
+    "tier": "coingecko",
+    "coingecko_id": "jumptoken"
+  },
+  "just": {
+    "symbol": "JST",
+    "name": "JUST",
+    "tier": "coingecko",
+    "coingecko_id": "just"
+  },
+  "just-a-frog": {
+    "symbol": "FROG",
+    "name": "just a frog",
+    "tier": "coingecko",
+    "coingecko_id": "just-a-frog"
+  },
+  "just-need-some-rest": {
+    "symbol": "REST",
+    "name": "Just need some rest",
+    "tier": "coingecko",
+    "coingecko_id": "just-need-some-rest"
+  },
+  "juventus-fan-token": {
+    "symbol": "JUV",
+    "name": "Juventus Fan Token",
+    "tier": "coingecko",
+    "coingecko_id": "juventus-fan-token"
+  },
+  "kaia": {
+    "symbol": "KAIA",
+    "name": "Kaia",
+    "tier": "coingecko",
+    "coingecko_id": "kaia"
+  },
+  "kaito": {
+    "symbol": "KAITO",
+    "name": "KAITO",
+    "tier": "coingecko",
+    "coingecko_id": "kaito"
+  },
+  "kamino": {
+    "symbol": "KMNO",
+    "name": "Kamino",
+    "tier": "coingecko",
+    "coingecko_id": "kamino"
+  },
+  "kan": {
+    "symbol": "KAN",
+    "name": "KAN",
+    "tier": "coingecko",
+    "coingecko_id": "kan"
+  },
+  "kardiachain": {
+    "symbol": "KAI",
+    "name": "KardiaChain",
+    "tier": "coingecko",
+    "coingecko_id": "kardiachain"
+  },
+  "karrat": {
+    "symbol": "KARRAT",
+    "name": "Karrat",
+    "tier": "coingecko",
+    "coingecko_id": "karrat"
+  },
+  "kaspa": {
+    "symbol": "KAS",
+    "name": "Kaspa",
+    "tier": "coingecko",
+    "coingecko_id": "kaspa"
+  },
+  "kava": {
+    "symbol": "KAVA",
+    "name": "Kava",
+    "tier": "coingecko",
+    "coingecko_id": "kava"
+  },
+  "keeta": {
+    "symbol": "KTA",
+    "name": "Keeta",
+    "tier": "coingecko",
+    "coingecko_id": "keeta"
+  },
+  "kellyclaude": {
+    "symbol": "KELLYCLAUDE",
+    "name": "KellyClaude",
+    "tier": "coingecko",
+    "coingecko_id": "kellyclaude"
+  },
+  "kelp-gain": {
+    "symbol": "AGETH",
+    "name": "Kelp Gain",
+    "tier": "coingecko",
+    "coingecko_id": "kelp-gain"
+  },
+  "kendu-inu": {
+    "symbol": "KENDU",
+    "name": "Kendu",
+    "tier": "coingecko",
+    "coingecko_id": "kendu-inu"
+  },
+  "kiboshib": {
+    "symbol": "KIBSHI",
+    "name": "KiboShib",
+    "tier": "coingecko",
+    "coingecko_id": "kiboshib"
+  },
+  "kinesis-gold": {
+    "symbol": "KAU",
+    "name": "Kinesis Gold",
+    "tier": "coingecko",
+    "coingecko_id": "kinesis-gold"
+  },
+  "kinesis-silver": {
+    "symbol": "KAG",
+    "name": "Kinesis Silver",
+    "tier": "coingecko",
+    "coingecko_id": "kinesis-silver"
+  },
+  "kite-2": {
+    "symbol": "KITE",
+    "name": "Kite",
+    "tier": "coingecko",
+    "coingecko_id": "kite-2"
+  },
+  "klay-token": {
+    "symbol": "KLAY",
+    "name": "Klaytn",
+    "tier": "coingecko",
+    "coingecko_id": "klay-token"
+  },
+  "kleros": {
+    "symbol": "PNK",
+    "name": "Kleros",
+    "tier": "coingecko",
+    "coingecko_id": "kleros"
+  },
+  "kodiak-finance": {
+    "symbol": "KDK",
+    "name": "Kodiak Finance",
+    "tier": "coingecko",
+    "coingecko_id": "kodiak-finance"
+  },
+  "koma-inu": {
+    "symbol": "KOMA",
+    "name": "Koma Inu",
+    "tier": "coingecko",
+    "coingecko_id": "koma-inu"
+  },
+  "komodo": {
+    "symbol": "KMD",
+    "name": "Komodo",
+    "tier": "coingecko",
+    "coingecko_id": "komodo"
+  },
+  "konnect": {
+    "symbol": "KCT",
+    "name": "Konnect",
+    "tier": "coingecko",
+    "coingecko_id": "konnect"
+  },
+  "kora": {
+    "symbol": "SN71",
+    "name": "Leadpoet",
+    "tier": "coingecko",
+    "coingecko_id": "kora"
+  },
+  "kryll": {
+    "symbol": "KRL",
+    "name": "KRYLL",
+    "tier": "coingecko",
+    "coingecko_id": "kryll"
+  },
+  "kucoin-shares": {
+    "symbol": "KCS",
+    "name": "KuCoin",
+    "tier": "coingecko",
+    "coingecko_id": "kucoin-shares"
+  },
+  "kujira": {
+    "symbol": "KUJI",
+    "name": "kujira",
+    "tier": "coingecko",
+    "coingecko_id": "UNSUPPORTED:kujira"
+  },
+  "kusama": {
+    "symbol": "KSM",
+    "name": "Kusama",
+    "tier": "coingecko",
+    "coingecko_id": "kusama"
+  },
+  "kyber-network-crystal": {
+    "symbol": "KNC",
+    "name": "Kyber Network Crystal",
+    "tier": "coingecko",
+    "coingecko_id": "kyber-network-crystal"
+  },
+  "lab": {
+    "symbol": "LAB",
+    "name": "LAB",
+    "tier": "coingecko",
+    "coingecko_id": "lab"
+  },
+  "landwolf-0x67": {
+    "symbol": "WOLF",
+    "name": "LandWolf",
+    "tier": "coingecko",
+    "coingecko_id": "landwolf-0x67"
+  },
+  "last-usd": {
+    "symbol": "USDXL",
+    "name": "Last USD",
+    "tier": "coingecko",
+    "coingecko_id": "last-usd"
+  },
+  "lava-network": {
+    "symbol": "LAVA",
+    "name": "Lava Network",
+    "tier": "coingecko",
+    "coingecko_id": "lava-network"
+  },
+  "layer3": {
+    "symbol": "L3",
+    "name": "Layer3",
+    "tier": "coingecko",
+    "coingecko_id": "layer3"
+  },
+  "layerzero": {
+    "symbol": "ZRO",
+    "name": "LayerZero",
+    "tier": "coingecko",
+    "coingecko_id": "layerzero"
+  },
+  "leo-token": {
+    "symbol": "LEO",
+    "name": "LEO Token",
+    "tier": "coingecko",
+    "coingecko_id": "leo-token"
+  },
+  "lifeform": {
+    "symbol": "LFT",
+    "name": "Lifeform",
+    "tier": "coingecko",
+    "coingecko_id": "lifeform"
+  },
+  "lighter": {
+    "symbol": "LIT",
+    "name": "Lighter",
+    "tier": "coingecko",
+    "coingecko_id": "lighter"
+  },
+  "limewire-token": {
+    "symbol": "LMWR",
+    "name": "LimeWire",
+    "tier": "coingecko",
+    "coingecko_id": "limewire-token"
+  },
+  "limitless-3": {
+    "symbol": "LMTS",
+    "name": "Limitless",
+    "tier": "coingecko",
+    "coingecko_id": "limitless-3"
+  },
+  "lion-cat": {
+    "symbol": "LCAT",
+    "name": "Lion Cat",
+    "tier": "coingecko",
+    "coingecko_id": "lion-cat"
+  },
+  "liquid-loans-usdl": {
+    "symbol": "USDL",
+    "name": "Liquid Loans USDL",
+    "tier": "coingecko",
+    "coingecko_id": "liquid-loans-usdl"
+  },
+  "liquity-bold-2": {
+    "symbol": "BOLD",
+    "name": "BOLD",
+    "tier": "coingecko",
+    "coingecko_id": "liquity-bold-2"
+  },
+  "liquity-usd": {
+    "symbol": "LUSD",
+    "name": "Liquity USD",
+    "tier": "coingecko",
+    "coingecko_id": "liquity-usd"
+  },
+  "liqwid-finance": {
+    "symbol": "LQ",
+    "name": "Liqwid Finance",
+    "tier": "coingecko",
+    "coingecko_id": "liqwid-finance"
+  },
+  "lisk": {
+    "symbol": "LSK",
+    "name": "Lisk",
+    "tier": "coingecko",
+    "coingecko_id": "lisk"
+  },
+  "lista": {
+    "symbol": "LISTA",
+    "name": "Lista DAO",
+    "tier": "coingecko",
+    "coingecko_id": "lista"
+  },
+  "litentry": {
+    "symbol": "LIT",
+    "name": "Litentry",
+    "tier": "coingecko",
+    "coingecko_id": "litentry"
+  },
+  "livepeer": {
+    "symbol": "LPT",
+    "name": "Livepeer",
+    "tier": "coingecko",
+    "coingecko_id": "livepeer"
+  },
+  "loaded-lions": {
+    "symbol": "LION",
+    "name": "Loaded Lions",
+    "tier": "coingecko",
+    "coingecko_id": "loaded-lions"
+  },
+  "localcoinswap": {
+    "symbol": "LCS",
+    "name": "LocalCoinSwap",
+    "tier": "coingecko",
+    "coingecko_id": "localcoinswap"
+  },
+  "lodesupply": {
+    "symbol": "LODE",
+    "name": "LODEsupply",
+    "tier": "coingecko",
+    "coingecko_id": "lodesupply"
+  },
+  "lofi-2": {
+    "symbol": "LOFI",
+    "name": "LOFI",
+    "tier": "coingecko",
+    "coingecko_id": "lofi-2"
+  },
+  "lombard-protocol": {
+    "symbol": "BARD",
+    "name": "Lombard",
+    "tier": "coingecko",
+    "coingecko_id": "lombard-protocol"
+  },
+  "look": {
+    "symbol": "LOOK",
+    "name": "LOOK",
+    "tier": "coingecko",
+    "coingecko_id": "look"
+  },
+  "lorenzo-protocol": {
+    "symbol": "BANK",
+    "name": "Lorenzo Protocol",
+    "tier": "coingecko",
+    "coingecko_id": "lorenzo-protocol"
+  },
+  "lumi-finance-luausd": {
+    "symbol": "LUAUSD",
+    "name": "Lumi Finance LUAUSD",
+    "tier": "coingecko",
+    "coingecko_id": "lumi-finance-luausd"
+  },
+  "lumia": {
+    "symbol": "LUMIA",
+    "name": "Lumia",
+    "tier": "coingecko",
+    "coingecko_id": "lumia"
+  },
+  "luna-by-virtuals": {
+    "symbol": "LUNA",
+    "name": "Luna by Virtuals",
+    "tier": "coingecko",
+    "coingecko_id": "luna-by-virtuals"
+  },
+  "luxxcoin": {
+    "symbol": "LUX",
+    "name": "Luxxcoin",
+    "tier": "coingecko",
+    "coingecko_id": "luxxcoin"
+  },
+  "m2-global-wealth-limited-mmx": {
+    "symbol": "MMX",
+    "name": "MMX",
+    "tier": "coingecko",
+    "coingecko_id": "m2-global-wealth-limited-mmx"
+  },
+  "mag7-ssi": {
+    "symbol": "MAG7.SSI",
+    "name": "MAG7.ssi",
+    "tier": "coingecko",
+    "coingecko_id": "mag7-ssi"
+  },
+  "magic": {
+    "symbol": "MAGIC",
+    "name": "Treasure",
+    "tier": "coingecko",
+    "coingecko_id": "magic"
+  },
+  "magic-internet-money-runes": {
+    "symbol": "MIM",
+    "name": "MAGIC•INTERNET•MONEY (Bitcoin)",
+    "tier": "coingecko",
+    "coingecko_id": "magic-internet-money-runes"
+  },
+  "magma-finance": {
+    "symbol": "MAGMA",
+    "name": "Magma Finance",
+    "tier": "coingecko",
+    "coingecko_id": "magma-finance"
+  },
+  "mahina-token": {
+    "symbol": "MHNA",
+    "name": "Mahina Token",
+    "tier": "coingecko",
+    "coingecko_id": "mahina-token"
+  },
+  "main-street-usd": {
+    "symbol": "MSUSD",
+    "name": "Main Street USD",
+    "tier": "coingecko",
+    "coingecko_id": "main-street-usd"
+  },
+  "mainframe-2": {
+    "symbol": "SN25",
+    "name": "Mainframe",
+    "tier": "coingecko",
+    "coingecko_id": "mainframe-2"
+  },
+  "mama-coin": {
+    "symbol": "MAMA",
+    "name": "Mama Coin",
+    "tier": "coingecko",
+    "coingecko_id": "mama-coin"
+  },
+  "manchester-city-fan-token": {
+    "symbol": "CITY",
+    "name": "Manchester City Fan Token",
+    "tier": "coingecko",
+    "coingecko_id": "manchester-city-fan-token"
+  },
+  "mansory-token": {
+    "symbol": "MNSRY",
+    "name": "Mansory Token",
+    "tier": "coingecko",
+    "coingecko_id": "mansory-token"
+  },
+  "manta-network": {
+    "symbol": "MANTA",
+    "name": "Manta Network",
+    "tier": "coingecko",
+    "coingecko_id": "manta-network"
+  },
+  "mantle": {
+    "symbol": "MNT",
+    "name": "Mantle",
+    "tier": "coingecko",
+    "coingecko_id": "mantle"
+  },
+  "marcopolo": {
+    "symbol": "MAPO",
+    "name": "MAP Protocol",
+    "tier": "coingecko",
+    "coingecko_id": "marcopolo"
+  },
+  "marina-protocol": {
+    "symbol": "BAY",
+    "name": "Marina Protocol",
+    "tier": "coingecko",
+    "coingecko_id": "marina-protocol"
+  },
+  "marlin": {
+    "symbol": "POND",
+    "name": "Marlin",
+    "tier": "coingecko",
+    "coingecko_id": "marlin"
+  },
+  "mars4": {
+    "symbol": "MARS4",
+    "name": "MARS4",
+    "tier": "coingecko",
+    "coingecko_id": "mars4"
+  },
+  "marsmi": {
+    "symbol": "MARSMI",
+    "name": "MarsMi",
+    "tier": "coingecko",
+    "coingecko_id": "marsmi"
+  },
+  "mask-network": {
+    "symbol": "MASK",
+    "name": "Mask Network",
+    "tier": "coingecko",
+    "coingecko_id": "mask-network"
+  },
+  "matic-aave-usdc": {
+    "symbol": "MAUSDC",
+    "name": "Matic Aave Interest Bearing USDC",
+    "tier": "coingecko",
+    "coingecko_id": "matic-aave-usdc"
+  },
+  "matrixdock-gold": {
+    "symbol": "XAUM",
+    "name": "Matrixdock Gold",
+    "tier": "coingecko",
+    "coingecko_id": "matrixdock-gold"
+  },
+  "maxi-payfi-strategy-token": {
+    "symbol": "MPST",
+    "name": "Maxi PayFi Strategy Token",
+    "tier": "coingecko",
+    "coingecko_id": "maxi-payfi-strategy-token"
+  },
+  "maza": {
+    "symbol": "MZC",
+    "name": "Maza",
+    "tier": "coingecko",
+    "coingecko_id": "maza"
+  },
+  "mbg-by-multibank-group": {
+    "symbol": "MBG",
+    "name": "MBG By Multibank Group",
+    "tier": "coingecko",
+    "coingecko_id": "mbg-by-multibank-group"
+  },
+  "mcdex": {
+    "symbol": "MCB",
+    "name": "MUX Protocol",
+    "tier": "coingecko",
+    "coingecko_id": "mcdex"
+  },
+  "mcdull": {
+    "symbol": "MCDULL",
+    "name": "McDull (Meme)",
+    "tier": "coingecko",
+    "coingecko_id": "mcdull"
+  },
+  "mcoin1": {
+    "symbol": "MCOIN",
+    "name": "MCOIN",
+    "tier": "coingecko",
+    "coingecko_id": "mcoin1"
+  },
+  "measurable-data-token": {
+    "symbol": "MDT",
+    "name": "Measurable Data",
+    "tier": "coingecko",
+    "coingecko_id": "measurable-data-token"
+  },
+  "mecca": {
+    "symbol": "MEA",
+    "name": "MECCA",
+    "tier": "coingecko",
+    "coingecko_id": "mecca"
+  },
+  "medibloc": {
+    "symbol": "MED",
+    "name": "Medibloc",
+    "tier": "coingecko",
+    "coingecko_id": "medibloc"
+  },
+  "medxt": {
+    "symbol": "MEDXT",
+    "name": "MEDXT",
+    "tier": "coingecko",
+    "coingecko_id": "medxt"
+  },
+  "melania-meme": {
+    "symbol": "MELANIA",
+    "name": "Melania Meme",
+    "tier": "coingecko",
+    "coingecko_id": "melania-meme"
+  },
+  "melex": {
+    "symbol": "MELEX",
+    "name": "Melex",
+    "tier": "coingecko",
+    "coingecko_id": "melex"
+  },
+  "memdex100": {
+    "symbol": "MEMDEX",
+    "name": "MEMDEX100",
+    "tier": "coingecko",
+    "coingecko_id": "memdex100"
+  },
+  "memecore": {
+    "symbol": "M",
+    "name": "MemeCore",
+    "tier": "coingecko",
+    "coingecko_id": "memecore"
+  },
+  "memefi-2": {
+    "symbol": "MEMEFI",
+    "name": "MemeFi",
+    "tier": "coingecko",
+    "coingecko_id": "memefi-2"
+  },
+  "memetern": {
+    "symbol": "MXT",
+    "name": "Memetern",
+    "tier": "coingecko",
+    "coingecko_id": "memetern"
+  },
+  "meta-2-2": {
+    "symbol": "META",
+    "name": "MetaDAO",
+    "tier": "coingecko",
+    "coingecko_id": "meta-2-2"
+  },
+  "meta-xstock": {
+    "symbol": "METAX",
+    "name": "Meta xStock",
+    "tier": "coingecko",
+    "coingecko_id": "meta-xstock"
+  },
+  "metal": {
+    "symbol": "MTL",
+    "name": "Metal DAO",
+    "tier": "coingecko",
+    "coingecko_id": "metal"
+  },
+  "metal-blockchain": {
+    "symbol": "METAL",
+    "name": "Metal Blockchain",
+    "tier": "coingecko",
+    "coingecko_id": "metal-blockchain"
+  },
+  "metamask-usd": {
+    "symbol": "MUSD",
+    "name": "MetaMask USD",
+    "tier": "coingecko",
+    "coingecko_id": "metamask-usd"
+  },
+  "meteora": {
+    "symbol": "MET",
+    "name": "Meteora",
+    "tier": "coingecko",
+    "coingecko_id": "meteora"
+  },
+  "meth-protocol": {
+    "symbol": "COOK",
+    "name": "mETH Protocol",
+    "tier": "coingecko",
+    "coingecko_id": "meth-protocol"
+  },
+  "metis-token": {
+    "symbol": "METIS",
+    "name": "Metis",
+    "tier": "coingecko",
+    "coingecko_id": "metis-token"
+  },
+  "metronome": {
+    "symbol": "MET",
+    "name": "Metronome",
+    "tier": "coingecko",
+    "coingecko_id": "metronome"
+  },
+  "metronome-synth-usd": {
+    "symbol": "MSUSD",
+    "name": "Metronome Synth USD",
+    "tier": "coingecko",
+    "coingecko_id": "metronome-synth-usd"
+  },
+  "mia-2": {
+    "symbol": "MIA",
+    "name": "MIA",
+    "tier": "coingecko",
+    "coingecko_id": "mia-2"
+  },
+  "micron-technology-ondo-tokenized-stock": {
+    "symbol": "MUON",
+    "name": "Micron Technology (Ondo Tokenized Stock)",
+    "tier": "coingecko",
+    "coingecko_id": "micron-technology-ondo-tokenized-stock"
+  },
+  "midas-mapollo": {
+    "symbol": "MAPOLLO",
+    "name": "Midas mAPOLLO",
+    "tier": "coingecko",
+    "coingecko_id": "midas-mapollo"
+  },
+  "midas-mf-one": {
+    "symbol": "MF-ONE",
+    "name": "Midas mF-ONE",
+    "tier": "coingecko",
+    "coingecko_id": "midas-mf-one"
+  },
+  "midas-mmev": {
+    "symbol": "MMEV",
+    "name": "Midas mMEV",
+    "tier": "coingecko",
+    "coingecko_id": "midas-mmev"
+  },
+  "midas-msyrupusdp": {
+    "symbol": "MSYRUPUSDP",
+    "name": "Midas msyrupUSDp",
+    "tier": "coingecko",
+    "coingecko_id": "midas-msyrupusdp"
+  },
+  "midnight-3": {
+    "symbol": "NIGHT",
+    "name": "Midnight",
+    "tier": "coingecko",
+    "coingecko_id": "midnight-3"
+  },
+  "mil": {
+    "symbol": "MIL",
+    "name": "MIL",
+    "tier": "coingecko",
+    "coingecko_id": "mil"
+  },
+  "milady-cult-coin": {
+    "symbol": "CULT",
+    "name": "Milady Cult Coin",
+    "tier": "coingecko",
+    "coingecko_id": "milady-cult-coin"
+  },
+  "milady-meme-coin": {
+    "symbol": "LADYS",
+    "name": "Milady Meme Coin",
+    "tier": "coingecko",
+    "coingecko_id": "milady-meme-coin"
+  },
+  "milk": {
+    "symbol": "MILK",
+    "name": "Cool Cats Milk",
+    "tier": "coingecko",
+    "coingecko_id": "milk"
+  },
+  "milk-alliance": {
+    "symbol": "MLK",
+    "name": "MiL.k",
+    "tier": "coingecko",
+    "coingecko_id": "milk-alliance"
+  },
+  "mimatic": {
+    "symbol": "MIMATIC",
+    "name": "MAI",
+    "tier": "coingecko",
+    "coingecko_id": "mimatic"
+  },
+  "mimblewimblecoin": {
+    "symbol": "MWC",
+    "name": "MimbleWimbleCoin",
+    "tier": "coingecko",
+    "coingecko_id": "mimblewimblecoin"
+  },
+  "mimbogamegroup": {
+    "symbol": "MGG",
+    "name": "MimboGameGroup",
+    "tier": "coingecko",
+    "coingecko_id": "mimbogamegroup"
+  },
+  "mina-protocol": {
+    "symbol": "MINA",
+    "name": "Mina Protocol",
+    "tier": "coingecko",
+    "coingecko_id": "mina-protocol"
+  },
+  "mind-network": {
+    "symbol": "FHE",
+    "name": "Mind Network",
+    "tier": "coingecko",
+    "coingecko_id": "mind-network"
+  },
+  "mindwavedao": {
+    "symbol": "NILA",
+    "name": "MindWaveDAO",
+    "tier": "coingecko",
+    "coingecko_id": "mindwavedao"
+  },
+  "minidoge-5": {
+    "symbol": "MINIDOGE",
+    "name": "Minidoge",
+    "tier": "coingecko",
+    "coingecko_id": "minidoge-5"
+  },
+  "minotari": {
+    "symbol": "XTM",
+    "name": "MinoTari (Tari)",
+    "tier": "coingecko",
+    "coingecko_id": "minotari"
+  },
+  "minto": {
+    "symbol": "BTCMT",
+    "name": "Minto",
+    "tier": "coingecko",
+    "coingecko_id": "minto"
+  },
+  "minutes-network-token": {
+    "symbol": "MNTX",
+    "name": "Minutes Network Token",
+    "tier": "coingecko",
+    "coingecko_id": "minutes-network-token"
+  },
+  "mister-miggles": {
+    "symbol": "MIGGLES",
+    "name": "Mr. Miggles",
+    "tier": "coingecko",
+    "coingecko_id": "mister-miggles"
+  },
+  "miu-2": {
+    "symbol": "MIU",
+    "name": "MIU",
+    "tier": "coingecko",
+    "coingecko_id": "miu-2"
+  },
+  "mizar": {
+    "symbol": "MZR",
+    "name": "Mizar",
+    "tier": "coingecko",
+    "coingecko_id": "mizar"
+  },
+  "mnee-usd-stablecoin": {
+    "symbol": "MNEE",
+    "name": "MNEE USD Stablecoin",
+    "tier": "coingecko",
+    "coingecko_id": "mnee-usd-stablecoin"
+  },
+  "moby-ai": {
+    "symbol": "MOBY",
+    "name": "Moby AI",
+    "tier": "coingecko",
+    "coingecko_id": "moby-ai"
+  },
+  "mocaverse": {
+    "symbol": "MOCA",
+    "name": "Moca Network",
+    "tier": "coingecko",
+    "coingecko_id": "mocaverse"
+  },
+  "mog-coin": {
+    "symbol": "MOG",
+    "name": "Mog Coin",
+    "tier": "coingecko",
+    "coingecko_id": "mog-coin"
+  },
+  "moltbook": {
+    "symbol": "MOLT",
+    "name": "Moltbook",
+    "tier": "coingecko",
+    "coingecko_id": "moltbook"
+  },
+  "momentum-3": {
+    "symbol": "MMT",
+    "name": "Momentum",
+    "tier": "coingecko",
+    "coingecko_id": "momentum-3"
+  },
+  "monbasecoin": {
+    "symbol": "MBC",
+    "name": "MonbaseCoin",
+    "tier": "coingecko",
+    "coingecko_id": "monbasecoin"
+  },
+  "monerium-eur-money": {
+    "symbol": "EURE",
+    "name": "Monerium EUR emoney [OLD]",
+    "tier": "coingecko",
+    "coingecko_id": "monerium-eur-money"
+  },
+  "monerium-eur-money-2": {
+    "symbol": "EURE",
+    "name": "Monerium EUR emoney",
+    "tier": "coingecko",
+    "coingecko_id": "monerium-eur-money-2"
+  },
+  "monero": {
+    "symbol": "XMR",
+    "name": "Monero",
+    "tier": "coingecko",
+    "coingecko_id": "monero"
+  },
+  "moolah": {
+    "symbol": "MOOLAH",
+    "name": "Moolah",
+    "tier": "coingecko",
+    "coingecko_id": "moolah"
+  },
+  "moonbeam": {
+    "symbol": "GLMR",
+    "name": "Moonbeam",
+    "tier": "coingecko",
+    "coingecko_id": "moonbeam"
+  },
+  "moonbirds": {
+    "symbol": "BIRB",
+    "name": "Moonbirds",
+    "tier": "coingecko",
+    "coingecko_id": "moonbirds"
+  },
+  "moonwell-artemis": {
+    "symbol": "WELL",
+    "name": "Moonwell",
+    "tier": "coingecko",
+    "coingecko_id": "moonwell-artemis"
+  },
+  "morpheusai": {
+    "symbol": "MOR",
+    "name": "Morpheus AI",
+    "tier": "coingecko",
+    "coingecko_id": "morpheusai"
+  },
+  "morpho": {
+    "symbol": "MORPHO",
+    "name": "Morpho",
+    "tier": "coingecko",
+    "coingecko_id": "morpho"
+  },
+  "morphware": {
+    "symbol": "XMW",
+    "name": "Morphware",
+    "tier": "coingecko",
+    "coingecko_id": "morphware"
+  },
+  "mossland": {
+    "symbol": "MOC",
+    "name": "Mossland",
+    "tier": "coingecko",
+    "coingecko_id": "mossland"
+  },
+  "movement": {
+    "symbol": "MOVE",
+    "name": "Movement",
+    "tier": "coingecko",
+    "coingecko_id": "movement"
+  },
+  "mustang": {
+    "symbol": "MUST",
+    "name": "Mustang",
+    "tier": "coingecko",
+    "coingecko_id": "mustang"
+  },
+  "mwx-token": {
+    "symbol": "MWXT",
+    "name": "MWX Token",
+    "tier": "coingecko",
+    "coingecko_id": "mwx-token"
+  },
+  "mx-token": {
+    "symbol": "MX",
+    "name": "MX",
+    "tier": "coingecko",
+    "coingecko_id": "mx-token"
+  },
+  "my-neighbor-alice": {
+    "symbol": "ALICE",
+    "name": "My Neighbor Alice",
+    "tier": "coingecko",
+    "coingecko_id": "my-neighbor-alice"
+  },
+  "myro": {
+    "symbol": "$MYRO",
+    "name": "Myro",
+    "tier": "coingecko",
+    "coingecko_id": "myro"
+  },
+  "myshell": {
+    "symbol": "SHELL",
+    "name": "MyShell",
+    "tier": "coingecko",
+    "coingecko_id": "myshell"
+  },
+  "mysterium": {
+    "symbol": "MYST",
+    "name": "Mysterium",
+    "tier": "coingecko",
+    "coingecko_id": "mysterium"
+  },
+  "myx-finance": {
+    "symbol": "MYX",
+    "name": "MYX Finance",
+    "tier": "coingecko",
+    "coingecko_id": "myx-finance"
+  },
+  "nacho-the-kat": {
+    "symbol": "NACHO",
+    "name": "Nacho the Kat",
+    "tier": "coingecko",
+    "coingecko_id": "nacho-the-kat"
+  },
+  "nano": {
+    "symbol": "XNO",
+    "name": "Nano",
+    "tier": "coingecko",
+    "coingecko_id": "nano"
+  },
+  "natix-network": {
+    "symbol": "NATIX",
+    "name": "NATIX Network",
+    "tier": "coingecko",
+    "coingecko_id": "natix-network"
+  },
+  "nav-coin": {
+    "symbol": "NAV",
+    "name": "Navio",
+    "tier": "coingecko",
+    "coingecko_id": "nav-coin"
+  },
+  "navi": {
+    "symbol": "NAVX",
+    "name": "NAVI Protocol",
+    "tier": "coingecko",
+    "coingecko_id": "navi"
+  },
+  "neet": {
+    "symbol": "NEET",
+    "name": "Not in Employment, Education, or Training",
+    "tier": "coingecko",
+    "coingecko_id": "neet"
+  },
+  "neiro-3": {
+    "symbol": "NEIRO",
+    "name": "Neiro",
+    "tier": "coingecko",
+    "coingecko_id": "neiro-3"
+  },
+  "nem": {
+    "symbol": "XEM",
+    "name": "NEM",
+    "tier": "coingecko",
+    "coingecko_id": "nem"
+  },
+  "neo": {
+    "symbol": "NEO",
+    "name": "NEO",
+    "tier": "coingecko",
+    "coingecko_id": "neo"
+  },
+  "neon": {
+    "symbol": "NEON",
+    "name": "Neon",
+    "tier": "coingecko",
+    "coingecko_id": "neon"
+  },
+  "neon-exchange": {
+    "symbol": "NEX",
+    "name": "Nash",
+    "tier": "coingecko",
+    "coingecko_id": "neon-exchange"
+  },
+  "nero-chain": {
+    "symbol": "NERO",
+    "name": "NERO Chain",
+    "tier": "coingecko",
+    "coingecko_id": "nero-chain"
+  },
+  "nervos-network": {
+    "symbol": "CKB",
+    "name": "Nervos Network",
+    "tier": "coingecko",
+    "coingecko_id": "nervos-network"
+  },
+  "nest-alpha-vault-lp": {
+    "symbol": "INALPHA",
+    "name": "Nest Alpha Vault (LP)",
+    "tier": "coingecko",
+    "coingecko_id": "nest-alpha-vault-lp"
+  },
+  "nest-basis-vault": {
+    "symbol": "NBASIS",
+    "name": "Nest Basis Vault",
+    "tier": "coingecko",
+    "coingecko_id": "nest-basis-vault"
+  },
+  "nest-blackopal-liquidstone-ii-vault": {
+    "symbol": "NOPAL",
+    "name": "Nest BlackOpal LiquidStone II Vault",
+    "tier": "coingecko",
+    "coingecko_id": "nest-blackopal-liquidstone-ii-vault"
+  },
+  "neuralai": {
+    "symbol": "NEURAL",
+    "name": "NEURALAI",
+    "tier": "coingecko",
+    "coingecko_id": "neuralai"
+  },
+  "newton-project": {
+    "symbol": "AB",
+    "name": "AB",
+    "tier": "coingecko",
+    "coingecko_id": "newton-project"
+  },
+  "nexo": {
+    "symbol": "NEXO",
+    "name": "NEXO",
+    "tier": "coingecko",
+    "coingecko_id": "nexo"
+  },
+  "nexpace": {
+    "symbol": "NXPC",
+    "name": "Nexpace",
+    "tier": "coingecko",
+    "coingecko_id": "nexpace"
+  },
+  "nextplace": {
+    "symbol": "SN48",
+    "name": "Quantum Compute",
+    "tier": "coingecko",
+    "coingecko_id": "nextplace"
+  },
+  "nfprompt-token": {
+    "symbol": "NFP",
+    "name": "NFPrompt",
+    "tier": "coingecko",
+    "coingecko_id": "nfprompt-token"
+  },
+  "nftx": {
+    "symbol": "NFTX",
+    "name": "NFTX",
+    "tier": "coingecko",
+    "coingecko_id": "nftx"
+  },
+  "nibiru": {
+    "symbol": "NIBI",
+    "name": "Nibiru",
+    "tier": "coingecko",
+    "coingecko_id": "nibiru"
+  },
+  "nietzschean-penguin": {
+    "symbol": "PENGUIN",
+    "name": "Nietzschean Penguin",
+    "tier": "coingecko",
+    "coingecko_id": "nietzschean-penguin"
+  },
+  "nineteen-ai": {
+    "symbol": "SN19",
+    "name": "Nineteen.ai",
+    "tier": "coingecko",
+    "coingecko_id": "nineteen-ai"
+  },
+  "ninja-squad": {
+    "symbol": "NST",
+    "name": "Ninja Squad Token",
+    "tier": "coingecko",
+    "coingecko_id": "ninja-squad"
+  },
+  "nkn": {
+    "symbol": "NKN",
+    "name": "NKN",
+    "tier": "coingecko",
+    "coingecko_id": "nkn"
+  },
+  "noble-dollar-usdn": {
+    "symbol": "USDN",
+    "name": "Noble Dollar (USDN)",
+    "tier": "coingecko",
+    "coingecko_id": "noble-dollar-usdn"
+  },
+  "nockchain": {
+    "symbol": "NOCK",
+    "name": "Nockchain",
+    "tier": "coingecko",
+    "coingecko_id": "nockchain"
+  },
+  "noice": {
+    "symbol": "NOICE",
+    "name": "noice",
+    "tier": "coingecko",
+    "coingecko_id": "noice"
+  },
+  "nolus": {
+    "symbol": "NLS",
+    "name": "Nolus",
+    "tier": "coingecko",
+    "coingecko_id": "nolus"
+  },
+  "non-playable-coin": {
+    "symbol": "NPC",
+    "name": "Non-Playable Coin",
+    "tier": "coingecko",
+    "coingecko_id": "non-playable-coin"
+  },
+  "noon-usn": {
+    "symbol": "USN",
+    "name": "Noon USN",
+    "tier": "coingecko",
+    "coingecko_id": "noon-usn"
+  },
+  "nova-3": {
+    "symbol": "SN68",
+    "name": "NOVA",
+    "tier": "coingecko",
+    "coingecko_id": "nova-3"
+  },
+  "numbers-protocol": {
+    "symbol": "NUM",
+    "name": "Numbers Protocol",
+    "tier": "coingecko",
+    "coingecko_id": "numbers-protocol"
+  },
+  "numeraire": {
+    "symbol": "NMR",
+    "name": "Numeraire",
+    "tier": "coingecko",
+    "coingecko_id": "numeraire"
+  },
+  "numine-token": {
+    "symbol": "NUMI",
+    "name": "NUMINE Token",
+    "tier": "coingecko",
+    "coingecko_id": "numine-token"
+  },
+  "nusd": {
+    "symbol": "SUSD",
+    "name": "Synthetix sUSD",
+    "tier": "coingecko",
+    "coingecko_id": "nusd"
+  },
+  "nusd-2": {
+    "symbol": "NUSD",
+    "name": "Neutrl USD",
+    "tier": "coingecko",
+    "coingecko_id": "nusd-2"
+  },
+  "nuvola-digital": {
+    "symbol": "NVL",
+    "name": "Nuvola Digital",
+    "tier": "coingecko",
+    "coingecko_id": "nuvola-digital"
+  },
+  "nvidia-xstock": {
+    "symbol": "NVDAX",
+    "name": "NVIDIA xStock",
+    "tier": "coingecko",
+    "coingecko_id": "nvidia-xstock"
+  },
+  "nxm": {
+    "symbol": "NXM",
+    "name": "Nexus Mutual",
+    "tier": "coingecko",
+    "coingecko_id": "nxm"
+  },
+  "nyc-token": {
+    "symbol": "NYC",
+    "name": "NYC",
+    "tier": "coingecko",
+    "coingecko_id": "nyc-token"
+  },
+  "nym": {
+    "symbol": "NYM",
+    "name": "Nym",
+    "tier": "coingecko",
+    "coingecko_id": "nym"
+  },
+  "oasis-network": {
+    "symbol": "ROSE",
+    "name": "Oasis",
+    "tier": "coingecko",
+    "coingecko_id": "oasis-network"
+  },
+  "oasys": {
+    "symbol": "OAS",
+    "name": "Oasys",
+    "tier": "coingecko",
+    "coingecko_id": "oasys"
+  },
+  "observer-coin": {
+    "symbol": "OBSR",
+    "name": "Observer",
+    "tier": "coingecko",
+    "coingecko_id": "observer-coin"
+  },
+  "ocean-protocol": {
+    "symbol": "OCEAN",
+    "name": "Ocean Protocol",
+    "tier": "coingecko",
+    "coingecko_id": "ocean-protocol"
+  },
+  "official-trump": {
+    "symbol": "TRUMP",
+    "name": "Official Trump",
+    "tier": "coingecko",
+    "coingecko_id": "official-trump"
+  },
+  "okb": {
+    "symbol": "OKB",
+    "name": "OKB",
+    "tier": "coingecko",
+    "coingecko_id": "okb"
+  },
+  "okzoo": {
+    "symbol": "AIOT",
+    "name": "OKZOO",
+    "tier": "coingecko",
+    "coingecko_id": "okzoo"
+  },
+  "olympus": {
+    "symbol": "OHM",
+    "name": "Olympus",
+    "tier": "coingecko",
+    "coingecko_id": "olympus"
+  },
+  "omega-any-to-any": {
+    "symbol": "SN21",
+    "name": "OMEGA Any-to-Any",
+    "tier": "coingecko",
+    "coingecko_id": "omega-any-to-any"
+  },
+  "omega-labs": {
+    "symbol": "SN24",
+    "name": "OMEGA Labs",
+    "tier": "coingecko",
+    "coingecko_id": "omega-labs"
+  },
+  "omisego": {
+    "symbol": "OMG",
+    "name": "OMG Network",
+    "tier": "coingecko",
+    "coingecko_id": "omisego"
+  },
+  "omron": {
+    "symbol": "SN2",
+    "name": "Omron",
+    "tier": "coingecko",
+    "coingecko_id": "omron"
+  },
+  "onbuff": {
+    "symbol": "LWA",
+    "name": "LumiWave",
+    "tier": "coingecko",
+    "coingecko_id": "onbuff"
+  },
+  "ondo-finance": {
+    "symbol": "ONDO",
+    "name": "Ondo",
+    "tier": "coingecko",
+    "coingecko_id": "ondo-finance"
+  },
+  "ondo-u-s-dollar-token": {
+    "symbol": "USDON",
+    "name": "Ondo U.S. Dollar Token",
+    "tier": "coingecko",
+    "coingecko_id": "ondo-u-s-dollar-token"
+  },
+  "ondo-us-dollar-yield": {
+    "symbol": "USDY",
+    "name": "Ondo US Dollar Yield",
+    "tier": "coingecko",
+    "coingecko_id": "ondo-us-dollar-yield"
+  },
+  "onfa": {
+    "symbol": "OFT",
+    "name": "ONFA",
+    "tier": "coingecko",
+    "coingecko_id": "onfa"
+  },
+  "ong": {
+    "symbol": "ONG",
+    "name": "Ontology Gas",
+    "tier": "coingecko",
+    "coingecko_id": "ong"
+  },
+  "onyc": {
+    "symbol": "ONYC",
+    "name": "Onchain Yield Coin",
+    "tier": "coingecko",
+    "coingecko_id": "onyc"
+  },
+  "oobit-2": {
+    "symbol": "OOB",
+    "name": "Oobit",
+    "tier": "coingecko",
+    "coingecko_id": "oobit-2"
+  },
+  "oort": {
+    "symbol": "OORT",
+    "name": "OORT",
+    "tier": "coingecko",
+    "coingecko_id": "oort"
+  },
+  "openeden-open-dollar": {
+    "symbol": "USDO",
+    "name": "OpenEden OpenDollar",
+    "tier": "coingecko",
+    "coingecko_id": "openeden-open-dollar"
+  },
+  "openkaito": {
+    "symbol": "SN5",
+    "name": "OpenKaito",
+    "tier": "coingecko",
+    "coingecko_id": "openkaito"
+  },
+  "openvpp": {
+    "symbol": "OVPP",
+    "name": "OpenVPP",
+    "tier": "coingecko",
+    "coingecko_id": "openvpp"
+  },
+  "opinion": {
+    "symbol": "OPN",
+    "name": "Opinion",
+    "tier": "coingecko",
+    "coingecko_id": "opinion"
+  },
+  "optio": {
+    "symbol": "OPT",
+    "name": "Optio",
+    "tier": "coingecko",
+    "coingecko_id": "optio"
+  },
+  "opus-2": {
+    "symbol": "OPUS",
+    "name": "Opus Genesis",
+    "tier": "coingecko",
+    "coingecko_id": "opus-2"
+  },
+  "orbit-chain": {
+    "symbol": "ORC",
+    "name": "Orbit Chain",
+    "tier": "coingecko",
+    "coingecko_id": "orbit-chain"
+  },
+  "orbiter-finance": {
+    "symbol": "OBT",
+    "name": "Orbiter Finance",
+    "tier": "coingecko",
+    "coingecko_id": "orbiter-finance"
+  },
+  "orca": {
+    "symbol": "ORCA",
+    "name": "Orca",
+    "tier": "coingecko",
+    "coingecko_id": "orca"
+  },
+  "orderly-network": {
+    "symbol": "ORDER",
+    "name": "Orderly",
+    "tier": "coingecko",
+    "coingecko_id": "orderly-network"
+  },
+  "ore": {
+    "symbol": "ORE",
+    "name": "ORE",
+    "tier": "coingecko",
+    "coingecko_id": "ore"
+  },
+  "orgo": {
+    "symbol": "ORGO",
+    "name": "Orgo",
+    "tier": "coingecko",
+    "coingecko_id": "orgo"
+  },
+  "origin-dollar": {
+    "symbol": "OUSD",
+    "name": "Origin Dollar",
+    "tier": "coingecko",
+    "coingecko_id": "origin-dollar"
+  },
+  "origintrail": {
+    "symbol": "TRAC",
+    "name": "OriginTrail",
+    "tier": "coingecko",
+    "coingecko_id": "origintrail"
+  },
+  "origyn-foundation": {
+    "symbol": "OGY",
+    "name": "ORIGYN",
+    "tier": "coingecko",
+    "coingecko_id": "origyn-foundation"
+  },
+  "orochi-network": {
+    "symbol": "ON",
+    "name": "Orochi Network",
+    "tier": "coingecko",
+    "coingecko_id": "orochi-network"
+  },
+  "orta-chain": {
+    "symbol": "ORTA",
+    "name": "Orta Chain",
+    "tier": "coingecko",
+    "coingecko_id": "orta-chain"
+  },
+  "osmosis": {
+    "symbol": "OSMO",
+    "name": "Osmosis",
+    "tier": "coingecko",
+    "coingecko_id": "osmosis"
+  },
+  "ousg": {
+    "symbol": "OUSG",
+    "name": "OUSG",
+    "tier": "coingecko",
+    "coingecko_id": "ousg"
+  },
+  "overnight-fi-usd-base": {
+    "symbol": "USD+",
+    "name": "Overnight.fi USD+ (Base)",
+    "tier": "coingecko",
+    "coingecko_id": "overnight-fi-usd-base"
+  },
+  "overnight-fi-usd-blast": {
+    "symbol": "USD",
+    "name": "overnight fi usd blast",
+    "tier": "coingecko",
+    "coingecko_id": "UNSUPPORTED:overnight-fi-usd-blast"
+  },
+  "overtake": {
+    "symbol": "TAKE",
+    "name": "OVERTAKE",
+    "tier": "coingecko",
+    "coingecko_id": "overtake"
+  },
+  "overtime": {
+    "symbol": "OVER",
+    "name": "Overtime",
+    "tier": "coingecko",
+    "coingecko_id": "overtime"
+  },
+  "ozone-chain": {
+    "symbol": "OZO",
+    "name": "Ozone Chain",
+    "tier": "coingecko",
+    "coingecko_id": "ozone-chain"
+  },
+  "palladium-network": {
+    "symbol": "PLLD",
+    "name": "Palladium Network",
+    "tier": "coingecko",
+    "coingecko_id": "palladium-network"
+  },
+  "palm-ai": {
+    "symbol": "PALM",
+    "name": "PaLM AI",
+    "tier": "coingecko",
+    "coingecko_id": "palm-ai"
+  },
+  "pancakeswap-token": {
+    "symbol": "CAKE",
+    "name": "PancakeSwap",
+    "tier": "coingecko",
+    "coingecko_id": "pancakeswap-token"
+  },
+  "pandacoin": {
+    "symbol": "PND",
+    "name": "Pandacoin",
+    "tier": "coingecko",
+    "coingecko_id": "pandacoin"
+  },
+  "parcl": {
+    "symbol": "PRCL",
+    "name": "Parcl",
+    "tier": "coingecko",
+    "coingecko_id": "parcl"
+  },
+  "pareto-usp": {
+    "symbol": "USP",
+    "name": "Pareto USP",
+    "tier": "coingecko",
+    "coingecko_id": "pareto-usp"
+  },
+  "parrot-usd": {
+    "symbol": "PAI",
+    "name": "Parrot USD",
+    "tier": "coingecko",
+    "coingecko_id": "parrot-usd"
+  },
+  "particl": {
+    "symbol": "PART",
+    "name": "Particl",
+    "tier": "coingecko",
+    "coingecko_id": "particl"
+  },
+  "particle-network": {
+    "symbol": "PARTI",
+    "name": "Particle Network",
+    "tier": "coingecko",
+    "coingecko_id": "particle-network"
+  },
+  "partisia-blockchain": {
+    "symbol": "MPC",
+    "name": "Partisia Blockchain",
+    "tier": "coingecko",
+    "coingecko_id": "partisia-blockchain"
+  },
+  "patrol-tao-com": {
+    "symbol": "SN81",
+    "name": "grail",
+    "tier": "coingecko",
+    "coingecko_id": "patrol-tao-com"
+  },
+  "pax-gold": {
+    "symbol": "PAXG",
+    "name": "PAX Gold",
+    "tier": "coingecko",
+    "coingecko_id": "pax-gold"
+  },
+  "pay-coin": {
+    "symbol": "PCI",
+    "name": "Paycoin",
+    "tier": "coingecko",
+    "coingecko_id": "pay-coin"
+  },
+  "paypal-usd": {
+    "symbol": "PYUSD",
+    "name": "PayPal USD",
+    "tier": "coingecko",
+    "coingecko_id": "paypal-usd"
+  },
+  "peapods-finance": {
+    "symbol": "PEAS",
+    "name": "Peapods Finance",
+    "tier": "coingecko",
+    "coingecko_id": "peapods-finance"
+  },
+  "peaq-2": {
+    "symbol": "PEAQ",
+    "name": "peaq",
+    "tier": "coingecko",
+    "coingecko_id": "peaq-2"
+  },
+  "peipeicoin-vip": {
+    "symbol": "PEIPEI",
+    "name": "PeiPei",
+    "tier": "coingecko",
+    "coingecko_id": "peipeicoin-vip"
+  },
+  "pendle": {
+    "symbol": "PENDLE",
+    "name": "Pendle",
+    "tier": "coingecko",
+    "coingecko_id": "pendle"
+  },
+  "penpie": {
+    "symbol": "PNP",
+    "name": "Penpie",
+    "tier": "coingecko",
+    "coingecko_id": "penpie"
+  },
+  "pentagon-chain": {
+    "symbol": "PC",
+    "name": "Pentagon Chain",
+    "tier": "coingecko",
+    "coingecko_id": "pentagon-chain"
+  },
+  "pepecoin-2": {
+    "symbol": "PEPECOIN",
+    "name": "PepeCoin",
+    "tier": "coingecko",
+    "coingecko_id": "pepecoin-2"
+  },
+  "pepecoin-network": {
+    "symbol": "PEP",
+    "name": "Pepecoin",
+    "tier": "coingecko",
+    "coingecko_id": "pepecoin-network"
+  },
+  "pepenguin": {
+    "symbol": "PENGUIN",
+    "name": "PePenguin",
+    "tier": "coingecko",
+    "coingecko_id": "pepenguin"
+  },
+  "pepper": {
+    "symbol": "PEPPER",
+    "name": "PEPPER",
+    "tier": "coingecko",
+    "coingecko_id": "pepper"
+  },
+  "pfizer-ondo-tokenized-stock": {
+    "symbol": "PFEON",
+    "name": "Pfizer (Ondo Tokenized Stock)",
+    "tier": "coingecko",
+    "coingecko_id": "pfizer-ondo-tokenized-stock"
+  },
+  "pha": {
+    "symbol": "PHA",
+    "name": "PHALA",
+    "tier": "coingecko",
+    "coingecko_id": "pha"
+  },
+  "phnix": {
+    "symbol": "PHNIX",
+    "name": "PHNIX",
+    "tier": "coingecko",
+    "coingecko_id": "phnix"
+  },
+  "phoenic-token": {
+    "symbol": "PNIC",
+    "name": "Phoenic Token",
+    "tier": "coingecko",
+    "coingecko_id": "phoenic-token"
+  },
+  "pht-stablecoin": {
+    "symbol": "PHT",
+    "name": "PHT Stablecoin",
+    "tier": "coingecko",
+    "coingecko_id": "pht-stablecoin"
+  },
+  "pi-network": {
+    "symbol": "PI",
+    "name": "Pi Network",
+    "tier": "coingecko",
+    "coingecko_id": "pi-network"
+  },
+  "pieverse": {
+    "symbol": "PIEVERSE",
+    "name": "Pieverse",
+    "tier": "coingecko",
+    "coingecko_id": "pieverse"
+  },
+  "pika-protocol": {
+    "symbol": "PIKA",
+    "name": "Pika Protocol",
+    "tier": "coingecko",
+    "coingecko_id": "pika-protocol"
+  },
+  "pikaboss": {
+    "symbol": "PIKA",
+    "name": "Pikaboss",
+    "tier": "coingecko",
+    "coingecko_id": "pikaboss"
+  },
+  "pingo": {
+    "symbol": "PINGO",
+    "name": "PinGo",
+    "tier": "coingecko",
+    "coingecko_id": "pingo"
+  },
+  "pinksale": {
+    "symbol": "PINKSALE",
+    "name": "PinkSale",
+    "tier": "coingecko",
+    "coingecko_id": "pinksale"
+  },
+  "pinlink": {
+    "symbol": "PIN",
+    "name": "PinLink",
+    "tier": "coingecko",
+    "coingecko_id": "pinlink"
+  },
+  "pippin": {
+    "symbol": "PIPPIN",
+    "name": "pippin",
+    "tier": "coingecko",
+    "coingecko_id": "pippin"
+  },
+  "pitbull": {
+    "symbol": "PIT",
+    "name": "Pitbull",
+    "tier": "coingecko",
+    "coingecko_id": "pitbull"
+  },
+  "pixels": {
+    "symbol": "PIXEL",
+    "name": "Pixels",
+    "tier": "coingecko",
+    "coingecko_id": "pixels"
+  },
+  "planet-ix": {
+    "symbol": "AIX",
+    "name": "Planet IX",
+    "tier": "coingecko",
+    "coingecko_id": "planet-ix"
+  },
+  "plasma": {
+    "symbol": "XPL",
+    "name": "Plasma",
+    "tier": "coingecko",
+    "coingecko_id": "plasma"
+  },
+  "play-3": {
+    "symbol": "PLAY",
+    "name": "Play",
+    "tier": "coingecko",
+    "coingecko_id": "play-3"
+  },
+  "pleasing-gold": {
+    "symbol": "PGOLD",
+    "name": "Pleasing Gold",
+    "tier": "coingecko",
+    "coingecko_id": "pleasing-gold"
+  },
+  "pleasing-usd": {
+    "symbol": "PUSD",
+    "name": "Pleasing USD",
+    "tier": "coingecko",
+    "coingecko_id": "pleasing-usd"
+  },
+  "pnut": {
+    "symbol": "PNUT",
+    "name": "Pnut",
+    "tier": "coingecko",
+    "coingecko_id": "pnut"
+  },
+  "polytrade": {
+    "symbol": "TRADE",
+    "name": "Polytrade",
+    "tier": "coingecko",
+    "coingecko_id": "polytrade"
+  },
+  "pond-coin": {
+    "symbol": "PNDC",
+    "name": "PondCoin",
+    "tier": "coingecko",
+    "coingecko_id": "pond-coin"
+  },
+  "poollotto-finance": {
+    "symbol": "PLT",
+    "name": "Poollotto.finance",
+    "tier": "coingecko",
+    "coingecko_id": "poollotto-finance"
+  },
+  "popcat": {
+    "symbol": "POPCAT",
+    "name": "Popcat",
+    "tier": "coingecko",
+    "coingecko_id": "popcat"
+  },
+  "portal-2": {
+    "symbol": "PORTAL",
+    "name": "Portal",
+    "tier": "coingecko",
+    "coingecko_id": "portal-2"
+  },
+  "portal-to-bitcoin": {
+    "symbol": "PTB",
+    "name": "Portal to Bitcoin",
+    "tier": "coingecko",
+    "coingecko_id": "portal-to-bitcoin"
+  },
+  "portugal-national-team-fan-token": {
+    "symbol": "POR",
+    "name": "Portugal National Team Fan Token",
+    "tier": "coingecko",
+    "coingecko_id": "portugal-national-team-fan-token"
+  },
+  "power-protocol": {
+    "symbol": "POWER",
+    "name": "Power Protocol",
+    "tier": "coingecko",
+    "coingecko_id": "power-protocol"
+  },
+  "predictions": {
+    "symbol": "PRDT",
+    "name": "Predictions",
+    "tier": "coingecko",
+    "coingecko_id": "predictions"
+  },
+  "presearch": {
+    "symbol": "PRE",
+    "name": "Presearch",
+    "tier": "coingecko",
+    "coingecko_id": "presearch"
+  },
+  "private-aviation-finance-token": {
+    "symbol": "CINO",
+    "name": "Private Aviation Finance Token",
+    "tier": "coingecko",
+    "coingecko_id": "private-aviation-finance-token"
+  },
+  "project-galaxy": {
+    "symbol": "GAL",
+    "name": "GAL (migrated to Gravity - G)",
+    "tier": "coingecko",
+    "coingecko_id": "project-galaxy"
+  },
+  "prometeus": {
+    "symbol": "PROM",
+    "name": "Prom",
+    "tier": "coingecko",
+    "coingecko_id": "prometeus"
+  },
+  "propchain": {
+    "symbol": "PROPC",
+    "name": "Propchain",
+    "tier": "coingecko",
+    "coingecko_id": "propchain"
+  },
+  "proprietary-trading-network": {
+    "symbol": "SN8",
+    "name": "Proprietary Trading Network",
+    "tier": "coingecko",
+    "coingecko_id": "proprietary-trading-network"
+  },
+  "proton": {
+    "symbol": "XPR",
+    "name": "XPR Network",
+    "tier": "coingecko",
+    "coingecko_id": "proton"
+  },
+  "proton-loan": {
+    "symbol": "LOAN",
+    "name": "Loan Protocol",
+    "tier": "coingecko",
+    "coingecko_id": "proton-loan"
+  },
+  "psyopanime": {
+    "symbol": "PSYOPANIME",
+    "name": "PsyopAnime",
+    "tier": "coingecko",
+    "coingecko_id": "psyopanime"
+  },
+  "public-meme-token": {
+    "symbol": "PMT",
+    "name": "Public Masterpiece Token",
+    "tier": "coingecko",
+    "coingecko_id": "public-meme-token"
+  },
+  "publicai": {
+    "symbol": "PUBLIC",
+    "name": "PublicAI",
+    "tier": "coingecko",
+    "coingecko_id": "publicai"
+  },
+  "pudgy-penguins": {
+    "symbol": "PENGU",
+    "name": "Pudgy Penguins",
+    "tier": "coingecko",
+    "coingecko_id": "pudgy-penguins"
+  },
+  "puff-the-dragon": {
+    "symbol": "PUFF",
+    "name": "Puff The Dragon",
+    "tier": "coingecko",
+    "coingecko_id": "puff-the-dragon"
+  },
+  "puffer-finance": {
+    "symbol": "PUFFER",
+    "name": "Puffer",
+    "tier": "coingecko",
+    "coingecko_id": "puffer-finance"
+  },
+  "pump-fun": {
+    "symbol": "PUMP",
+    "name": "Pump.fun",
+    "tier": "coingecko",
+    "coingecko_id": "pump-fun"
+  },
+  "pundi-aifx": {
+    "symbol": "PUNDIAI",
+    "name": "Pundi AI",
+    "tier": "coingecko",
+    "coingecko_id": "pundi-aifx"
+  },
+  "pundi-x-2": {
+    "symbol": "PUNDIX",
+    "name": "Pundi X",
+    "tier": "coingecko",
+    "coingecko_id": "pundi-x-2"
+  },
+  "pup-token": {
+    "symbol": "PUP",
+    "name": "PUP Token",
+    "tier": "coingecko",
+    "coingecko_id": "pup-token"
+  },
+  "purple-pepe": {
+    "symbol": "PURPE",
+    "name": "PURPLE PEPE",
+    "tier": "coingecko",
+    "coingecko_id": "purple-pepe"
+  },
+  "puss": {
+    "symbol": "PUSS",
+    "name": "Puss",
+    "tier": "coingecko",
+    "coingecko_id": "puss"
+  },
+  "qanplatform": {
+    "symbol": "QANX",
+    "name": "QANplatform",
+    "tier": "coingecko",
+    "coingecko_id": "qanplatform"
+  },
+  "qie": {
+    "symbol": "QIE",
+    "name": "QIE Blockchain",
+    "tier": "coingecko",
+    "coingecko_id": "qie"
+  },
+  "qtum": {
+    "symbol": "QTUM",
+    "name": "Qtum",
+    "tier": "coingecko",
+    "coingecko_id": "qtum"
+  },
+  "quack-ai": {
+    "symbol": "Q",
+    "name": "Quack AI",
+    "tier": "coingecko",
+    "coingecko_id": "quack-ai"
+  },
+  "quant-network": {
+    "symbol": "QNT",
+    "name": "Quant",
+    "tier": "coingecko",
+    "coingecko_id": "quant-network"
+  },
+  "quantixai": {
+    "symbol": "QFI",
+    "name": "Quantix Finance",
+    "tier": "coingecko",
+    "coingecko_id": "quantixai"
+  },
+  "quantoz-usdq": {
+    "symbol": "USDQ",
+    "name": "Quantoz USDQ",
+    "tier": "coingecko",
+    "coingecko_id": "quantoz-usdq"
+  },
+  "quantum-resistant-ledger": {
+    "symbol": "QRL",
+    "name": "Quantum Resistant Ledger",
+    "tier": "coingecko",
+    "coingecko_id": "quantum-resistant-ledger"
+  },
+  "quark-chain": {
+    "symbol": "QKC",
+    "name": "QuarkChain",
+    "tier": "coingecko",
+    "coingecko_id": "quark-chain"
+  },
+  "qubetics": {
+    "symbol": "TICS",
+    "name": "Qubetics",
+    "tier": "coingecko",
+    "coingecko_id": "qubetics"
+  },
+  "qubic-network": {
+    "symbol": "QUBIC",
+    "name": "Qubic",
+    "tier": "coingecko",
+    "coingecko_id": "qubic-network"
+  },
+  "quick": {
+    "symbol": "QUICK",
+    "name": "Quickswap [OLD]",
+    "tier": "coingecko",
+    "coingecko_id": "quick"
+  },
+  "quickswap": {
+    "symbol": "QUICK",
+    "name": "Quickswap",
+    "tier": "coingecko",
+    "coingecko_id": "quickswap"
+  },
+  "qup-coin": {
+    "symbol": "QUP",
+    "name": "QUP Coin",
+    "tier": "coingecko",
+    "coingecko_id": "qup-coin"
+  },
+  "qustream": {
+    "symbol": "QST",
+    "name": "QuStream",
+    "tier": "coingecko",
+    "coingecko_id": "qustream"
+  },
+  "r0ar-token": {
+    "symbol": "1R0R",
+    "name": "R0AR Token",
+    "tier": "coingecko",
+    "coingecko_id": "r0ar-token"
+  },
+  "radiant-capital": {
+    "symbol": "RDNT",
+    "name": "Radiant Capital",
+    "tier": "coingecko",
+    "coingecko_id": "radiant-capital"
+  },
+  "radicle": {
+    "symbol": "RAD",
+    "name": "Radworks",
+    "tier": "coingecko",
+    "coingecko_id": "radicle"
+  },
+  "radio-caca": {
+    "symbol": "RACA",
+    "name": "Radio Caca",
+    "tier": "coingecko",
+    "coingecko_id": "radio-caca"
+  },
+  "radix": {
+    "symbol": "XRD",
+    "name": "Radix",
+    "tier": "coingecko",
+    "coingecko_id": "radix"
+  },
+  "railgun": {
+    "symbol": "RAIL",
+    "name": "Railgun",
+    "tier": "coingecko",
+    "coingecko_id": "railgun"
+  },
+  "rain": {
+    "symbol": "RAIN",
+    "name": "Rain",
+    "tier": "coingecko",
+    "coingecko_id": "rain"
+  },
+  "rainmaker": {
+    "symbol": "RAIN",
+    "name": "Rainmaker",
+    "tier": "coingecko",
+    "coingecko_id": "rainmaker"
+  },
+  "ramp": {
+    "symbol": "RAMP",
+    "name": "RAMP [OLD]",
+    "tier": "coingecko",
+    "coingecko_id": "ramp"
+  },
+  "ranger": {
+    "symbol": "RNGR",
+    "name": "Ranger",
+    "tier": "coingecko",
+    "coingecko_id": "ranger"
+  },
+  "rarible": {
+    "symbol": "RARI",
+    "name": "RARI",
+    "tier": "coingecko",
+    "coingecko_id": "rarible"
+  },
+  "ravedao": {
+    "symbol": "RAVE",
+    "name": "RaveDAO",
+    "tier": "coingecko",
+    "coingecko_id": "ravedao"
+  },
+  "ravencoin": {
+    "symbol": "RVN",
+    "name": "Ravencoin",
+    "tier": "coingecko",
+    "coingecko_id": "ravencoin"
+  },
+  "raydium": {
+    "symbol": "RAY",
+    "name": "Raydium",
+    "tier": "coingecko",
+    "coingecko_id": "raydium"
+  },
+  "rayls": {
+    "symbol": "RLS",
+    "name": "Rayls",
+    "tier": "coingecko",
+    "coingecko_id": "rayls"
+  },
+  "rch-token": {
+    "symbol": "RCH",
+    "name": "RCH Token",
+    "tier": "coingecko",
+    "coingecko_id": "rch-token"
+  },
+  "re-protocol-reusd": {
+    "symbol": "REUSD",
+    "name": "Re Protocol reUSD",
+    "tier": "coingecko",
+    "coingecko_id": "re-protocol-reusd"
+  },
+  "re-protocol-reusde": {
+    "symbol": "REUSDE",
+    "name": "Re Protocol reUSDe",
+    "tier": "coingecko",
+    "coingecko_id": "re-protocol-reusde"
+  },
+  "real-4": {
+    "symbol": "REAL",
+    "name": "Real",
+    "tier": "coingecko",
+    "coingecko_id": "real-4"
+  },
+  "real-time-data-by-masa": {
+    "symbol": "SN42",
+    "name": "Real-Time Data by Masa",
+    "tier": "coingecko",
+    "coingecko_id": "real-time-data-by-masa"
+  },
+  "realio-network": {
+    "symbol": "RIO",
+    "name": "Realio Network Token",
+    "tier": "coingecko",
+    "coingecko_id": "realio-network"
+  },
+  "reallink": {
+    "symbol": "REAL",
+    "name": "RealLink",
+    "tier": "coingecko",
+    "coingecko_id": "reallink"
+  },
+  "red-pulse": {
+    "symbol": "PHB",
+    "name": "Phoenix Global [OLD]",
+    "tier": "coingecko",
+    "coingecko_id": "red-pulse"
+  },
+  "redbrick": {
+    "symbol": "BRIC",
+    "name": "Redbrick",
+    "tier": "coingecko",
+    "coingecko_id": "redbrick"
+  },
+  "reef": {
+    "symbol": "REEF",
+    "name": "Reef",
+    "tier": "coingecko",
+    "coingecko_id": "reef"
+  },
+  "reental": {
+    "symbol": "RNT",
+    "name": "Reental",
+    "tier": "coingecko",
+    "coingecko_id": "reental"
+  },
+  "ref-finance": {
+    "symbol": "REF",
+    "name": "Ref Finance",
+    "tier": "coingecko",
+    "coingecko_id": "ref-finance"
+  },
+  "rekt-4": {
+    "symbol": "REKT",
+    "name": "Rekt",
+    "tier": "coingecko",
+    "coingecko_id": "rekt-4"
+  },
+  "renzo": {
+    "symbol": "REZ",
+    "name": "Renzo",
+    "tier": "coingecko",
+    "coingecko_id": "renzo"
+  },
+  "reppo": {
+    "symbol": "REPPO",
+    "name": "REPPO",
+    "tier": "coingecko",
+    "coingecko_id": "reppo"
+  },
+  "republic-protocol": {
+    "symbol": "REN",
+    "name": "Ren",
+    "tier": "coingecko",
+    "coingecko_id": "republic-protocol"
+  },
+  "reserve-rights-token": {
+    "symbol": "RSR",
+    "name": "Reserve Rights",
+    "tier": "coingecko",
+    "coingecko_id": "reserve-rights-token"
+  },
+  "reservoir-srusd": {
+    "symbol": "SRUSD",
+    "name": "Reservoir srUSD",
+    "tier": "coingecko",
+    "coingecko_id": "reservoir-srusd"
+  },
+  "resistance-dog": {
+    "symbol": "REDO",
+    "name": "Resistance Dog",
+    "tier": "coingecko",
+    "coingecko_id": "resistance-dog"
+  },
+  "resolv": {
+    "symbol": "RESOLV",
+    "name": "Resolv",
+    "tier": "coingecko",
+    "coingecko_id": "resolv"
+  },
+  "resolv-rlp": {
+    "symbol": "RLP",
+    "name": "Resolv Liquidity Provider Token",
+    "tier": "coingecko",
+    "coingecko_id": "resolv-rlp"
+  },
+  "resolv-usr": {
+    "symbol": "USR",
+    "name": "Resolv USR",
+    "tier": "coingecko",
+    "coingecko_id": "resolv-usr"
+  },
+  "resupply": {
+    "symbol": "RSUP",
+    "name": "Resupply",
+    "tier": "coingecko",
+    "coingecko_id": "resupply"
+  },
+  "ribbita-by-virtuals": {
+    "symbol": "TIBBIR",
+    "name": "Ribbita by Virtuals",
+    "tier": "coingecko",
+    "coingecko_id": "ribbita-by-virtuals"
+  },
+  "ridges-ai": {
+    "symbol": "SN62",
+    "name": "Ridges AI",
+    "tier": "coingecko",
+    "coingecko_id": "ridges-ai"
+  },
+  "ring-usd": {
+    "symbol": "USDR",
+    "name": "Ring USD",
+    "tier": "coingecko",
+    "coingecko_id": "ring-usd"
+  },
+  "ripple-usd": {
+    "symbol": "RLUSD",
+    "name": "Ripple USD",
+    "tier": "coingecko",
+    "coingecko_id": "ripple-usd"
+  },
+  "river": {
+    "symbol": "RIVER",
+    "name": "River",
+    "tier": "coingecko",
+    "coingecko_id": "river"
+  },
+  "roaland-core": {
+    "symbol": "ROA",
+    "name": "ROACORE",
+    "tier": "coingecko",
+    "coingecko_id": "roaland-core"
+  },
+  "robinhood-xstock": {
+    "symbol": "HOODX",
+    "name": "Robinhood xStock",
+    "tier": "coingecko",
+    "coingecko_id": "robinhood-xstock"
+  },
+  "robo-token-2": {
+    "symbol": "ROBO",
+    "name": "Fabric Protocol",
+    "tier": "coingecko",
+    "coingecko_id": "robo-token-2"
+  },
+  "robostack": {
+    "symbol": "ROBOT",
+    "name": "RoboStack",
+    "tier": "coingecko",
+    "coingecko_id": "robostack"
+  },
+  "rollbit-coin": {
+    "symbol": "RLB",
+    "name": "Rollbit Coin",
+    "tier": "coingecko",
+    "coingecko_id": "rollbit-coin"
+  },
+  "ronin": {
+    "symbol": "RON",
+    "name": "Ronin",
+    "tier": "coingecko",
+    "coingecko_id": "ronin"
+  },
+  "rss3": {
+    "symbol": "RSS3",
+    "name": "RSS3",
+    "tier": "coingecko",
+    "coingecko_id": "rss3"
+  },
+  "saakuru-labs": {
+    "symbol": "SKR",
+    "name": "Saakuru",
+    "tier": "coingecko",
+    "coingecko_id": "saakuru-labs"
+  },
+  "safe": {
+    "symbol": "SAFE",
+    "name": "Safe",
+    "tier": "coingecko",
+    "coingecko_id": "safe"
+  },
+  "safe-coin-2": {
+    "symbol": "SAFE",
+    "name": "SafeCoin",
+    "tier": "coingecko",
+    "coingecko_id": "safe-coin-2"
+  },
+  "safepal": {
+    "symbol": "SFP",
+    "name": "SafePal",
+    "tier": "coingecko",
+    "coingecko_id": "safepal"
+  },
+  "saffron-finance": {
+    "symbol": "SFI",
+    "name": "saffron.finance",
+    "tier": "coingecko",
+    "coingecko_id": "saffron-finance"
+  },
+  "saga-2": {
+    "symbol": "SAGA",
+    "name": "Saga",
+    "tier": "coingecko",
+    "coingecko_id": "saga-2"
+  },
+  "sahara-ai": {
+    "symbol": "SAHARA",
+    "name": "Sahara AI",
+    "tier": "coingecko",
+    "coingecko_id": "sahara-ai"
+  },
+  "sai": {
+    "symbol": "SAI",
+    "name": "Sai",
+    "tier": "coingecko",
+    "coingecko_id": "sai"
+  },
+  "sanctum-2": {
+    "symbol": "CLOUD",
+    "name": "Cloud",
+    "tier": "coingecko",
+    "coingecko_id": "sanctum-2"
+  },
+  "santos-fc-fan-token": {
+    "symbol": "SANTOS",
+    "name": "Santos FC Fan Token",
+    "tier": "coingecko",
+    "coingecko_id": "santos-fc-fan-token"
+  },
+  "sapien-2": {
+    "symbol": "SAPIEN",
+    "name": "Sapien",
+    "tier": "coingecko",
+    "coingecko_id": "sapien-2"
+  },
+  "saros-finance": {
+    "symbol": "SAROS",
+    "name": "Saros",
+    "tier": "coingecko",
+    "coingecko_id": "saros-finance"
+  },
+  "satoshi-stablecoin": {
+    "symbol": "SATUSD",
+    "name": "Satoshi Stablecoin",
+    "tier": "coingecko",
+    "coingecko_id": "satoshi-stablecoin"
+  },
+  "sats-ordinals": {
+    "symbol": "SATS",
+    "name": "SATS (Ordinals)",
+    "tier": "coingecko",
+    "coingecko_id": "sats-ordinals"
+  },
+  "saucerswap": {
+    "symbol": "SAUCE",
+    "name": "SaucerSwap",
+    "tier": "coingecko",
+    "coingecko_id": "saucerswap"
+  },
+  "save": {
+    "symbol": "SAVE",
+    "name": "Save",
+    "tier": "coingecko",
+    "coingecko_id": "save"
+  },
+  "scallop-2": {
+    "symbol": "SCA",
+    "name": "Scallop",
+    "tier": "coingecko",
+    "coingecko_id": "scallop-2"
+  },
+  "schuman-europ": {
+    "symbol": "EUROP",
+    "name": "EURØP",
+    "tier": "coingecko",
+    "coingecko_id": "schuman-europ"
+  },
+  "scor": {
+    "symbol": "SCOR",
+    "name": "Scor",
+    "tier": "coingecko",
+    "coingecko_id": "scor"
+  },
+  "secret": {
+    "symbol": "SCRT",
+    "name": "Secret",
+    "tier": "coingecko",
+    "coingecko_id": "secret"
+  },
+  "securitize-tokenized-aaa-clo-fund": {
+    "symbol": "STAC",
+    "name": "Securitize Tokenized AAA CLO Fund",
+    "tier": "coingecko",
+    "coingecko_id": "securitize-tokenized-aaa-clo-fund"
+  },
+  "seedify-fund": {
+    "symbol": "SFUND",
+    "name": "Seedify.fund",
+    "tier": "coingecko",
+    "coingecko_id": "seedify-fund"
+  },
+  "seeker": {
+    "symbol": "SKR",
+    "name": "Seeker",
+    "tier": "coingecko",
+    "coingecko_id": "seeker"
+  },
+  "send-token-2": {
+    "symbol": "SEND",
+    "name": "Send",
+    "tier": "coingecko",
+    "coingecko_id": "send-token-2"
+  },
+  "sentient": {
+    "symbol": "SENT",
+    "name": "Sentient",
+    "tier": "coingecko",
+    "coingecko_id": "sentient"
+  },
+  "sentismai": {
+    "symbol": "SENTIS",
+    "name": "SentismAI",
+    "tier": "coingecko",
+    "coingecko_id": "sentismai"
+  },
+  "serum": {
+    "symbol": "SRM",
+    "name": "Serum",
+    "tier": "coingecko",
+    "coingecko_id": "serum"
+  },
+  "seth": {
+    "symbol": "SETH",
+    "name": "sETH",
+    "tier": "coingecko",
+    "coingecko_id": "seth"
+  },
+  "shapeshift-fox-token": {
+    "symbol": "FOX",
+    "name": "ShapeShift FOX",
+    "tier": "coingecko",
+    "coingecko_id": "shapeshift-fox-token"
+  },
+  "sharp-token": {
+    "symbol": "SHARP",
+    "name": "Sharp Token",
+    "tier": "coingecko",
+    "coingecko_id": "sharp-token"
+  },
+  "shiba-on-base": {
+    "symbol": "SHIB",
+    "name": "SHIBA ON BASE",
+    "tier": "coingecko",
+    "coingecko_id": "shiba-on-base"
+  },
+  "shido-2": {
+    "symbol": "SHIDO",
+    "name": "Shido Network",
+    "tier": "coingecko",
+    "coingecko_id": "shido-2"
+  },
+  "shmonad": {
+    "symbol": "SHMON",
+    "name": "ShMonad",
+    "tier": "coingecko",
+    "coingecko_id": "shmonad"
+  },
+  "shuffle-2": {
+    "symbol": "SHFL",
+    "name": "Shuffle",
+    "tier": "coingecko",
+    "coingecko_id": "shuffle-2"
+  },
+  "siacoin": {
+    "symbol": "SC",
+    "name": "Siacoin",
+    "tier": "coingecko",
+    "coingecko_id": "siacoin"
+  },
+  "sigmadotmoney": {
+    "symbol": "SIGMA",
+    "name": "SigmaDotMoney",
+    "tier": "coingecko",
+    "coingecko_id": "sigmadotmoney"
+  },
+  "sign-global": {
+    "symbol": "SIGN",
+    "name": "Sign",
+    "tier": "coingecko",
+    "coingecko_id": "sign-global"
+  },
+  "simon-s-cat": {
+    "symbol": "CAT",
+    "name": "Simon's Cat",
+    "tier": "coingecko",
+    "coingecko_id": "simon-s-cat"
+  },
+  "siren-2": {
+    "symbol": "SIREN",
+    "name": "Siren",
+    "tier": "coingecko",
+    "coingecko_id": "siren-2"
+  },
+  "skor-ai": {
+    "symbol": "SKORAI",
+    "name": "skor ai",
+    "tier": "coingecko",
+    "coingecko_id": "UNSUPPORTED:skor-ai"
+  },
+  "sky": {
+    "symbol": "SKY",
+    "name": "Sky",
+    "tier": "coingecko",
+    "coingecko_id": "sky"
+  },
+  "skyai": {
+    "symbol": "SKYAI",
+    "name": "SkyAI",
+    "tier": "coingecko",
+    "coingecko_id": "skyai"
+  },
+  "smardex": {
+    "symbol": "SDEX",
+    "name": "SMARDEX",
+    "tier": "coingecko",
+    "coingecko_id": "smardex"
+  },
+  "smooth-love-potion": {
+    "symbol": "SLP",
+    "name": "Smooth Love Potion",
+    "tier": "coingecko",
+    "coingecko_id": "smooth-love-potion"
+  },
+  "societe-generale-forge-eurcv": {
+    "symbol": "EURCV",
+    "name": "EUR CoinVertible",
+    "tier": "coingecko",
+    "coingecko_id": "societe-generale-forge-eurcv"
+  },
+  "sogni-ai": {
+    "symbol": "SOGNI",
+    "name": "Sogni AI",
+    "tier": "coingecko",
+    "coingecko_id": "sogni-ai"
+  },
+  "solana-name-service": {
+    "symbol": "SNS",
+    "name": "Solana Name Service",
+    "tier": "coingecko",
+    "coingecko_id": "solana-name-service"
+  },
+  "solarcoin": {
+    "symbol": "SLR",
+    "name": "Solarcoin",
+    "tier": "coingecko",
+    "coingecko_id": "solarcoin"
+  },
+  "solaxy": {
+    "symbol": "SOLX",
+    "name": "Solaxy",
+    "tier": "coingecko",
+    "coingecko_id": "solaxy"
+  },
+  "solcasino-token": {
+    "symbol": "SCS",
+    "name": "Solcasino Token",
+    "tier": "coingecko",
+    "coingecko_id": "solcasino-token"
+  },
+  "solidus-aitech": {
+    "symbol": "AITECH",
+    "name": "Solidus Ai Tech",
+    "tier": "coingecko",
+    "coingecko_id": "solidus-aitech"
+  },
+  "solomon": {
+    "symbol": "SOLO",
+    "name": "Solomon",
+    "tier": "coingecko",
+    "coingecko_id": "solomon"
+  },
+  "solomon-usdv": {
+    "symbol": "USDV",
+    "name": "Solomon USDv",
+    "tier": "coingecko",
+    "coingecko_id": "solomon-usdv"
+  },
+  "solv-protocol": {
+    "symbol": "SOLV",
+    "name": "Solv Protocol",
+    "tier": "coingecko",
+    "coingecko_id": "solv-protocol"
+  },
+  "solv-protocol-solvbtc-jupiter": {
+    "symbol": "SOLVBTC.JUP",
+    "name": "Solv Protocol SolvBTC Jupiter",
+    "tier": "coingecko",
+    "coingecko_id": "solv-protocol-solvbtc-jupiter"
+  },
+  "somnia": {
+    "symbol": "SOMI",
+    "name": "Somnia",
+    "tier": "coingecko",
+    "coingecko_id": "somnia"
+  },
+  "songbird": {
+    "symbol": "SGB",
+    "name": "Songbird",
+    "tier": "coingecko",
+    "coingecko_id": "songbird"
+  },
+  "sonic-3": {
+    "symbol": "S",
+    "name": "Sonic",
+    "tier": "coingecko",
+    "coingecko_id": "sonic-3"
+  },
+  "soon-2": {
+    "symbol": "SOON",
+    "name": "SOON",
+    "tier": "coingecko",
+    "coingecko_id": "soon-2"
+  },
+  "sophon": {
+    "symbol": "SOPH",
+    "name": "Sophon",
+    "tier": "coingecko",
+    "coingecko_id": "sophon"
+  },
+  "sosovalue": {
+    "symbol": "SOSO",
+    "name": "SoSoValue",
+    "tier": "coingecko",
+    "coingecko_id": "sosovalue"
+  },
+  "sovryn-dollar": {
+    "symbol": "DLLR",
+    "name": "Sovryn Dollar",
+    "tier": "coingecko",
+    "coingecko_id": "sovryn-dollar"
+  },
+  "space-and-time": {
+    "symbol": "SXT",
+    "name": "Space and Time",
+    "tier": "coingecko",
+    "coingecko_id": "space-and-time"
+  },
+  "space-id": {
+    "symbol": "ID",
+    "name": "SPACE ID",
+    "tier": "coingecko",
+    "coingecko_id": "space-id"
+  },
+  "spacechain-erc-20": {
+    "symbol": "SPC",
+    "name": "SpaceChain (ERC-20)",
+    "tier": "coingecko",
+    "coingecko_id": "spacechain-erc-20"
+  },
+  "spacex-prestocks-2": {
+    "symbol": "SPACEX",
+    "name": "SpaceX PreStocks",
+    "tier": "coingecko",
+    "coingecko_id": "spacex-prestocks-2"
+  },
+  "spdr-s-p-500-etf-ondo-tokenized-etf": {
+    "symbol": "SPYON",
+    "name": "SPDR S&P 500 ETF (Ondo Tokenized ETF)",
+    "tier": "coingecko",
+    "coingecko_id": "spdr-s-p-500-etf-ondo-tokenized-etf"
+  },
+  "spectra-finance": {
+    "symbol": "SPECTRA",
+    "name": "Spectra",
+    "tier": "coingecko",
+    "coingecko_id": "spectra-finance"
+  },
+  "spectral": {
+    "symbol": "SPEC",
+    "name": "Spectral",
+    "tier": "coingecko",
+    "coingecko_id": "spectral"
+  },
+  "spectre-ai": {
+    "symbol": "SPECTRE",
+    "name": "Spectre AI",
+    "tier": "coingecko",
+    "coingecko_id": "spectre-ai"
+  },
+  "sperax": {
+    "symbol": "SPA",
+    "name": "Sperax",
+    "tier": "coingecko",
+    "coingecko_id": "sperax"
+  },
+  "spiko-us-t-bills-money-market-fund": {
+    "symbol": "USTBL",
+    "name": "Spiko US T-Bills Money Market Fund",
+    "tier": "coingecko",
+    "coingecko_id": "spiko-us-t-bills-money-market-fund"
+  },
+  "splendor": {
+    "symbol": "SPLD",
+    "name": "Splendor",
+    "tier": "coingecko",
+    "coingecko_id": "splendor"
+  },
+  "splinterlands": {
+    "symbol": "SPS",
+    "name": "Splintershards",
+    "tier": "coingecko",
+    "coingecko_id": "splinterlands"
+  },
+  "spx6900": {
+    "symbol": "SPX",
+    "name": "SPX6900",
+    "tier": "coingecko",
+    "coingecko_id": "spx6900"
+  },
+  "squidgrow-2": {
+    "symbol": "SQGROW",
+    "name": "SquidGrow",
+    "tier": "coingecko",
+    "coingecko_id": "squidgrow-2"
+  },
+  "stable-2": {
+    "symbol": "STABLE",
+    "name": "​​Stable",
+    "tier": "coingecko",
+    "coingecko_id": "stable-2"
+  },
+  "stable-coin-2": {
+    "symbol": "SBC",
+    "name": "Stable Coin",
+    "tier": "coingecko",
+    "coingecko_id": "stable-coin-2"
+  },
+  "stake-dao": {
+    "symbol": "SDT",
+    "name": "Stake DAO",
+    "tier": "coingecko",
+    "coingecko_id": "stake-dao"
+  },
+  "stake-link": {
+    "symbol": "SDL",
+    "name": "stake.link",
+    "tier": "coingecko",
+    "coingecko_id": "stake-link"
+  },
+  "stakestone": {
+    "symbol": "STO",
+    "name": "StakeStone",
+    "tier": "coingecko",
+    "coingecko_id": "stakestone"
+  },
+  "stakewise": {
+    "symbol": "SWISE",
+    "name": "StakeWise",
+    "tier": "coingecko",
+    "coingecko_id": "stakewise"
+  },
+  "standx-dusd": {
+    "symbol": "DUSD",
+    "name": "StandX DUSD",
+    "tier": "coingecko",
+    "coingecko_id": "standx-dusd"
+  },
+  "star-atlas": {
+    "symbol": "ATLAS",
+    "name": "Star Atlas",
+    "tier": "coingecko",
+    "coingecko_id": "star-atlas"
+  },
+  "stargate-finance": {
+    "symbol": "STG",
+    "name": "Stargate Finance",
+    "tier": "coingecko",
+    "coingecko_id": "stargate-finance"
+  },
+  "startale-usd": {
+    "symbol": "USDSC",
+    "name": "Startale USD",
+    "tier": "coingecko",
+    "coingecko_id": "startale-usd"
+  },
+  "stasis-eurs": {
+    "symbol": "EURS",
+    "name": "STASIS EURO",
+    "tier": "coingecko",
+    "coingecko_id": "stasis-eurs"
+  },
+  "status": {
+    "symbol": "SNT",
+    "name": "Status",
+    "tier": "coingecko",
+    "coingecko_id": "status"
+  },
+  "steam-exchange": {
+    "symbol": "WSTEAMX",
+    "name": "Wrapped STEAMX",
+    "tier": "coingecko",
+    "coingecko_id": "steam-exchange"
+  },
+  "steam22": {
+    "symbol": "STM",
+    "name": "Steam22",
+    "tier": "coingecko",
+    "coingecko_id": "steam22"
+  },
+  "steem": {
+    "symbol": "STEEM",
+    "name": "Steem",
+    "tier": "coingecko",
+    "coingecko_id": "steem"
+  },
+  "steem-dollars": {
+    "symbol": "SBD",
+    "name": "Steem Dollars",
+    "tier": "coingecko",
+    "coingecko_id": "steem-dollars"
+  },
+  "stepn": {
+    "symbol": "GMT",
+    "name": "GMT",
+    "tier": "coingecko",
+    "coingecko_id": "stepn"
+  },
+  "stonks-4": {
+    "symbol": "STNK",
+    "name": "Stonks",
+    "tier": "coingecko",
+    "coingecko_id": "stonks-4"
+  },
+  "storb": {
+    "symbol": "SN26",
+    "name": "Storb",
+    "tier": "coingecko",
+    "coingecko_id": "storb"
+  },
+  "storm": {
+    "symbol": "STMX",
+    "name": "StormX",
+    "tier": "coingecko",
+    "coingecko_id": "storm"
+  },
+  "story-2": {
+    "symbol": "IP",
+    "name": "Story",
+    "tier": "coingecko",
+    "coingecko_id": "story-2"
+  },
+  "stp-network": {
+    "symbol": "AWE",
+    "name": "AWE Network",
+    "tier": "coingecko",
+    "coingecko_id": "stp-network"
+  },
+  "stratis": {
+    "symbol": "STRAX",
+    "name": "Xertra",
+    "tier": "coingecko",
+    "coingecko_id": "stratis"
+  },
+  "strawberry-ai": {
+    "symbol": "BERRY",
+    "name": "Strawberry AI",
+    "tier": "coingecko",
+    "coingecko_id": "strawberry-ai"
+  },
+  "strike-2": {
+    "symbol": "STRIKE",
+    "name": "Strike",
+    "tier": "coingecko",
+    "coingecko_id": "strike-2"
+  },
+  "strikecoin": {
+    "symbol": "STRX",
+    "name": "StrikeX",
+    "tier": "coingecko",
+    "coingecko_id": "strikecoin"
+  },
+  "sturdy-subnet": {
+    "symbol": "SN10",
+    "name": "Sturdy",
+    "tier": "coingecko",
+    "coingecko_id": "sturdy-subnet"
+  },
+  "succinct": {
+    "symbol": "PROVE",
+    "name": "Succinct",
+    "tier": "coingecko",
+    "coingecko_id": "succinct"
+  },
+  "sudeng": {
+    "symbol": "HIPPO",
+    "name": "sudeng",
+    "tier": "coingecko",
+    "coingecko_id": "sudeng"
+  },
+  "suilend": {
+    "symbol": "SEND",
+    "name": "Suilend",
+    "tier": "coingecko",
+    "coingecko_id": "suilend"
+  },
+  "suins-token": {
+    "symbol": "NS",
+    "name": "SuiNS Token",
+    "tier": "coingecko",
+    "coingecko_id": "suins-token"
+  },
+  "suku": {
+    "symbol": "SUKU",
+    "name": "SUKU",
+    "tier": "coingecko",
+    "coingecko_id": "suku"
+  },
+  "sun-token": {
+    "symbol": "SUN",
+    "name": "Sun Token",
+    "tier": "coingecko",
+    "coingecko_id": "sun-token"
+  },
+  "sundog": {
+    "symbol": "SUNDOG",
+    "name": "Sundog",
+    "tier": "coingecko",
+    "coingecko_id": "sundog"
+  },
+  "superfarm": {
+    "symbol": "SUPER",
+    "name": "SuperVerse",
+    "tier": "coingecko",
+    "coingecko_id": "superfarm"
+  },
+  "superfortune": {
+    "symbol": "GUA",
+    "name": "Superfortune",
+    "tier": "coingecko",
+    "coingecko_id": "superfortune"
+  },
+  "superstate-short-duration-us-government-securities-fund-ustb": {
+    "symbol": "USTB",
+    "name": "Superstate Short Duration U.S. Government Securities Fund (USTB)",
+    "tier": "coingecko",
+    "coingecko_id": "superstate-short-duration-us-government-securities-fund-ustb"
+  },
+  "superwalk": {
+    "symbol": "GRND",
+    "name": "SuperWalk GRND",
+    "tier": "coingecko",
+    "coingecko_id": "superwalk"
+  },
+  "surge-4": {
+    "symbol": "SURGE",
+    "name": "Surge",
+    "tier": "coingecko",
+    "coingecko_id": "surge-4"
+  },
+  "swarm-bzz": {
+    "symbol": "BZZ",
+    "name": "Swarm",
+    "tier": "coingecko",
+    "coingecko_id": "swarm-bzz"
+  },
+  "swarm-markets": {
+    "symbol": "SMT",
+    "name": "Swarm Markets",
+    "tier": "coingecko",
+    "coingecko_id": "swarm-markets"
+  },
+  "swarm-network": {
+    "symbol": "TRUTH",
+    "name": "Swarm Network",
+    "tier": "coingecko",
+    "coingecko_id": "swarm-network"
+  },
+  "swarms": {
+    "symbol": "SWARMS",
+    "name": "Swarms",
+    "tier": "coingecko",
+    "coingecko_id": "swarms"
+  },
+  "sweatcoin": {
+    "symbol": "SWEAT",
+    "name": "SWEAT",
+    "tier": "coingecko",
+    "coingecko_id": "sweatcoin"
+  },
+  "swipe": {
+    "symbol": "SXP",
+    "name": "Solar",
+    "tier": "coingecko",
+    "coingecko_id": "swipe"
+  },
+  "swissborg": {
+    "symbol": "BORG",
+    "name": "SwissBorg",
+    "tier": "coingecko",
+    "coingecko_id": "swissborg"
+  },
+  "swisscheese": {
+    "symbol": "SWCH",
+    "name": "SwissCheese",
+    "tier": "coingecko",
+    "coingecko_id": "swisscheese"
+  },
+  "switch-token": {
+    "symbol": "SWITCH",
+    "name": "Switch Token",
+    "tier": "coingecko",
+    "coingecko_id": "switch-token"
+  },
+  "swop-2": {
+    "symbol": "SWOP",
+    "name": "Swop",
+    "tier": "coingecko",
+    "coingecko_id": "swop-2"
+  },
+  "synapse-2": {
+    "symbol": "SYN",
+    "name": "Synapse",
+    "tier": "coingecko",
+    "coingecko_id": "synapse-2"
+  },
+  "syndicate-3": {
+    "symbol": "SYND",
+    "name": "Syndicate",
+    "tier": "coingecko",
+    "coingecko_id": "syndicate-3"
+  },
+  "synfutures": {
+    "symbol": "F",
+    "name": "SynFutures",
+    "tier": "coingecko",
+    "coingecko_id": "synfutures"
+  },
+  "synth-2": {
+    "symbol": "SN50",
+    "name": "Synth",
+    "tier": "coingecko",
+    "coingecko_id": "synth-2"
+  },
+  "syrup": {
+    "symbol": "SYRUP",
+    "name": "Maple Finance",
+    "tier": "coingecko",
+    "coingecko_id": "syrup"
+  },
+  "syscoin": {
+    "symbol": "SYS",
+    "name": "Syscoin",
+    "tier": "coingecko",
+    "coingecko_id": "syscoin"
+  },
+  "tac": {
+    "symbol": "TAC",
+    "name": "TAC",
+    "tier": "coingecko",
+    "coingecko_id": "tac"
+  },
+  "taiko": {
+    "symbol": "TAIKO",
+    "name": "Taiko",
+    "tier": "coingecko",
+    "coingecko_id": "taiko"
+  },
+  "taiwan-semiconductor-manufacturing-ondo-tokenized-stock": {
+    "symbol": "TSMON",
+    "name": "Taiwan Semiconductor Manufacturing (Ondo Tokenized Stock)",
+    "tier": "coingecko",
+    "coingecko_id": "taiwan-semiconductor-manufacturing-ondo-tokenized-stock"
+  },
+  "talus": {
+    "symbol": "US",
+    "name": "Talus",
+    "tier": "coingecko",
+    "coingecko_id": "talus"
+  },
+  "targon": {
+    "symbol": "SN4",
+    "name": "Targon",
+    "tier": "coingecko",
+    "coingecko_id": "targon"
+  },
+  "tars-protocol": {
+    "symbol": "TAI",
+    "name": "TARS AI",
+    "tier": "coingecko",
+    "coingecko_id": "tars-protocol"
+  },
+  "tcom-global": {
+    "symbol": "TCOM",
+    "name": "TCOM Global",
+    "tier": "coingecko",
+    "coingecko_id": "tcom-global"
+  },
+  "tdccp": {
+    "symbol": "TDCCP",
+    "name": "TDCCP",
+    "tier": "coingecko",
+    "coingecko_id": "tdccp"
+  },
+  "teampl-token": {
+    "symbol": "TMPL",
+    "name": "TeamPL Token",
+    "tier": "coingecko",
+    "coingecko_id": "teampl-token"
+  },
+  "tectonic": {
+    "symbol": "TONIC",
+    "name": "Tectonic",
+    "tier": "coingecko",
+    "coingecko_id": "tectonic"
+  },
+  "telcoin": {
+    "symbol": "TEL",
+    "name": "Telcoin",
+    "tier": "coingecko",
+    "coingecko_id": "telcoin"
+  },
+  "telos": {
+    "symbol": "TLOS",
+    "name": "Telos",
+    "tier": "coingecko",
+    "coingecko_id": "telos"
+  },
+  "templar": {
+    "symbol": "SN3",
+    "name": "τemplar",
+    "tier": "coingecko",
+    "coingecko_id": "templar"
+  },
+  "temple": {
+    "symbol": "TEMPLE",
+    "name": "TempleDAO",
+    "tier": "coingecko",
+    "coingecko_id": "temple"
+  },
+  "tenset": {
+    "symbol": "10SET",
+    "name": "Tenset",
+    "tier": "coingecko",
+    "coingecko_id": "tenset"
+  },
+  "terra-luna": {
+    "symbol": "LUNC",
+    "name": "Terra Luna Classic",
+    "tier": "coingecko",
+    "coingecko_id": "terra-luna"
+  },
+  "terra-luna-2": {
+    "symbol": "LUNA",
+    "name": "Terra",
+    "tier": "coingecko",
+    "coingecko_id": "terra-luna-2"
+  },
+  "terrausd": {
+    "symbol": "USTC",
+    "name": "TerraClassicUSD",
+    "tier": "coingecko",
+    "coingecko_id": "terrausd"
+  },
+  "testicle": {
+    "symbol": "TESTICLE",
+    "name": "Testicle",
+    "tier": "coingecko",
+    "coingecko_id": "testicle"
+  },
+  "tether": {
+    "symbol": "USDT",
+    "name": "Tether",
+    "tier": "coingecko",
+    "coingecko_id": "tether"
+  },
+  "tether-gold": {
+    "symbol": "XAUT",
+    "name": "Tether Gold",
+    "tier": "coingecko",
+    "coingecko_id": "tether-gold"
+  },
+  "tezos": {
+    "symbol": "XTZ",
+    "name": "Tezos",
+    "tier": "coingecko",
+    "coingecko_id": "tezos"
+  },
+  "thales": {
+    "symbol": "THALES",
+    "name": "Thales",
+    "tier": "coingecko",
+    "coingecko_id": "thales"
+  },
+  "tharwa": {
+    "symbol": "TRWA",
+    "name": "Tharwa",
+    "tier": "coingecko",
+    "coingecko_id": "tharwa"
+  },
+  "the-doge-nft": {
+    "symbol": "DOG",
+    "name": "Own The Doge",
+    "tier": "coingecko",
+    "coingecko_id": "the-doge-nft"
+  },
+  "the-grays-currency": {
+    "symbol": "PTGC",
+    "name": "The Grays Currency",
+    "tier": "coingecko",
+    "coingecko_id": "the-grays-currency"
+  },
+  "the-official-67-coin": {
+    "symbol": "67",
+    "name": "The Official 67 Coin",
+    "tier": "coingecko",
+    "coingecko_id": "the-official-67-coin"
+  },
+  "the-white-whale": {
+    "symbol": "WHITEWHALE",
+    "name": "The White Whale",
+    "tier": "coingecko",
+    "coingecko_id": "the-white-whale"
+  },
+  "theo-short-duration-us-treasury-fund": {
+    "symbol": "THBILL",
+    "name": "Theo Short Duration US Treasury Fund",
+    "tier": "coingecko",
+    "coingecko_id": "theo-short-duration-us-treasury-fund"
+  },
+  "theta-fuel": {
+    "symbol": "TFUEL",
+    "name": "Theta Fuel",
+    "tier": "coingecko",
+    "coingecko_id": "theta-fuel"
+  },
+  "thetadrop": {
+    "symbol": "TDROP",
+    "name": "ThetaDrop",
+    "tier": "coingecko",
+    "coingecko_id": "thetadrop"
+  },
+  "thetanuts-finance": {
+    "symbol": "NUTS",
+    "name": "Thetanuts Finance",
+    "tier": "coingecko",
+    "coingecko_id": "thetanuts-finance"
+  },
+  "thor-wallet": {
+    "symbol": "TITN",
+    "name": "THORWallet",
+    "tier": "coingecko",
+    "coingecko_id": "thor-wallet"
+  },
+  "thorswap": {
+    "symbol": "THOR",
+    "name": "THORSwap",
+    "tier": "coingecko",
+    "coingecko_id": "thorswap"
+  },
+  "threshold-network-token": {
+    "symbol": "T",
+    "name": "Threshold Network",
+    "tier": "coingecko",
+    "coingecko_id": "threshold-network-token"
+  },
+  "thunder-token": {
+    "symbol": "TT",
+    "name": "ThunderCore",
+    "tier": "coingecko",
+    "coingecko_id": "thunder-token"
+  },
+  "tokamak-network": {
+    "symbol": "TON",
+    "name": "Tokamak Network",
+    "tier": "coingecko",
+    "coingecko_id": "tokamak-network"
+  },
+  "token-dforce-usd": {
+    "symbol": "USX",
+    "name": "dForce USD",
+    "tier": "coingecko",
+    "coingecko_id": "token-dforce-usd"
+  },
+  "token-pocket": {
+    "symbol": "TPT",
+    "name": "TokenPocket Token",
+    "tier": "coingecko",
+    "coingecko_id": "token-pocket"
+  },
+  "tokenfi": {
+    "symbol": "TOKEN",
+    "name": "TokenFi",
+    "tier": "coingecko",
+    "coingecko_id": "tokenfi"
+  },
+  "tokenize-xchange": {
+    "symbol": "TKX",
+    "name": "Tokenize Xchange",
+    "tier": "coingecko",
+    "coingecko_id": "tokenize-xchange"
+  },
+  "tomochain": {
+    "symbol": "VIC",
+    "name": "Viction",
+    "tier": "coingecko",
+    "coingecko_id": "tomochain"
+  },
+  "torch-of-liberty": {
+    "symbol": "LIBERTY",
+    "name": "Torch of Liberty",
+    "tier": "coingecko",
+    "coingecko_id": "torch-of-liberty"
+  },
+  "tornado-cash": {
+    "symbol": "TORN",
+    "name": "Tornado Cash",
+    "tier": "coingecko",
+    "coingecko_id": "tornado-cash"
+  },
+  "torus": {
+    "symbol": "TORUS",
+    "name": "Torus",
+    "tier": "coingecko",
+    "coingecko_id": "torus"
+  },
+  "toshi": {
+    "symbol": "TOSHI",
+    "name": "Toshi",
+    "tier": "coingecko",
+    "coingecko_id": "toshi"
+  },
+  "towns": {
+    "symbol": "TOWNS",
+    "name": "Towns",
+    "tier": "coingecko",
+    "coingecko_id": "towns"
+  },
+  "tradable-na-rent-financing-platform-sstn": {
+    "symbol": "PC0000031",
+    "name": "Tradable NA Rent Financing Platform SSTN",
+    "tier": "coingecko",
+    "coingecko_id": "tradable-na-rent-financing-platform-sstn"
+  },
+  "tradable-singapore-fintech-ssl-2": {
+    "symbol": "PC0000023",
+    "name": "Tradable Singapore Fintech SSL",
+    "tier": "coingecko",
+    "coingecko_id": "tradable-singapore-fintech-ssl-2"
+  },
+  "tree-capital": {
+    "symbol": "TREE",
+    "name": "Tree",
+    "tier": "coingecko",
+    "coingecko_id": "tree-capital"
+  },
+  "treehouse": {
+    "symbol": "TREE",
+    "name": "Treehouse",
+    "tier": "coingecko",
+    "coingecko_id": "treehouse"
+  },
+  "trevee-plasma-usd": {
+    "symbol": "PLUSD",
+    "name": "Trevee Plasma USD",
+    "tier": "coingecko",
+    "coingecko_id": "trevee-plasma-usd"
+  },
+  "trias-token": {
+    "symbol": "TRIAS",
+    "name": "TriasLab",
+    "tier": "coingecko",
+    "coingecko_id": "trias-token"
+  },
+  "true-usd": {
+    "symbol": "TUSD",
+    "name": "TrueUSD",
+    "tier": "coingecko",
+    "coingecko_id": "true-usd"
+  },
+  "truefi": {
+    "symbol": "TRU",
+    "name": "TrueFi",
+    "tier": "coingecko",
+    "coingecko_id": "truefi"
+  },
+  "trust-wallet-token": {
+    "symbol": "TWT",
+    "name": "Trust Wallet",
+    "tier": "coingecko",
+    "coingecko_id": "trust-wallet-token"
+  },
+  "trusta-ai": {
+    "symbol": "TA",
+    "name": "Trusta AI",
+    "tier": "coingecko",
+    "coingecko_id": "trusta-ai"
+  },
+  "trustswap": {
+    "symbol": "SWAP",
+    "name": "TrustSwap",
+    "tier": "coingecko",
+    "coingecko_id": "trustswap"
+  },
+  "turbo": {
+    "symbol": "TURBO",
+    "name": "Turbo",
+    "tier": "coingecko",
+    "coingecko_id": "turbo"
+  },
+  "turtle-4": {
+    "symbol": "TURTLE",
+    "name": "Turtle",
+    "tier": "coingecko",
+    "coingecko_id": "turtle-4"
+  },
+  "tutorial": {
+    "symbol": "TUT",
+    "name": "Tutorial",
+    "tier": "coingecko",
+    "coingecko_id": "tutorial"
+  },
+  "uchain-2": {
+    "symbol": "UCN",
+    "name": "UCHAIN",
+    "tier": "coingecko",
+    "coingecko_id": "uchain-2"
+  },
+  "ufo-token": {
+    "symbol": "UFO",
+    "name": "UFO Token",
+    "tier": "coingecko",
+    "coingecko_id": "ufo-token"
+  },
+  "ultima": {
+    "symbol": "ULTIMA",
+    "name": "Ultima",
+    "tier": "coingecko",
+    "coingecko_id": "ultima"
+  },
+  "ultra": {
+    "symbol": "UOS",
+    "name": "Ultra",
+    "tier": "coingecko",
+    "coingecko_id": "ultra"
+  },
+  "umbra": {
+    "symbol": "UMBRA",
+    "name": "Umbra",
+    "tier": "coingecko",
+    "coingecko_id": "umbra"
+  },
+  "undeads-games": {
+    "symbol": "UDS",
+    "name": "Undeads Games",
+    "tier": "coingecko",
+    "coingecko_id": "undeads-games"
+  },
+  "unibase": {
+    "symbol": "UB",
+    "name": "Unibase",
+    "tier": "coingecko",
+    "coingecko_id": "unibase"
+  },
+  "unibright": {
+    "symbol": "UBT",
+    "name": "Unibright",
+    "tier": "coingecko",
+    "coingecko_id": "unibright"
+  },
+  "unicorn-fart-dust": {
+    "symbol": "UFD",
+    "name": "Unicorn Fart Dust",
+    "tier": "coingecko",
+    "coingecko_id": "unicorn-fart-dust"
+  },
+  "union-2": {
+    "symbol": "U",
+    "name": "Union",
+    "tier": "coingecko",
+    "coingecko_id": "union-2"
+  },
+  "unit-00-rei": {
+    "symbol": "REI",
+    "name": "Rei",
+    "tier": "coingecko",
+    "coingecko_id": "unit-00-rei"
+  },
+  "unit-plasma": {
+    "symbol": "UXPL",
+    "name": "Unit Plasma",
+    "tier": "coingecko",
+    "coingecko_id": "unit-plasma"
+  },
+  "unit-pump": {
+    "symbol": "UPUMP",
+    "name": "Unit Pump",
+    "tier": "coingecko",
+    "coingecko_id": "unit-pump"
+  },
+  "unity-2": {
+    "symbol": "UTY",
+    "name": "Unity",
+    "tier": "coingecko",
+    "coingecko_id": "unity-2"
+  },
+  "uquid-coin": {
+    "symbol": "UQC",
+    "name": "Uquid Coin",
+    "tier": "coingecko",
+    "coingecko_id": "uquid-coin"
+  },
+  "uranium": {
+    "symbol": "XU3O8",
+    "name": "Uranium",
+    "tier": "coingecko",
+    "coingecko_id": "uranium"
+  },
+  "uscr": {
+    "symbol": "USCR",
+    "name": "USCR",
+    "tier": "coingecko",
+    "coingecko_id": "uscr"
+  },
+  "usd-coin": {
+    "symbol": "USDC",
+    "name": "USDC",
+    "tier": "coingecko",
+    "coingecko_id": "usd-coin"
+  },
+  "usd-coinvertible": {
+    "symbol": "USDCV",
+    "name": "USD CoinVertible",
+    "tier": "coingecko",
+    "coingecko_id": "usd-coinvertible"
+  },
+  "usd1-wlfi": {
+    "symbol": "USD1",
+    "name": "USD1",
+    "tier": "coingecko",
+    "coingecko_id": "usd1-wlfi"
+  },
+  "usda-2": {
+    "symbol": "USDA",
+    "name": "USDa",
+    "tier": "coingecko",
+    "coingecko_id": "usda-2"
+  },
+  "usda-3": {
+    "symbol": "USDA",
+    "name": "USDA",
+    "tier": "coingecko",
+    "coingecko_id": "usda-3"
+  },
+  "usdai": {
+    "symbol": "USDAI",
+    "name": "USDai",
+    "tier": "coingecko",
+    "coingecko_id": "usdai"
+  },
+  "usdd": {
+    "symbol": "USDD",
+    "name": "USDD",
+    "tier": "coingecko",
+    "coingecko_id": "usdd"
+  },
+  "usdh-2": {
+    "symbol": "USDH",
+    "name": "USDH",
+    "tier": "coingecko",
+    "coingecko_id": "usdh-2"
+  },
+  "usdm-2": {
+    "symbol": "USDM",
+    "name": "USDM",
+    "tier": "coingecko",
+    "coingecko_id": "usdm-2"
+  },
+  "usds": {
+    "symbol": "USDS",
+    "name": "USDS",
+    "tier": "coingecko",
+    "coingecko_id": "usds"
+  },
+  "usdtb": {
+    "symbol": "USDTB",
+    "name": "USDtb",
+    "tier": "coingecko",
+    "coingecko_id": "usdtb"
+  },
+  "usdu": {
+    "symbol": "USDU",
+    "name": "USDu",
+    "tier": "coingecko",
+    "coingecko_id": "usdu"
+  },
+  "usdx-money-usdx": {
+    "symbol": "USDX",
+    "name": "Stables Labs USDX",
+    "tier": "coingecko",
+    "coingecko_id": "usdx-money-usdx"
+  },
+  "usp-yield-optimized-stablecoin": {
+    "symbol": "USP",
+    "name": "USP Yield Optimized Stablecoin",
+    "tier": "coingecko",
+    "coingecko_id": "usp-yield-optimized-stablecoin"
+  },
+  "ussi": {
+    "symbol": "USSI",
+    "name": "USSI",
+    "tier": "coingecko",
+    "coingecko_id": "ussi"
+  },
+  "usual": {
+    "symbol": "USUAL",
+    "name": "Usual",
+    "tier": "coingecko",
+    "coingecko_id": "usual"
+  },
+  "usual-usd": {
+    "symbol": "USD0",
+    "name": "Usual USD",
+    "tier": "coingecko",
+    "coingecko_id": "usual-usd"
+  },
+  "usualx": {
+    "symbol": "USUALX",
+    "name": "USUALx",
+    "tier": "coingecko",
+    "coingecko_id": "usualx"
+  },
+  "usx": {
+    "symbol": "USX",
+    "name": "USX",
+    "tier": "coingecko",
+    "coingecko_id": "usx"
+  },
+  "uton": {
+    "symbol": "UTON",
+    "name": "uton",
+    "tier": "coingecko",
+    "coingecko_id": "UNSUPPORTED:uton"
+  },
+  "utya": {
+    "symbol": "UTYA",
+    "name": "Utya",
+    "tier": "coingecko",
+    "coingecko_id": "utya"
+  },
+  "vaiot": {
+    "symbol": "VAI",
+    "name": "VAIOT",
+    "tier": "coingecko",
+    "coingecko_id": "vaiot"
+  },
+  "vanar-chain": {
+    "symbol": "VANRY",
+    "name": "Vanar Chain",
+    "tier": "coingecko",
+    "coingecko_id": "vanar-chain"
+  },
+  "vaneck-treasury-fund": {
+    "symbol": "VBILL",
+    "name": "VanEck Treasury Fund",
+    "tier": "coingecko",
+    "coingecko_id": "vaneck-treasury-fund"
+  },
+  "vault-2": {
+    "symbol": "V",
+    "name": "Vault",
+    "tier": "coingecko",
+    "coingecko_id": "vault-2"
+  },
+  "vaulta": {
+    "symbol": "A",
+    "name": "Vaulta",
+    "tier": "coingecko",
+    "coingecko_id": "vaulta"
+  },
+  "vcred": {
+    "symbol": "VCRED",
+    "name": "VCRED",
+    "tier": "coingecko",
+    "coingecko_id": "vcred"
+  },
+  "vebetterdao": {
+    "symbol": "B3TR",
+    "name": "VeBetterDAO",
+    "tier": "coingecko",
+    "coingecko_id": "vebetterdao"
+  },
+  "velas": {
+    "symbol": "VLX",
+    "name": "Velas",
+    "tier": "coingecko",
+    "coingecko_id": "velas"
+  },
+  "velo": {
+    "symbol": "VELO",
+    "name": "Velo",
+    "tier": "coingecko",
+    "coingecko_id": "velo"
+  },
+  "venice-token": {
+    "symbol": "VVV",
+    "name": "Venice Token",
+    "tier": "coingecko",
+    "coingecko_id": "venice-token"
+  },
+  "veno-finance": {
+    "symbol": "VNO",
+    "name": "Veno Finance",
+    "tier": "coingecko",
+    "coingecko_id": "veno-finance"
+  },
+  "veno-usd": {
+    "symbol": "VUSD",
+    "name": "Veno USD",
+    "tier": "coingecko",
+    "coingecko_id": "veno-usd"
+  },
+  "venom": {
+    "symbol": "VENOM",
+    "name": "Venom",
+    "tier": "coingecko",
+    "coingecko_id": "venom"
+  },
+  "verge": {
+    "symbol": "XVG",
+    "name": "Verge",
+    "tier": "coingecko",
+    "coingecko_id": "verge"
+  },
+  "vericore": {
+    "symbol": "SN70",
+    "name": "Vericore",
+    "tier": "coingecko",
+    "coingecko_id": "vericore"
+  },
+  "verse-world": {
+    "symbol": "VERSE",
+    "name": "Verse World",
+    "tier": "coingecko",
+    "coingecko_id": "verse-world"
+  },
+  "vertcoin": {
+    "symbol": "VTC",
+    "name": "Vertcoin",
+    "tier": "coingecko",
+    "coingecko_id": "vertcoin"
+  },
+  "verus-coin": {
+    "symbol": "VRSC",
+    "name": "Verus",
+    "tier": "coingecko",
+    "coingecko_id": "verus-coin"
+  },
+  "vestra-dao": {
+    "symbol": "VSTR",
+    "name": "Vestra DAO",
+    "tier": "coingecko",
+    "coingecko_id": "vestra-dao"
+  },
+  "vibestrategy": {
+    "symbol": "VIBESTR",
+    "name": "VibeStrategy",
+    "tier": "coingecko",
+    "coingecko_id": "vibestrategy"
+  },
+  "vicicoin": {
+    "symbol": "VCNT",
+    "name": "ViciCoin",
+    "tier": "coingecko",
+    "coingecko_id": "vicicoin"
+  },
+  "vifoxcoin": {
+    "symbol": "VFX",
+    "name": "ViFoxCoin",
+    "tier": "coingecko",
+    "coingecko_id": "vifoxcoin"
+  },
+  "village": {
+    "symbol": "BUNDLE",
+    "name": "庄",
+    "tier": "coingecko",
+    "coingecko_id": "village"
+  },
+  "virtual-protocol": {
+    "symbol": "VIRTUAL",
+    "name": "Virtuals Protocol",
+    "tier": "coingecko",
+    "coingecko_id": "virtual-protocol"
+  },
+  "vision-3": {
+    "symbol": "VSN",
+    "name": "Vision",
+    "tier": "coingecko",
+    "coingecko_id": "vision-3"
+  },
+  "vitadao": {
+    "symbol": "VITA",
+    "name": "VitaDAO",
+    "tier": "coingecko",
+    "coingecko_id": "vitadao"
+  },
+  "vivi-coin": {
+    "symbol": "VIVI",
+    "name": "VIVI COIN",
+    "tier": "coingecko",
+    "coingecko_id": "vivi-coin"
+  },
+  "vnx-euro": {
+    "symbol": "VEUR",
+    "name": "VNX EURO",
+    "tier": "coingecko",
+    "coingecko_id": "vnx-euro"
+  },
+  "vow": {
+    "symbol": "VOW",
+    "name": "Vow",
+    "tier": "coingecko",
+    "coingecko_id": "vow"
+  },
+  "vulcan-forged": {
+    "symbol": "PYR",
+    "name": "Vulcan Forged",
+    "tier": "coingecko",
+    "coingecko_id": "vulcan-forged"
+  },
+  "vultisig": {
+    "symbol": "VULT",
+    "name": "Vultisig",
+    "tier": "coingecko",
+    "coingecko_id": "vultisig"
+  },
+  "vvs-finance": {
+    "symbol": "VVS",
+    "name": "VVS Finance",
+    "tier": "coingecko",
+    "coingecko_id": "vvs-finance"
+  },
+  "vyvo-smart-chain": {
+    "symbol": "VSC",
+    "name": "Vyvo Smart Chain",
+    "tier": "coingecko",
+    "coingecko_id": "vyvo-smart-chain"
+  },
+  "w-ai-parked": {
+    "symbol": "SN39",
+    "name": "basilica",
+    "tier": "coingecko",
+    "coingecko_id": "w-ai-parked"
+  },
+  "walrus-2": {
+    "symbol": "WAL",
+    "name": "Walrus",
+    "tier": "coingecko",
+    "coingecko_id": "walrus-2"
+  },
+  "wanchain": {
+    "symbol": "WAN",
+    "name": "Wanchain",
+    "tier": "coingecko",
+    "coingecko_id": "wanchain"
+  },
+  "watcoin-2": {
+    "symbol": "WATC",
+    "name": "WATCoin",
+    "tier": "coingecko",
+    "coingecko_id": "watcoin-2"
+  },
+  "waterneuron": {
+    "symbol": "WTN",
+    "name": "WaterNeuron",
+    "tier": "coingecko",
+    "coingecko_id": "waterneuron"
+  },
+  "waves": {
+    "symbol": "WAVES",
+    "name": "Waves",
+    "tier": "coingecko",
+    "coingecko_id": "waves"
+  },
+  "wax": {
+    "symbol": "WAXP",
+    "name": "WAX",
+    "tier": "coingecko",
+    "coingecko_id": "wax"
+  },
+  "web-3-dollar": {
+    "symbol": "USD3",
+    "name": "Web 3 Dollar",
+    "tier": "coingecko",
+    "coingecko_id": "web-3-dollar"
+  },
+  "webgenieai": {
+    "symbol": "SN54",
+    "name": "WebGenieAI",
+    "tier": "coingecko",
+    "coingecko_id": "webgenieai"
+  },
+  "wefi": {
+    "symbol": "WFI",
+    "name": "WeFi",
+    "tier": "coingecko",
+    "coingecko_id": "wefi"
+  },
+  "wemix-dollar": {
+    "symbol": "WEMIX$",
+    "name": "WEMIX Dollar",
+    "tier": "coingecko",
+    "coingecko_id": "wemix-dollar"
+  },
+  "wemix-token": {
+    "symbol": "WEMIX",
+    "name": "WEMIX",
+    "tier": "coingecko",
+    "coingecko_id": "wemix-token"
+  },
+  "wfca": {
+    "symbol": "WFCA",
+    "name": "World Friendship Cash",
+    "tier": "coingecko",
+    "coingecko_id": "wfca"
+  },
+  "whitebit": {
+    "symbol": "WBT",
+    "name": "WhiteBIT Coin",
+    "tier": "coingecko",
+    "coingecko_id": "whitebit"
+  },
+  "whiteheart": {
+    "symbol": "WHITE",
+    "name": "Whiteheart",
+    "tier": "coingecko",
+    "coingecko_id": "whiteheart"
+  },
+  "wiki-cat": {
+    "symbol": "WKC",
+    "name": "Wiki Cat",
+    "tier": "coingecko",
+    "coingecko_id": "wiki-cat"
+  },
+  "wink": {
+    "symbol": "WIN",
+    "name": "WINkLink",
+    "tier": "coingecko",
+    "coingecko_id": "wink"
+  },
+  "wise-token11": {
+    "symbol": "WISE",
+    "name": "Wise",
+    "tier": "coingecko",
+    "coingecko_id": "wise-token11"
+  },
+  "wo-ta-ma-laile": {
+    "symbol": "我踏马来了",
+    "name": "我踏马来了",
+    "tier": "coingecko",
+    "coingecko_id": "wo-ta-ma-laile"
+  },
+  "wojak-4": {
+    "symbol": "WOJAK",
+    "name": "Wojak",
+    "tier": "coingecko",
+    "coingecko_id": "wojak-4"
+  },
+  "wolf-2": {
+    "symbol": "WOLF",
+    "name": "WOLF",
+    "tier": "coingecko",
+    "coingecko_id": "wolf-2"
+  },
+  "woo-network": {
+    "symbol": "WOO",
+    "name": "WOO",
+    "tier": "coingecko",
+    "coingecko_id": "woo-network"
+  },
+  "world-assets": {
+    "symbol": "INC",
+    "name": "WorldAssets",
+    "tier": "coingecko",
+    "coingecko_id": "world-assets"
+  },
+  "world-liberty-financial": {
+    "symbol": "WLFI",
+    "name": "World Liberty Financial",
+    "tier": "coingecko",
+    "coingecko_id": "world-liberty-financial"
+  },
+  "world-mobile-token": {
+    "symbol": "WMTX",
+    "name": "World Mobile Token",
+    "tier": "coingecko",
+    "coingecko_id": "world-mobile-token"
+  },
+  "world-of-dypians": {
+    "symbol": "WOD",
+    "name": "World of Dypians",
+    "tier": "coingecko",
+    "coingecko_id": "world-of-dypians"
+  },
+  "world3": {
+    "symbol": "WAI",
+    "name": "World3",
+    "tier": "coingecko",
+    "coingecko_id": "world3"
+  },
+  "wrapped-hypertensor": {
+    "symbol": "TENSOR",
+    "name": "Wrapped Hypertensor",
+    "tier": "coingecko",
+    "coingecko_id": "wrapped-hypertensor"
+  },
+  "x1000": {
+    "symbol": "X1000",
+    "name": "X1000",
+    "tier": "coingecko",
+    "coingecko_id": "x1000"
+  },
+  "xborg": {
+    "symbol": "XBG",
+    "name": "XBorg",
+    "tier": "coingecko",
+    "coingecko_id": "xborg"
+  },
+  "xdai": {
+    "symbol": "XDAI",
+    "name": "XDAI",
+    "tier": "coingecko",
+    "coingecko_id": "xdai"
+  },
+  "xdce-crowd-sale": {
+    "symbol": "XDC",
+    "name": "XDC Network",
+    "tier": "coingecko",
+    "coingecko_id": "xdce-crowd-sale"
+  },
+  "xdog": {
+    "symbol": "XDOG",
+    "name": "XDOG",
+    "tier": "coingecko",
+    "coingecko_id": "xdog"
+  },
+  "xdoge-2": {
+    "symbol": "XDOGE",
+    "name": "XDOGE",
+    "tier": "coingecko",
+    "coingecko_id": "xdoge-2"
+  },
+  "xhype-2": {
+    "symbol": "XHYPE",
+    "name": "xHYPE",
+    "tier": "coingecko",
+    "coingecko_id": "xhype-2"
+  },
+  "xion-2": {
+    "symbol": "XION",
+    "name": "XION",
+    "tier": "coingecko",
+    "coingecko_id": "xion-2"
+  },
+  "xpack": {
+    "symbol": "XPACK",
+    "name": "xPACK",
+    "tier": "coingecko",
+    "coingecko_id": "xpack"
+  },
+  "xpin-network": {
+    "symbol": "XPIN",
+    "name": "XPIN Network",
+    "tier": "coingecko",
+    "coingecko_id": "xpin-network"
+  },
+  "xpla": {
+    "symbol": "CONX",
+    "name": "CONX",
+    "tier": "coingecko",
+    "coingecko_id": "xpla"
+  },
+  "xtcom-token": {
+    "symbol": "XT",
+    "name": "XT.com",
+    "tier": "coingecko",
+    "coingecko_id": "xtcom-token"
+  },
+  "xyo-network": {
+    "symbol": "XYO",
+    "name": "XYO Network",
+    "tier": "coingecko",
+    "coingecko_id": "xyo-network"
+  },
+  "yee-token": {
+    "symbol": "YEE",
+    "name": "Yee Token",
+    "tier": "coingecko",
+    "coingecko_id": "yee-token"
+  },
+  "yei-finance": {
+    "symbol": "CLO",
+    "name": "Yei Finance",
+    "tier": "coingecko",
+    "coingecko_id": "yei-finance"
+  },
+  "yield-guild-games": {
+    "symbol": "YGG",
+    "name": "Yield Guild Games",
+    "tier": "coingecko",
+    "coingecko_id": "yield-guild-games"
+  },
+  "yield-optimizer-usd": {
+    "symbol": "YOUSD",
+    "name": "Yield Optimizer USD",
+    "tier": "coingecko",
+    "coingecko_id": "yield-optimizer-usd"
+  },
+  "yieldfi-vyusd": {
+    "symbol": "VYUSD",
+    "name": "YieldFi vyUSD",
+    "tier": "coingecko",
+    "coingecko_id": "yieldfi-vyusd"
+  },
+  "ylds": {
+    "symbol": "YLDS",
+    "name": "YLDS",
+    "tier": "coingecko",
+    "coingecko_id": "ylds"
+  },
+  "yooldo-games": {
+    "symbol": "ESPORTS",
+    "name": "Yooldo Games",
+    "tier": "coingecko",
+    "coingecko_id": "yooldo-games"
+  },
+  "yusd-stablecoin": {
+    "symbol": "YUSD",
+    "name": "YUSD Stablecoin",
+    "tier": "coingecko",
+    "coingecko_id": "yusd-stablecoin"
+  },
+  "zama": {
+    "symbol": "ZAMA",
+    "name": "Zama",
+    "tier": "coingecko",
+    "coingecko_id": "zama"
+  },
+  "zano": {
+    "symbol": "ZANO",
+    "name": "Zano",
+    "tier": "coingecko",
+    "coingecko_id": "zano"
+  },
+  "zarp-stablecoin": {
+    "symbol": "ZARP",
+    "name": "ZARP Stablecoin",
+    "tier": "coingecko",
+    "coingecko_id": "zarp-stablecoin"
+  },
+  "zcash": {
+    "symbol": "ZEC",
+    "name": "Zcash",
+    "tier": "coingecko",
+    "coingecko_id": "zcash"
+  },
+  "zclassic": {
+    "symbol": "ZCL",
+    "name": "Zclassic",
+    "tier": "coingecko",
+    "coingecko_id": "zclassic"
+  },
+  "zebec-network": {
+    "symbol": "ZBCN",
+    "name": "Zebec Network",
+    "tier": "coingecko",
+    "coingecko_id": "zebec-network"
+  },
+  "zelcash": {
+    "symbol": "FLUX",
+    "name": "Flux",
+    "tier": "coingecko",
+    "coingecko_id": "zelcash"
+  },
+  "zencash": {
+    "symbol": "ZEN",
+    "name": "Horizen",
+    "tier": "coingecko",
+    "coingecko_id": "zencash"
+  },
+  "zenchain-2": {
+    "symbol": "ZTC",
+    "name": "ZenChain",
+    "tier": "coingecko",
+    "coingecko_id": "zenchain-2"
+  },
+  "zenon-2": {
+    "symbol": "ZNN",
+    "name": "Zenon",
+    "tier": "coingecko",
+    "coingecko_id": "zenon-2"
+  },
+  "zenrock": {
+    "symbol": "ROCK",
+    "name": "Zenrock",
+    "tier": "coingecko",
+    "coingecko_id": "zenrock"
+  },
+  "zentry": {
+    "symbol": "ZENT",
+    "name": "Zentry",
+    "tier": "coingecko",
+    "coingecko_id": "zentry"
+  },
+  "zephyr-protocol": {
+    "symbol": "ZEPH",
+    "name": "Zephyr Protocol",
+    "tier": "coingecko",
+    "coingecko_id": "zephyr-protocol"
+  },
+  "zerebro": {
+    "symbol": "ZEREBRO",
+    "name": "Zerebro",
+    "tier": "coingecko",
+    "coingecko_id": "zerebro"
+  },
+  "zero-gravity": {
+    "symbol": "0G",
+    "name": "0G",
+    "tier": "coingecko",
+    "coingecko_id": "zero-gravity"
+  },
+  "zeta": {
+    "symbol": "ZEX",
+    "name": "Zeta",
+    "tier": "coingecko",
+    "coingecko_id": "zeta"
+  },
+  "zetachain": {
+    "symbol": "ZETA",
+    "name": "ZetaChain",
+    "tier": "coingecko",
+    "coingecko_id": "zetachain"
+  },
+  "zeus-5": {
+    "symbol": "SN18",
+    "name": "Zeus",
+    "tier": "coingecko",
+    "coingecko_id": "zeus-5"
+  },
+  "zeus-network": {
+    "symbol": "ZEUS",
+    "name": "Zeus Network",
+    "tier": "coingecko",
+    "coingecko_id": "zeus-network"
+  },
+  "zilliqa": {
+    "symbol": "ZIL",
+    "name": "Zilliqa",
+    "tier": "coingecko",
+    "coingecko_id": "zilliqa"
+  },
+  "zircuit": {
+    "symbol": "ZRC",
+    "name": "Zircuit",
+    "tier": "coingecko",
+    "coingecko_id": "zircuit"
+  },
+  "zkpass": {
+    "symbol": "ZKP",
+    "name": "zkPass",
+    "tier": "coingecko",
+    "coingecko_id": "zkpass"
+  },
+  "zksync": {
+    "symbol": "ZK",
+    "name": "ZKsync",
+    "tier": "coingecko",
+    "coingecko_id": "zksync"
+  },
+  "zora": {
+    "symbol": "ZORA",
+    "name": "Zora",
+    "tier": "coingecko",
+    "coingecko_id": "zora"
+  }
+}

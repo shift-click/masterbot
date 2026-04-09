@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: #131722; overflow: hidden; }
+  #chart { width: 100vw; height: 100vh; position: relative; }
+</style>
+</head>
+<body>
+<div id="chart"></div>
+<script src="/lightweight-charts.standalone.production.js"></script>
+<script>
+// --- PriceAnnotationPrimitive: Custom Series Primitive for pinpoint markers ---
+
+function PriceAnnotationPrimitive(markers) {
+  this._markers = markers || [];
+  this._chart = null;
+  this._series = null;
+  this._requestUpdate = null;
+  this._cachedPoints = [];
+  this._paneView = new PriceAnnotationPaneView(this);
+}
+
+PriceAnnotationPrimitive.prototype.attached = function(params) {
+  this._chart = params.chart;
+  this._series = params.series;
+  this._requestUpdate = params.requestUpdate;
+};
+
+PriceAnnotationPrimitive.prototype.detached = function() {
+  this._chart = null;
+  this._series = null;
+};
+
+PriceAnnotationPrimitive.prototype.updateAllViews = function() {
+  if (!this._chart || !this._series || this._markers.length === 0) {
+    this._cachedPoints = [];
+    return;
+  }
+
+  var points = [];
+  for (var i = 0; i < this._markers.length; i++) {
+    var m = this._markers[i];
+    var x = this._chart.timeScale().timeToCoordinate(m.time);
+    var y = this._series.priceToCoordinate(m.price);
+    if (x === null || y === null) continue;
+    points.push({
+      x: x,
+      y: y,
+      text: m.text,
+      isHigh: m.position === 'aboveBar'
+    });
+  }
+
+  // Resolve vertical overlaps.
+  resolveOverlaps(points);
+  this._cachedPoints = points;
+};
+
+PriceAnnotationPrimitive.prototype.paneViews = function() {
+  return [this._paneView];
+};
+
+// --- PaneView ---
+
+function PriceAnnotationPaneView(primitive) {
+  this._primitive = primitive;
+  this._renderer = new PriceAnnotationRenderer(primitive);
+}
+
+PriceAnnotationPaneView.prototype.zOrder = function() {
+  return 'top';
+};
+
+PriceAnnotationPaneView.prototype.renderer = function() {
+  return this._renderer;
+};
+
+// --- Renderer ---
+
+function PriceAnnotationRenderer(primitive) {
+  this._primitive = primitive;
+}
+
+PriceAnnotationRenderer.prototype.draw = function(target) {
+  var points = this._primitive._cachedPoints;
+  if (!points || points.length === 0) return;
+
+  target.useMediaCoordinateSpace(function(scope) {
+    var ctx = scope.context;
+    var fontSize = 10;
+    ctx.font = fontSize + 'px system-ui, -apple-system, sans-serif';
+    ctx.textAlign = 'center';
+    ctx.textBaseline = 'middle';
+
+    for (var i = 0; i < points.length; i++) {
+      var p = points[i];
+      var arrowSize = 6;
+      var bgColor = p.isHigh ? '#EF5350' : '#26A69A';
+
+      // Draw arrow marker.
+      ctx.fillStyle = bgColor;
+      ctx.beginPath();
+      if (p.isHigh) {
+        // ▼ arrow above bar
+        var ay = p.y - arrowSize - 2;
+        ctx.moveTo(p.x, ay + arrowSize);
+        ctx.lineTo(p.x - arrowSize / 2, ay);
+        ctx.lineTo(p.x + arrowSize / 2, ay);
+      } else {
+        // ▲ arrow below bar
+        var ay = p.y + arrowSize + 2;
+        ctx.moveTo(p.x, ay - arrowSize);
+        ctx.lineTo(p.x - arrowSize / 2, ay);
+        ctx.lineTo(p.x + arrowSize / 2, ay);
+      }
+      ctx.closePath();
+      ctx.fill();
+
+      // Draw price label badge.
+      var textWidth = ctx.measureText(p.text).width;
+      var padX = 5;
+      var padY = 3;
+      var bw = textWidth + padX * 2;
+      var bh = fontSize + padY * 2;
+      var bx = p.x - bw / 2;
+      var labelY;
+      if (p.isHigh) {
+        labelY = p.nudgedY !== undefined ? p.nudgedY : p.y - arrowSize - bh - 4;
+      } else {
+        labelY = p.nudgedY !== undefined ? p.nudgedY : p.y + arrowSize + 4;
+      }
+
+      // Clamp to viewport.
+      if (bx < 0) bx = 0;
+      if (bx + bw > scope.mediaSize.width) bx = scope.mediaSize.width - bw;
+      if (labelY < 0) labelY = 0;
+
+      // Background rounded rect.
+      ctx.fillStyle = bgColor;
+      roundRect(ctx, bx, labelY, bw, bh, 3);
+      ctx.fill();
+
+      // Text.
+      ctx.fillStyle = '#FFFFFF';
+      ctx.fillText(p.text, p.x, labelY + bh / 2);
+    }
+  });
+};
+
+// --- Overlap resolution ---
+
+function resolveOverlaps(points) {
+  if (points.length < 2) {
+    // Set nudgedY for single points.
+    for (var i = 0; i < points.length; i++) {
+      var p = points[i];
+      var arrowSize = 6;
+      var bh = 16; // fontSize(10) + padY(3)*2
+      if (p.isHigh) {
+        p.nudgedY = p.y - arrowSize - bh - 4;
+      } else {
+        p.nudgedY = p.y + arrowSize + 4;
+      }
+    }
+    return;
+  }
+
+  var arrowSize = 6;
+  var bh = 16;
+  var minGap = bh + 4;
+
+  // Compute initial label Y positions.
+  for (var i = 0; i < points.length; i++) {
+    var p = points[i];
+    if (p.isHigh) {
+      p.nudgedY = p.y - arrowSize - bh - 4;
+    } else {
+      p.nudgedY = p.y + arrowSize + 4;
+    }
+  }
+
+  // Sort by nudgedY and push overlapping labels downward.
+  var indices = [];
+  for (var i = 0; i < points.length; i++) indices.push(i);
+  indices.sort(function(a, b) { return points[a].nudgedY - points[b].nudgedY; });
+
+  for (var i = 1; i < indices.length; i++) {
+    var prev = points[indices[i - 1]];
+    var curr = points[indices[i]];
+    var overlap = (prev.nudgedY + minGap) - curr.nudgedY;
+    if (overlap > 0) {
+      curr.nudgedY += overlap;
+    }
+  }
+}
+
+// --- Canvas utility ---
+
+function roundRect(ctx, x, y, w, h, r) {
+  ctx.beginPath();
+  ctx.moveTo(x + r, y);
+  ctx.lineTo(x + w - r, y);
+  ctx.quadraticCurveTo(x + w, y, x + w, y + r);
+  ctx.lineTo(x + w, y + h - r);
+  ctx.quadraticCurveTo(x + w, y + h, x + w - r, y + h);
+  ctx.lineTo(x + r, y + h);
+  ctx.quadraticCurveTo(x, y + h, x, y + h - r);
+  ctx.lineTo(x, y + r);
+  ctx.quadraticCurveTo(x, y, x + r, y);
+  ctx.closePath();
+}
+
+// --- Main render function ---
+
+window.renderChart = function(data) {
+  var container = document.getElementById('chart');
+  var chart = LightweightCharts.createChart(container, {
+    width: container.clientWidth,
+    height: container.clientHeight,
+    layout: {
+      background: { type: 'solid', color: '#131722' },
+      textColor: '#D1D4DC',
+    },
+    grid: {
+      vertLines: { color: '#1E222D' },
+      horzLines: { color: '#1E222D' },
+    },
+    localization: {
+      locale: 'en-US',
+      priceFormatter: function(price) {
+        return Number(price).toLocaleString('en-US', {
+          minimumFractionDigits: 2,
+          maximumFractionDigits: 2,
+        });
+      },
+    },
+    crosshair: {
+      mode: LightweightCharts.CrosshairMode.Normal,
+    },
+    rightPriceScale: {
+      borderColor: '#2B2B43',
+      scaleMargins: { top: 0.1, bottom: 0.2 },
+    },
+    leftPriceScale: {
+      visible: false,
+    },
+    timeScale: {
+      borderColor: '#2B2B43',
+      timeVisible: data.timeVisible || false,
+      rightOffset: 3,
+      barSpacing: 8,
+      minBarSpacing: 3,
+    },
+  });
+
+  // Candlestick series (v4 API)
+  var candleSeries = chart.addCandlestickSeries({
+    upColor: '#26A69A',
+    downColor: '#EF5350',
+    borderDownColor: '#EF5350',
+    borderUpColor: '#26A69A',
+    wickDownColor: '#EF5350',
+    wickUpColor: '#26A69A',
+    priceFormat: {
+      type: 'price',
+      precision: 2,
+      minMove: 0.01,
+    },
+  });
+  candleSeries.setData(data.candles);
+
+  // Volume series
+  if (data.volumes && data.volumes.length > 0) {
+    var volumeSeries = chart.addHistogramSeries({
+      priceFormat: { type: 'volume' },
+      priceScaleId: '',
+    });
+    volumeSeries.priceScale().applyOptions({
+      scaleMargins: { top: 0.8, bottom: 0 },
+    });
+    volumeSeries.setData(data.volumes);
+  }
+
+  // SMA overlay
+  if (data.sma && data.sma.length > 0) {
+    var smaSeries = chart.addLineSeries({
+      color: '#2962FF',
+      lineWidth: 1,
+      crosshairMarkerVisible: false,
+      priceLineVisible: false,
+      lastValueVisible: false,
+      priceFormat: {
+        type: 'price',
+        precision: 2,
+        minMove: 0.01,
+      },
+    });
+    smaSeries.setData(data.sma);
+  }
+
+  // Pinpoint annotations via Custom Series Primitive.
+  if (data.markers && data.markers.length > 0) {
+    var primitive = new PriceAnnotationPrimitive(data.markers);
+    candleSeries.attachPrimitive(primitive);
+  }
+
+  chart.timeScale().fitContent();
+  chart.timeScale().scrollToPosition(2, false);
+
+  // Title overlay
+  if (data.title) {
+    var legend = document.createElement('div');
+    legend.style.cssText = 'position:absolute;top:12px;left:12px;z-index:10;color:#D1D4DC;font-size:16px;font-family:system-ui;font-weight:600;';
+    legend.textContent = data.title;
+    if (data.subtitle) {
+      var sub = document.createElement('div');
+      sub.style.cssText = 'font-size:13px;font-weight:400;margin-top:2px;color:' + (data.subtitleColor || '#26A69A') + ';';
+      sub.textContent = data.subtitle;
+      legend.appendChild(sub);
+    }
+    container.appendChild(legend);
+  }
+};
+</script>
+</body>
+</html>

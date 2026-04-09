@@ -1,0 +1,21 @@
+# SSM 시크릿 변수 예시
+# 이 파일을 ssm.tfvars로 복사하고 실제 값으로 교체하세요.
+# 적용: terraform apply -var-file=ssm.tfvars
+
+# [REQUIRED] Admin 대시보드 pseudonym HMAC 시크릿
+admin_pseudonym_secret = "replace-with-long-random-secret"
+
+# [REQUIRED] Telegram 알림
+telegram_bot_token = "replace-with-telegram-bot-token"
+telegram_chat_id   = "replace-with-telegram-chat-id"
+
+# [OPTIONAL] Admin 대시보드 OAuth2 (외부 노출 시)
+# oauth2_client_id     = "replace-with-google-client-id"
+# oauth2_client_secret = "replace-with-google-client-secret"
+# oauth2_cookie_secret = "replace-with-32-byte-base64-secret"
+
+# [OPTIONAL] Google Gemini (유튜브 요약)
+# gemini_api_key = "replace-with-gemini-api-key"
+
+# [OPTIONAL] 쿠팡 프록시 (한국 IP)
+# coupang_proxy_url = "http://user:pass_country-kr@geo.iproyal.com:12321"
