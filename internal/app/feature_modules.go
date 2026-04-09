@@ -215,17 +215,45 @@ func defaultFeatureModules() []featureModule {
 		basicFeatureModule{
 			name:        "info",
 			order:       80,
-			descriptors: []commandmeta.Descriptor{commandmeta.Must("weather"), commandmeta.Must("trending"), commandmeta.Must("news")},
+			descriptors: []commandmeta.Descriptor{commandmeta.Must("weather"), commandmeta.Must("trending"), commandmeta.Must("news"), commandmeta.Must("fortune")},
 			build: func(ctx *featureBuildContext) (featureRuntime, error) {
 				openMeteo := providers.NewOpenMeteo(ctx.logger)
 				weatherCache := scraper.NewWeatherCache(ctx.cfg.Weather.CacheTTL, ctx.cfg.Weather.YesterdayCacheTTL)
+				fortuneHandler, err := setupFortuneHandler(ctx.logger)
+				if err != nil {
+					return featureRuntime{}, err
+				}
 				return featureRuntime{
 					name: "info",
 					handlers: []bot.Handler{
 						command.NewWeatherCommand(openMeteo, weatherCache, ctx.logger),
 						command.NewTrendingHandler(providers.NewGoogleTrends(ctx.logger)),
 						command.NewNewsHandlerReal(providers.NewGoogleNews(ctx.logger)),
+						fortuneHandler,
 					},
+					smokeProbes: []admin.CommandSmokeProbe{
+						{
+							ID:          "fortune",
+							Message:     "운세",
+							ExpectTexts: []string{"오늘의 운세"},
+							ExpectType:  string(transport.ReplyTypeText),
+						},
+					},
+				}, nil
+			},
+		},
+		basicFeatureModule{
+			name:        "lotto",
+			order:       85,
+			descriptors: []commandmeta.Descriptor{commandmeta.Must("lotto")},
+			build: func(ctx *featureBuildContext) (featureRuntime, error) {
+				module, err := setupLottoModule(ctx.cfg, ctx.logger, ctx.closers)
+				if err != nil {
+					return featureRuntime{}, err
+				}
+				return featureRuntime{
+					name:     "lotto",
+					handlers: []bot.Handler{module.handler},
 				}, nil
 			},
 		},

@@ -59,6 +59,10 @@ coupang:
   read_refresh_join_wait: 2s
   chart_backfill_interval: 72h
 
+lotto:
+  db_path: data/lotto.db
+  sync_cooldown: 10m
+
 sports:
   live_poll_interval: 30s
   match_day_interval: 1h

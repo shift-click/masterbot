@@ -6,6 +6,7 @@ import (
 	"fmt"
 	"log/slog"
 	"os"
+	"path/filepath"
 	"time"
 
 	"github.com/shift-click/masterbot/internal/alerting"
@@ -13,6 +14,8 @@ import (
 	"github.com/shift-click/masterbot/internal/command"
 	"github.com/shift-click/masterbot/internal/config"
 	"github.com/shift-click/masterbot/internal/coupang"
+	"github.com/shift-click/masterbot/internal/fortune"
+	"github.com/shift-click/masterbot/internal/lotto"
 	"github.com/shift-click/masterbot/internal/metrics"
 	"github.com/shift-click/masterbot/internal/scraper"
 	"github.com/shift-click/masterbot/internal/scraper/providers"
@@ -228,6 +231,10 @@ type coupangModule struct {
 	priceStore store.PriceStore
 }
 
+type lottoModule struct {
+	handler *command.LottoHandler
+}
+
 func setupCoupangModule(
 	cfg config.Config,
 	logger *slog.Logger,
@@ -296,6 +303,37 @@ func setupCoupangModule(
 		handler:    command.NewCoupangHandler(coupangTracker, logger),
 		priceStore: priceStore,
 	}, nil
+}
+
+func setupLottoModule(cfg config.Config, logger *slog.Logger, closers *[]func() error) (lottoModule, error) {
+	if err := os.MkdirAll(filepath.Dir(cfg.Lotto.DBPath), 0o755); err != nil {
+		return lottoModule{}, fmt.Errorf("prepare lotto db directory: %w", err)
+	}
+	lottoStore, err := store.NewSQLiteLottoStore(cfg.Lotto.DBPath)
+	if err != nil {
+		return lottoModule{}, fmt.Errorf("initialize lotto store: %w", err)
+	}
+	*closers = append(*closers, lottoStore.Close)
+
+	service := lotto.NewService(lottoStore, providers.NewDHLottery(logger), lotto.ServiceConfig{
+		SyncCooldown: cfg.Lotto.SyncCooldown,
+	}, logger)
+
+	return lottoModule{
+		handler: command.NewLottoHandler(service, logger),
+	}, nil
+}
+
+func setupFortuneHandler(logger *slog.Logger) (*command.FortuneHandler, error) {
+	presets, err := fortune.LoadFortunes()
+	if err != nil {
+		return nil, fmt.Errorf("load fortune presets: %w", err)
+	}
+	service, err := fortune.NewService(presets)
+	if err != nil {
+		return nil, fmt.Errorf("initialize fortune service: %w", err)
+	}
+	return command.NewFortuneHandler(service, logger), nil
 }
 
 type sportsModule struct {

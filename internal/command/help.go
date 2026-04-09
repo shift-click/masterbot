@@ -15,6 +15,7 @@ var helpCategories = []helpCategory{
 	{name: "시세", emoji: "💰"},
 	{name: "스포츠", emoji: "⚽"},
 	{name: "정보", emoji: "📰"},
+	{name: "로또", emoji: "🎱"},
 	{name: "관리", emoji: "⚙️"},
 }
 
@@ -91,6 +92,7 @@ func (h *HelpHandler) executeList(ctx context.Context, cmd bot.CommandContext) e
 		buf.WriteString("\n")
 	}
 
+	appendLottoHelpBlock(&buf, entries)
 	buf.WriteString("\n💡 도움 <기능명> — 상세 사용법")
 
 	return cmd.Reply(ctx, bot.Reply{
@@ -145,7 +147,28 @@ func helpExamples(entry intent.Entry) string {
 	}
 	aliases := strings.Join(entry.SlashAliases, ", ")
 	if aliases == "" {
-		return entry.Name
+		return ""
 	}
 	return entry.Name + " | " + aliases
+}
+
+func appendLottoHelpBlock(buf *strings.Builder, entries []intent.Entry) {
+	if buf == nil || !hasHelpEntry(entries, "lotto") {
+		return
+	}
+	buf.WriteString("\n🎱 로또\n")
+	buf.WriteString("최신 당첨번호: 로또\n")
+	buf.WriteString("랜덤 번호 등록: 로또 추천\n")
+	buf.WriteString("내 번호 조회: !로또\n")
+	buf.WriteString("번호 등록: !로또 <n1> <n2> <n3> <n4> <n5> <n6>\n")
+	buf.WriteString("세트 삭제: !로또 <번호(옵션)> 삭제\n")
+}
+
+func hasHelpEntry(entries []intent.Entry, id string) bool {
+	for _, entry := range entries {
+		if entry.ID == id {
+			return true
+		}
+	}
+	return false
 }

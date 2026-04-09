@@ -164,6 +164,7 @@ func TestBuildCreatesAppWithoutTransportAdapterWhenDisabled(t *testing.T) {
 	cfg := config.Default()
 	cfg.Iris.Enabled = false
 	cfg.Coupang.DBPath = filepath.Join(t.TempDir(), "coupang-disabled.db")
+	cfg.Lotto.DBPath = filepath.Join(t.TempDir(), "lotto-disabled.db")
 	cfg.Access.RuntimeDBPath = filepath.Join(t.TempDir(), "access-disabled.db")
 	cfg.Access.BootstrapAdminRoomChatID = "100"
 	cfg.Access.BootstrapAdminUserID = "200"
@@ -188,6 +189,7 @@ func TestBuildCreatesAppWithTransportAdapterWhenEnabled(t *testing.T) {
 	cfg := config.Default()
 	cfg.Iris.Enabled = true
 	cfg.Coupang.DBPath = filepath.Join(t.TempDir(), "coupang-enabled.db")
+	cfg.Lotto.DBPath = filepath.Join(t.TempDir(), "lotto-enabled.db")
 	cfg.Access.RuntimeDBPath = filepath.Join(t.TempDir(), "access-enabled.db")
 	cfg.Access.BootstrapAdminRoomChatID = "100"
 	cfg.Access.BootstrapAdminUserID = "200"

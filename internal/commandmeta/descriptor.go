@@ -99,6 +99,19 @@ var descriptors = []Descriptor{
 		category:        "시세",
 		helpVisible:     true,
 	}),
+	newDescriptor("lotto", "로또", "최신 당첨번호와 내 번호 조회", descriptorOptions{
+		slashAliases:  []string{"lotto"},
+		normalizeKeys: []string{"lotto.show", "!로또"},
+		example:       "로또, 로또 추천, !로또 1 2 3 4 5 6",
+		category:      "로또",
+		helpVisible:   true,
+	}),
+	newDescriptor("fortune", "운세", "오늘의 운세 조회", descriptorOptions{
+		explicitAliases: []string{"오늘운세", "오늘의운세"},
+		normalizeKeys:   []string{"fortune.show"},
+		category:        "정보",
+		helpVisible:     true,
+	}),
 	newDescriptor("calc", "계산기", "수식 계산", descriptorOptions{
 		normalizeKeys: []string{"calc.eval"},
 		fallbackScope: FallbackScopeDeterministic,

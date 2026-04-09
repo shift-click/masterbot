@@ -322,6 +322,7 @@ func TestAssembleBootstrapRuntimeAndFeatureModules(t *testing.T) {
 	cfg := config.Default()
 	cfg.Iris.Enabled = false
 	cfg.Coupang.DBPath = filepath.Join(t.TempDir(), "coupang.db")
+	cfg.Lotto.DBPath = filepath.Join(t.TempDir(), "lotto.db")
 	cfg.Access.RuntimeDBPath = filepath.Join(t.TempDir(), "access.db")
 	cfg.Access.BootstrapAdminRoomChatID = "100"
 	cfg.Access.BootstrapAdminUserID = "200"
@@ -373,6 +374,7 @@ func TestBuildWithNilLoggerInitializesApplication(t *testing.T) {
 	cfg.Admin.Enabled = false
 	cfg.Admin.MetricsEnabled = false
 	cfg.Coupang.DBPath = filepath.Join(t.TempDir(), "coupang.db")
+	cfg.Lotto.DBPath = filepath.Join(t.TempDir(), "lotto.db")
 	cfg.Access.RuntimeDBPath = filepath.Join(t.TempDir(), "access.db")
 	cfg.Access.BootstrapAdminRoomChatID = "100"
 	cfg.Access.BootstrapAdminUserID = "200"

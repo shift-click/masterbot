@@ -22,6 +22,7 @@ type Config struct {
 	Store    StoreConfig
 	Stock    StockConfig
 	Coupang  CoupangConfig
+	Lotto    LottoConfig
 	Sports   SportsConfig
 	Weather  WeatherConfig
 	AutoQuery AutoQueryConfig
@@ -39,6 +40,7 @@ type rawConfig struct {
 	Store    rawStoreConfig    `koanf:"store"`
 	Stock    rawStockConfig    `koanf:"stock"`
 	Coupang  rawCoupangConfig  `koanf:"coupang"`
+	Lotto    rawLottoConfig    `koanf:"lotto"`
 	Sports   rawSportsConfig   `koanf:"sports"`
 	Weather  rawWeatherConfig  `koanf:"weather"`
 	AutoQuery rawAutoQueryConfig `koanf:"auto_query"`
@@ -57,6 +59,7 @@ func Default() Config {
 		Store:    defaultStoreConfig(),
 		Stock:    defaultStockConfig(),
 		Coupang:  defaultCoupangConfig(),
+		Lotto:    defaultLottoConfig(),
 		Sports:   defaultSportsConfig(),
 		Weather:  defaultWeatherConfig(),
 		AutoQuery: defaultAutoQueryConfig(),
@@ -109,6 +112,7 @@ func (c Config) Validate() error {
 	c.Store.validate(&problems)
 	c.Stock.validate(&problems)
 	c.Coupang.validate(&problems)
+	c.Lotto.validate(&problems)
 	c.Sports.validate(&problems)
 	c.Weather.validate(&problems)
 	c.AutoQuery.validate(&problems)
@@ -147,6 +151,7 @@ func defaultRawConfig() rawConfig {
 		Store:    defaultRawStoreConfig(),
 		Stock:    defaultRawStockConfig(),
 		Coupang:  defaultRawCoupangConfig(),
+		Lotto:    defaultRawLottoConfig(),
 		Sports:   defaultRawSportsConfig(),
 		Weather:  defaultRawWeatherConfig(),
 		AutoQuery: defaultRawAutoQueryConfig(),
@@ -183,6 +188,10 @@ func (r rawConfig) materialize() (Config, error) {
 		return Config{}, err
 	}
 	coupangCfg, err := r.Coupang.materialize()
+	if err != nil {
+		return Config{}, err
+	}
+	lottoCfg, err := r.Lotto.materialize()
 	if err != nil {
 		return Config{}, err
 	}
@@ -223,6 +232,7 @@ func (r rawConfig) materialize() (Config, error) {
 		Store:    storeCfg,
 		Stock:    stockCfg,
 		Coupang:  coupangCfg,
+		Lotto:    lottoCfg,
 		Sports:   sportsCfg,
 		Weather:  weatherCfg,
 		AutoQuery: autoQueryCfg,

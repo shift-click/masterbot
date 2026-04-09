@@ -19,6 +19,8 @@ func testHelpCatalog(t *testing.T) *intent.Catalog {
 		{ID: "stock", Name: "주식", SlashAliases: []string{"ㅈ", "stock"}, Description: "주식 시세 조회", Example: "삼전, 005930", Category: "시세", HelpVisible: true},
 		{ID: "football", Name: "축구", SlashAliases: []string{"축구"}, Description: "축구 경기 일정/스코어", Example: "EPL, K리그", Category: "스포츠", HelpVisible: true},
 		{ID: "news", Name: "뉴스", SlashAliases: []string{"news"}, Description: "실시간 인기뉴스 Top5", Example: "/뉴스", Category: "정보", HelpVisible: true},
+		{ID: "fortune", Name: "운세", Description: "오늘의 운세 조회", Category: "정보", HelpVisible: true},
+		{ID: "lotto", Name: "로또", SlashAliases: []string{"lotto"}, Description: "최신 당첨번호와 내 번호 조회", Example: "로또 추천", Category: "로또", HelpVisible: true},
 		{ID: "admin", Name: "관리", SlashAliases: []string{"admin"}, Description: "운영 관리", Example: "관리 방 목록", Category: "관리", HelpVisible: true},
 		{ID: "ai", Name: "AI", SlashAliases: []string{"ai"}, Description: "AI 대화"},
 	})
@@ -73,13 +75,14 @@ func TestHelpListGroupsByCategory(t *testing.T) {
 	idxMarket := strings.Index(text, "💰 시세")
 	idxSports := strings.Index(text, "⚽ 스포츠")
 	idxInfo := strings.Index(text, "📰 정보")
+	idxLotto := strings.Index(text, "🎱 로또")
 	idxAdmin := strings.Index(text, "⚙️ 관리")
 
-	if idxMarket < 0 || idxSports < 0 || idxInfo < 0 || idxAdmin < 0 {
+	if idxMarket < 0 || idxSports < 0 || idxInfo < 0 || idxLotto < 0 || idxAdmin < 0 {
 		t.Fatalf("missing category headers in:\n%s", text)
 	}
-	if !(idxMarket < idxSports && idxSports < idxInfo && idxInfo < idxAdmin) {
-		t.Fatalf("category order wrong: market=%d sports=%d info=%d admin=%d", idxMarket, idxSports, idxInfo, idxAdmin)
+	if !(idxMarket < idxSports && idxSports < idxInfo && idxInfo < idxLotto && idxLotto < idxAdmin) {
+		t.Fatalf("category order wrong: market=%d sports=%d info=%d lotto=%d admin=%d", idxMarket, idxSports, idxInfo, idxLotto, idxAdmin)
 	}
 }
 
@@ -129,6 +132,47 @@ func TestHelpListShowsFooterTip(t *testing.T) {
 
 	if !strings.Contains(reply.Text, "💡 도움 <기능명>") {
 		t.Fatalf("footer tip missing:\n%s", reply.Text)
+	}
+}
+
+func TestHelpListShowsLottoBlockWhenVisible(t *testing.T) {
+	t.Parallel()
+
+	catalog, err := intent.NewCatalog([]intent.Entry{
+		{ID: "help", Name: "도움", SlashAliases: []string{"help"}},
+		{ID: "lotto", Name: "로또", SlashAliases: []string{"lotto"}, Description: "최신 당첨번호와 내 번호 조회", Category: "로또", HelpVisible: true},
+	})
+	if err != nil {
+		t.Fatalf("new catalog: %v", err)
+	}
+
+	handler := NewHelpHandler(testVisibleEntries(catalog), catalog.Resolve)
+	reply := executeHelp(t, handler, nil)
+
+	for _, want := range []string{
+		"🎱 로또",
+		"최신 당첨번호: 로또",
+		"랜덤 번호 등록: 로또 추천",
+		"내 번호 조회: !로또",
+	} {
+		if !strings.Contains(reply.Text, want) {
+			t.Fatalf("expected %q in help text:\n%s", want, reply.Text)
+		}
+	}
+}
+
+func TestHelpListShowsFortuneInInfoCategory(t *testing.T) {
+	t.Parallel()
+
+	catalog := testHelpCatalog(t)
+	handler := NewHelpHandler(testVisibleEntries(catalog), catalog.Resolve)
+	reply := executeHelp(t, handler, nil)
+
+	if !strings.Contains(reply.Text, "운세") {
+		t.Fatalf("fortune row missing:\n%s", reply.Text)
+	}
+	if !strings.Contains(reply.Text, "오늘의 운세 조회") {
+		t.Fatalf("fortune description missing:\n%s", reply.Text)
 	}
 }
 
